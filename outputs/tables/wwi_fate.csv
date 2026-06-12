@@ -1,0 +1,77 @@
+house,origin,group,wwi_fate,confidence
+London County & Westminster Bank,British,British: clearing / joint-stock bank,—,medium
+Lloyds Bank,British,British: clearing / joint-stock bank,—,high
+National Provincial Bank,British,British: clearing / joint-stock bank,—,high
+Parr's Bank,British,British: clearing / joint-stock bank,—,medium
+Union of London & Smiths Bank,British,British: clearing / joint-stock bank,—,medium
+Barclay & Co,British (Quaker),British: clearing / joint-stock bank,—,high
+Royal Bank of Scotland,British (Scottish),British: clearing / joint-stock bank,—,high
+Union Bank of Scotland,British (Scottish),British: clearing / joint-stock bank,—,medium
+National Bank of Scotland,British (Scottish),British: clearing / joint-stock bank,—,medium
+Capital & Counties Bank,British,British: clearing / joint-stock bank,—,medium
+London Joint Stock Bank,British,British: clearing / joint-stock bank,—,medium
+London & South Western Bank,British,British: clearing / joint-stock bank,—,medium
+Manchester & Liverpool District Bank,British,British: clearing / joint-stock bank,—,low
+Union Discount Co. of London,British,British: discount house,Survived,high
+National Discount Co.,British,British: discount house,Survived,high
+Alexanders & Co (discount),British (Quaker),British: discount house,Survived,medium
+"Smith, St Aubyn & Co",British,British: discount house,—,medium
+Gillett Brothers,British (Quaker),British: discount house,—,low
+"Allen, Harvey & Ross",British,British: discount house,—,medium
+White & Shaxson,British,British: discount house,—,medium
+Cater & Co,British,British: discount house,—,medium
+Ryder & Co,British,British: discount house,—,low
+Baring Brothers & Co,"German-origin, naturalised Anglo establishment",British: private / merchant (native),Established Anglo house,high
+"Glyn, Mills, Currie & Co",British,British: private / merchant (native),Survived,high
+"Robarts, Lubbock & Co",British,British: private / merchant (native),—,medium
+Cunliffe Brothers,British,British: private / merchant (native),merged into Goschen & Cunliffe 1920,medium
+Wallace Brothers & Co,British (Anglo-Burmese),British: private / merchant (native),—,low
+"Daniell, Cazenove & Co","British (Huguenot-descended, Anglo)",British: private / merchant (native),—,low
+Brightwen & Co,British,British: private / merchant (native),—,low
+"Reeves, Whitburn & Co",British,British: private / merchant (native),—,low
+"Baker, Duncombe & Co",British,British: private / merchant (native),—,low
+"Chartered Bank of India, Australia & China",British colonial,Colonial / Imperial bank,Survived (Standard Chartered),high
+Hongkong & Shanghai Banking Corp.,British colonial (China),Colonial / Imperial bank,Survived (HSBC),high
+National Bank of India,British colonial (India),Colonial / Imperial bank,Survived,high
+Mercantile Bank of India,British colonial (India),Colonial / Imperial bank,Survived,medium
+London & River Plate Bank,British colonial (S. America),Colonial / Imperial bank,—,medium
+Anglo South American Bank,British colonial (S. America),Colonial / Imperial bank,—,medium
+London & Brazilian Bank,British colonial (Brazil),Colonial / Imperial bank,—,medium
+British Bank of South America,British colonial (S. America),Colonial / Imperial bank,—,low
+Standard Bank of South Africa,British colonial (Africa),Colonial / Imperial bank,Survived (Standard Bank),medium
+Bank of Africa,British colonial (Africa),Colonial / Imperial bank,—,low
+Eastern Bank,British colonial (East),Colonial / Imperial bank,—,low
+Canadian Bank of Commerce,British colonial (Canada),Colonial / Imperial bank,Survived (CIBC),medium
+Bank of Montreal,British colonial (Canada),Colonial / Imperial bank,Survived,medium
+Union Bank of Australia,British colonial (Australia),Colonial / Imperial bank,Survived (ANZ),medium
+Deutsche Bank (London),German,Foreign bank (1914 wartime),London branch sequestered & sold 1914-16 (Public Trustee),high
+Dresdner Bank (London),German,Foreign bank (1914 wartime),London branch sequestered & sold 1914-16,high
+London Hanseatic Bank,German,Foreign bank (1914 wartime),enemy-linked; wound down,medium
+Comptoir National d'Escompte de Paris,French,Foreign bank (1914 wartime),Allied,high
+Banque Belge,Belgian,Foreign bank (1914 wartime),Allied,medium
+Swiss Bankverein,Swiss,Foreign bank (1914 wartime),neutral,medium
+Credito Italiano,Italian,Foreign bank (1914 wartime),Allied,medium
+Banca Commerciale Italiana,Italian,Foreign bank (1914 wartime),Allied,medium
+Imperial Ottoman Bank,Anglo-French / Ottoman,Foreign bank (1914 wartime),enemy state but Anglo-French owned — complex,medium
+Yokohama Specie Bank,Japanese,Foreign bank (1914 wartime),Allied,medium
+"Brown, Shipley & Co",Anglo-American (Baltimore/Liverpool),Émigré: American,Survived,high
+Guaranty Trust Co of New York,American,Émigré: American,Allied war finance,medium
+International Banking Corporation,American,Émigré: American,—,medium
+J. Henry Schröder & Co,German (Hamburg),Émigré: German & Central European,Senior partner Baron Bruno Schröder naturalised within days of war (Aug 1914); firm survived as Schroders,high
+Frederick Huth & Co,German (Stade/Hanover),Émigré: German & Central European,Survived WWI but long declined; wound up 1936,high
+"Kleinwort, Sons & Co",German (Holstein),Émigré: German & Central European,"Partners naturalised; survived, later Kleinwort Benson",high
+C. J. Hambro & Son,Danish (Copenhagen),Émigré: German & Central European,Denmark neutral — escaped enemy-alien treatment; survived as Hambros Bank,high
+N. M. Rothschild & Sons,German-Jewish (Frankfurt),Émigré: German & Central European,Long-naturalised British branch; unaffected as enemy alien,high
+Frühling & Goschen,German (Leipzig),Émigré: German & Central European,German-named firm wound down amid anti-German pressure; merged into Goschen & Cunliffe 1920,high
+Stern Brothers,German-Jewish (Frankfurt),Émigré: German & Central European,Survived,medium
+William Brandt's Sons & Co,German (Hamburg/Archangel),Émigré: German & Central European,Russia-trade house; strained by war and 1917; survived diminished,medium
+Lütgens & Ripley,German (Hamburg),Émigré: German & Central European,—,low
+Haarbleicher & Schumann,German (Hamburg),Émigré: German & Central European,—,low
+König Brothers,German,Émigré: German & Central European,—,low
+B. W. Blydenstein & Co,Dutch (Twente),Émigré: German & Central European,Netherlands neutral; survived,medium
+"Heilbut, Symons & Co",German,Émigré: German & Central European,—,low
+Samuel Montagu & Co,Anglo-Jewish (German-Jewish descent),Émigré: German & Central European,Naturalised Anglo-Jewish; survived,medium
+A. Ruffer & Sons,French/German (Alsace),Émigré: German & Central European,French-aligned; strained,low
+Ralli Brothers,Greek (Chios),Émigré: Greek & Levantine,Greek; unaffected by enemy-alien rules; survived,high
+R. Raphael & Sons,Sephardi-Jewish (Dutch/Portuguese),Émigré: Greek & Levantine,Long-established Anglo-Jewish; survived,medium
+King & Foa,Sephardi-Jewish / Anglo (Foa family),Émigré: Greek & Levantine,—,low

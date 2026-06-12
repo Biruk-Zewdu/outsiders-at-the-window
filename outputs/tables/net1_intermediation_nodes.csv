@@ -1,0 +1,151 @@
+node,role,kind,value_in,value_out,betweenness,degree
+Bank of England,apex,apex,9176810.0,0.0,0.0,29
+Credit Lyonnais,beneficiary,overseas bank/firm,0.0,5317429.3,0.0,2
+Bradford District Bank Ld,beneficiary,domestic/provincial bank,0.0,851760.5,0.0,1
+Russian Bk,beneficiary,overseas bank/firm,0.0,472861.55,0.0,1
+Warms & Co,beneficiary,overseas bank/firm,0.0,265727.35,0.0,1
+Soc Genle,beneficiary,overseas bank/firm,0.0,221601.75,0.0,1
+Besslet Waechler & Co,beneficiary,overseas bank/firm,0.0,181517.44999999998,0.0,1
+Natl Bk of Egypt,beneficiary,overseas bank/firm,0.0,156217.05,0.0,2
+Lothbury,beneficiary,London branch/place,0.0,145856.34999999998,0.0,2
+Chartered Bk of SC,beneficiary,domestic/provincial bank,0.0,128873.2,0.0,1
+Grace Bros Co Ltd,beneficiary,firm / other,0.0,85335.65,0.0,2
+Ste Gee de Credit Indue,beneficiary,overseas bank/firm,0.0,81406.45,0.0,1
+Sheffield Banking Co Ltd,beneficiary,domestic/provincial bank,0.0,71730.7,0.0,1
+Nitrate Rys Co Ld,beneficiary,overseas bank/firm,0.0,70202.15,0.0,1
+Southwark,beneficiary,London branch/place,0.0,64867.9,0.0,2
+B.A.G.S. Rly,beneficiary,overseas bank/firm,0.0,57950.0,0.0,1
+Rusec Asiatic Bk,beneficiary,overseas bank/firm,0.0,54158.549999999996,0.0,1
+Fenchurch St,beneficiary,London branch/place,0.0,49319.25,0.0,2
+African Bkg,beneficiary,overseas bank/firm,0.0,45755.799999999996,0.0,1
+Banco De Chilie,beneficiary,overseas bank/firm,0.0,44507.5,0.0,1
+E.Erlanger & Co,beneficiary,overseas bank/firm,0.0,37068.049999999996,0.0,1
+Beasler Waechter,beneficiary,firm / other,0.0,34832.7,0.0,1
+Leadenhall St,beneficiary,firm / other,0.0,33777.25,0.0,1
+Jaltal Ry Co,beneficiary,firm / other,0.0,31996.95,0.0,1
+Provincial Bk of Ireland,beneficiary,domestic/provincial bank,0.0,28003.149999999998,0.0,1
+Millers Timber & Fradg Co,beneficiary,firm / other,0.0,27745.699999999997,0.0,1
+Mumster & Leinster Bk,beneficiary,domestic/provincial bank,0.0,26269.399999999998,0.0,1
+Geo Wills Sons,beneficiary,firm / other,0.0,23750.0,0.0,1
+K.K. Priv Laenderk,beneficiary,firm / other,0.0,23705.35,0.0,2
+Old Broad St,beneficiary,firm / other,0.0,23490.649999999998,0.0,1
+E.A.Joseph,beneficiary,firm / other,0.0,22069.449999999997,0.0,2
+Yeoville & Sons Ld,beneficiary,firm / other,0.0,19544.35,0.0,1
+Bk of Taiwan Ld,beneficiary,domestic/provincial bank,0.0,18655.149999999998,0.0,1
+Reuters Bk Ld,beneficiary,domestic/provincial bank,0.0,16871.05,0.0,1
+K.K.Landerbk,beneficiary,domestic/provincial bank,0.0,15920.099999999999,0.0,1
+Antofagasta Bolivia Ry Co Ltd,beneficiary,firm / other,0.0,14667.05,0.0,1
+EB.Meyer,beneficiary,firm / other,0.0,14376.349999999999,0.0,1
+Awmarin Co  /   M.Samual Co,beneficiary,firm / other,0.0,14250.0,0.0,1
+Indian Manganese Co Ltd,beneficiary,firm / other,0.0,13592.599999999999,0.0,1
+Beckerage & Co Ltd,beneficiary,firm / other,0.0,13434.9,0.0,1
+John Batt & Co,beneficiary,firm / other,0.0,12619.8,0.0,1
+Sanders Rehders Co Ld,beneficiary,firm / other,0.0,12549.5,0.0,1
+Brinkmann & Co,beneficiary,firm / other,0.0,12419.349999999999,0.0,1
+Cotesworth & Powell,beneficiary,firm / other,0.0,11185.3,0.0,1
+C.David Co,beneficiary,firm / other,0.0,10450.0,0.0,1
+de Pury Gautichi & Co,beneficiary,firm / other,0.0,10209.65,0.0,1
+Credit Mobilei Francs,beneficiary,firm / other,0.0,10162.15,0.0,1
+Credit Mohler Frans,beneficiary,firm / other,0.0,10162.15,0.0,1
+W&J Biggerstaff,beneficiary,firm / other,0.0,10152.65,0.0,1
+L.M Fishchel & Co,beneficiary,firm / other,0.0,10098.5,0.0,1
+Wm Le Lacheut & Sons,beneficiary,firm / other,0.0,9910.4,0.0,1
+H.S.Lefevre & Co,beneficiary,firm / other,0.0,9769.8,0.0,1
+Dalgety Co Ld,beneficiary,firm / other,0.0,9715.65,0.0,1
+M Samuel & Co,beneficiary,firm / other,0.0,9622.55,0.0,1
+Cory Bros & Co Ld,beneficiary,firm / other,0.0,9550.35,0.0,1
+Rosing Bros Co,beneficiary,firm / other,0.0,9025.949999999999,0.0,1
+John Moare Co,beneficiary,firm / other,0.0,8739.05,0.0,1
+Clyde Shipping Co Ltd,beneficiary,firm / other,0.0,8669.699999999999,0.0,1
+A.Bronnin Co,beneficiary,firm / other,0.0,8389.449999999999,0.0,1
+Bk of Romania,beneficiary,overseas bank/firm,0.0,8235.55,0.0,1
+F.Stern & Co,beneficiary,firm / other,0.0,8023.7,0.0,1
+Bank of North Queensland Ltd,beneficiary,domestic/provincial bank,0.0,7982.849999999999,0.0,1
+Brandies Goldschmidt Co,beneficiary,firm / other,0.0,7922.049999999999,0.0,1
+Browning & Co,beneficiary,firm / other,0.0,7680.749999999999,0.0,1
+Becker Co Ld,beneficiary,firm / other,0.0,7399.55,0.0,1
+Guinness Mahon Co,beneficiary,firm / other,0.0,7339.7,0.0,1
+Wm Symington & Co Ld,beneficiary,firm / other,0.0,6804.85,0.0,1
+Perice Lealie & Co,beneficiary,firm / other,0.0,6408.7,0.0,1
+La Guaira Harbour Corfu,beneficiary,firm / other,0.0,5711.4,0.0,1
+Natl Park Bk Ny,beneficiary,domestic/provincial bank,0.0,5047.349999999999,0.0,2
+A.W.Martin,beneficiary,firm / other,0.0,4831.7,0.0,1
+Wright Graham & Co,beneficiary,firm / other,0.0,4664.5,0.0,1
+N W Uruguay Ry Co Ld,beneficiary,firm / other,0.0,4450.75,0.0,1
+Wood St,beneficiary,firm / other,0.0,4313.0,0.0,1
+B.Westman,beneficiary,firm / other,0.0,3451.35,0.0,1
+Sainfeld Colle & Co Ld,beneficiary,firm / other,0.0,3438.0499999999997,0.0,1
+De Clermont & Dounet,beneficiary,firm / other,0.0,3122.6499999999996,0.0,2
+Cim Thurn & Sons,beneficiary,firm / other,0.0,3121.7,0.0,1
+S.Figgio & Co,beneficiary,firm / other,0.0,3114.1,0.0,1
+Vague & Samuel,beneficiary,firm / other,0.0,3052.35,0.0,1
+F.M.Philippean Co,beneficiary,firm / other,0.0,3043.7999999999997,0.0,1
+Morton Ld,beneficiary,firm / other,0.0,2833.85,0.0,2
+WF Malcolm Co,beneficiary,firm / other,0.0,2830.0499999999997,0.0,1
+Barbican,beneficiary,firm / other,0.0,2717.95,0.0,1
+Fiehet King Co,beneficiary,firm / other,0.0,2427.25,0.0,1
+Bolton S/S Co Ld,beneficiary,firm / other,0.0,2370.25,0.0,1
+British Aluminium Co Ltd,beneficiary,firm / other,0.0,2366.45,0.0,1
+H.J.Enthoven & Sons Ltd,beneficiary,firm / other,0.0,2287.6,0.0,1
+Schloesse Barker Co Ltd,beneficiary,firm / other,0.0,2270.5,0.0,1
+Finchley,beneficiary,firm / other,0.0,2108.0499999999997,0.0,1
+Cannon St,beneficiary,firm / other,0.0,2101.4,0.0,1
+Natl Bk of Turkey,beneficiary,domestic/provincial bank,0.0,1889.55,0.0,1
+G.D Seeson & Co,beneficiary,firm / other,0.0,1778.3999999999999,0.0,1
+R.Rofner & Co,beneficiary,firm / other,0.0,1705.25,0.0,1
+Westminister,beneficiary,firm / other,0.0,1622.6,0.0,1
+Northumbrian Shipping Corp Ltd,beneficiary,firm / other,0.0,1303.3999999999999,0.0,1
+Thompson Bros,beneficiary,firm / other,0.0,1223.6,0.0,1
+Regent St,beneficiary,firm / other,0.0,1152.35,0.0,1
+Rowe White Co Ld,beneficiary,firm / other,0.0,989.9,0.0,1
+Glover Bros,beneficiary,firm / other,0.0,953.8,0.0,1
+Knowles Foster,beneficiary,firm / other,0.0,859.75,0.0,1
+Geo Anderson & Co Ltd,beneficiary,firm / other,0.0,814.15,0.0,1
+S.Davids Sons & Co,beneficiary,firm / other,0.0,712.5,0.0,1
+H.S.King & Co,beneficiary,firm / other,0.0,629.85,0.0,1
+Kuhn Co,beneficiary,firm / other,0.0,583.3,0.0,1
+Schneider Co,beneficiary,firm / other,0.0,551.9499999999999,0.0,1
+G.E Timber Co Ld,beneficiary,firm / other,0.0,371.45,0.0,1
+N.E. Salt Co,beneficiary,firm / other,0.0,350.55,0.0,1
+Fincham Co,beneficiary,firm / other,0.0,193.79999999999998,0.0,1
+C.J.Sasson & Co,beneficiary,firm / other,0.0,190.0,0.0,1
+Carrer Pass & Son Ld,beneficiary,firm / other,0.0,165.29999999999998,0.0,1
+H.J.Peatson Co,beneficiary,firm / other,0.0,158.65,0.0,1
+Harison,beneficiary,firm / other,0.0,144.4,0.0,1
+DW Bell & Co,beneficiary,firm / other,0.0,132.04999999999998,0.0,1
+Taylor Bros,beneficiary,firm / other,0.0,119.69999999999999,0.0,1
+W.C.Brumlen,beneficiary,firm / other,0.0,96.89999999999999,0.0,1
+Sydney Hudson Ltd,beneficiary,firm / other,0.0,59.849999999999994,0.0,1
+Averlock Franklin,beneficiary,firm / other,0.0,50.349999999999994,0.0,1
+Auerbach Franklin,beneficiary,firm / other,0.0,32.3,0.0,2
+H.L.Bolton & Co,beneficiary,firm / other,0.0,0.0,0.0,1
+Maesey Hattis Ld,beneficiary,firm / other,0.0,0.0,0.0,1
+"Glyn, Mills, Currie & Co",presenter,London house,6343603.149999999,6343603.149999999,0.0004,12
+Union of London & Smiths Bank,presenter,London house,1056502.6,1056502.5999999999,0.0004,9
+Capital & Counties Bank,presenter,London house,381712.85,381712.85,0.0003,8
+London County & Westminster Bank,presenter,London house,312871.1,312871.1,0.0006,20
+James Burness & Sons,presenter,London house,265727.35,265727.35,0.0,2
+London Joint Stock Bank,presenter,London house,260201.19999999998,260201.19999999998,0.0007,18
+Barclay & Co,presenter,London house,115854.4,115854.4,0.0005,13
+London & South Western Bank,presenter,London house,83104.09999999999,83104.09999999999,0.0003,8
+"Robarts, Lubbock & Co",presenter,London house,81140.45,81140.45,0.0,3
+Lloyds Bank,presenter,London house,55679.49999999999,55679.5,0.0004,9
+Samuel Montagu & Co,presenter,London house,54158.549999999996,54158.549999999996,0.0,2
+National Provincial Bank,presenter,London house,41474.15,41474.15,0.0005,12
+Williams Deacon'S Bank Ltd,presenter,London house,22517.85,22517.85,0.0001,3
+Parr's Bank,presenter,London house,20955.1,20955.1,0.0003,7
+Hohler & Co,presenter,London house,17447.7,17447.7,0.0,2
+Bank Of Scotland,presenter,London house,11017.15,11017.15,0.0002,5
+Clydesdale Bank Ltd,presenter,London house,8669.699999999999,8669.699999999999,0.0,2
+Imperial Ottoman Bank,presenter,London house,8235.55,8235.55,0.0,2
+Lon Lpool Bk Of Comce,presenter,London house,7922.049999999999,7922.049999999999,0.0,2
+Martin'S Bank Ltd,presenter,London house,7639.9,7639.9,0.0001,3
+Coutts & Co,presenter,London house,7247.549999999999,7247.549999999999,0.0,2
+Commercial Bank Of Scotland Ltd,presenter,London house,5711.4,5711.4,0.0001,3
+Britsh Linen Bank,presenter,London house,4664.5,4664.5,0.0,2
+National Bk Ld,presenter,London house,989.9,989.9,0.0,2
+Charles Hoare Co,presenter,London house,814.15,814.15,0.0,2
+Banca De Espana,presenter,London house,399.95,399.95,0.0,2
+Lon Provincial Bk,presenter,London house,371.45,371.45,0.0,2
+Child & Co,presenter,London house,144.4,144.4,0.0,2
+L.Boy.W.Bk Bk Chas Comiys Co,presenter,London house,32.3,32.3,0.0,2

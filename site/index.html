@@ -1,0 +1,1086 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Outsiders at the Window · A data history of the cosmopolitan City, 1857–1914</title>
+<meta name="description" content="The City of London's émigré banking houses were insiders at the Bank of England's crisis window — until 1914 made them foreign. A visual companion to the paper.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..900;1,9..144,300..900&family=Newsreader:ital,opsz,wght@0,6..72,300..700;1,6..72,300..700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+<style>
+:root{
+  --ink:#191713; --paper:#ffffff; --grey:#6e6c66; --faint:#a7a49c;
+  --rule:#dddbd5; --rule-dark:#191713;
+  --red:#bc2f1a; --red-soft:#fbeae6;
+  --coal:#141311; --coal-text:#d9d6cf; --coal-grey:#8f8d86; --coal-rule:#33312c;
+  --red-bright:#ff5c3d;
+  --disp:"Fraunces",Georgia,serif;
+  --body:"Newsreader",Georgia,serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{background:var(--paper);color:var(--ink);font-family:var(--body);
+  font-size:18.5px;line-height:1.62;font-weight:400;
+  text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px}
+a:hover{color:var(--red)}
+::selection{background:var(--red);color:#fff}
+
+/* progress */
+#progress{position:fixed;top:0;left:0;height:2px;background:var(--red);width:0;z-index:99}
+
+/* masthead nav — ink bar */
+nav{position:sticky;top:0;z-index:50;background:var(--ink)}
+nav .inner{max-width:1140px;margin:0 auto;padding:0 24px;display:flex;align-items:center;gap:26px;
+  height:48px;overflow-x:auto;white-space:nowrap;scrollbar-width:none}
+nav .inner::-webkit-scrollbar{display:none}
+nav .brand{font-family:var(--mono);font-size:11px;letter-spacing:.2em;text-transform:uppercase;
+  font-weight:500;color:#fff;margin-right:auto}
+nav .brand .x{color:var(--red-bright)}
+nav a.lnk{font-family:var(--mono);font-size:10.5px;letter-spacing:.08em;color:#76736b;
+  text-decoration:none;height:48px;display:inline-flex;align-items:center;
+  border-bottom:2px solid transparent;border-top:2px solid transparent}
+nav a.lnk:hover{color:#fff}
+nav a.lnk.active{color:#fff;border-bottom-color:var(--red-bright)}
+
+.wrap{max-width:1140px;margin:0 auto;padding:0 24px}
+.col{max-width:700px}
+.wide{max-width:980px}
+
+/* hero */
+header{padding:84px 0 0}
+.mast-rule{border-top:2px solid var(--ink);border-bottom:1px solid var(--ink);height:6px;margin-bottom:40px}
+.overline{font-family:var(--mono);font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:var(--grey)}
+.overline b{color:var(--red);font-weight:500}
+h1{font-family:var(--disp);font-optical-sizing:auto;
+  font-size:clamp(2.6rem,6.4vw,4.6rem);line-height:1.02;font-weight:560;
+  letter-spacing:-.015em;margin:22px 0 26px;max-width:960px}
+h1 em{font-style:italic;font-weight:430;color:var(--red)}
+.standfirst{font-size:clamp(1.15rem,2vw,1.4rem);line-height:1.5;font-style:italic;
+  color:#3e3c37;max-width:760px;font-weight:380}
+.byline{font-family:var(--mono);font-size:11.5px;letter-spacing:.04em;color:var(--grey);margin-top:30px}
+.byline a{color:var(--ink)}
+.specimen{display:grid;grid-template-columns:repeat(4,1fr);margin:46px 0 0;border-top:1px solid var(--rule-dark)}
+.specimen div{padding:18px 22px 22px 0;border-bottom:1px solid var(--rule)}
+.specimen div:not(:first-child){padding-left:22px;border-left:1px solid var(--rule)}
+@media(max-width:880px){.specimen{grid-template-columns:1fr 1fr}
+  .specimen div:nth-child(3){border-left:none;padding-left:0}}
+@media(max-width:440px){.specimen{grid-template-columns:1fr}
+  .specimen div{border-left:none !important;padding-left:0 !important}}
+.specimen b{font-family:var(--disp);font-size:2.3rem;font-weight:500;display:block;line-height:1}
+.specimen span{font-family:var(--mono);font-size:10.5px;letter-spacing:.06em;color:var(--grey);
+  text-transform:uppercase;display:block;margin-top:8px;line-height:1.5}
+
+/* sections */
+section{padding:84px 0 72px}
+.chap{display:flex;align-items:baseline;gap:18px;border-top:2px solid var(--ink);padding-top:14px;margin-bottom:40px}
+.chap .no{font-family:var(--mono);font-size:12px;letter-spacing:.16em;color:var(--red);font-weight:500}
+.chap h2{font-family:var(--disp);font-size:clamp(1.7rem,3vw,2.3rem);font-weight:560;letter-spacing:-.01em;line-height:1.1}
+h3{font-family:var(--disp);font-size:1.32rem;font-weight:600;margin:54px 0 14px;letter-spacing:-.005em}
+h3 .k{font-family:var(--mono);font-size:11px;color:var(--red);letter-spacing:.1em;font-weight:500;margin-right:10px;vertical-align:2px}
+p+p{margin-top:14px}
+.lead{font-size:1.16rem;line-height:1.55}
+.dropcap > p:first-of-type::first-letter{font-family:var(--disp);float:left;font-size:4.45rem;line-height:.8;
+  padding:8px 10px 0 0;font-weight:560;color:var(--red)}
+.muted{color:var(--grey)}
+.fn{font-family:var(--mono);font-size:11px;color:var(--faint);line-height:1.6;margin-top:10px;letter-spacing:.01em}
+.fn a{color:var(--grey)}
+
+/* author's aside */
+.aside{border-left:2px solid var(--red);padding:4px 0 4px 28px;margin:44px 0;max-width:680px}
+.aside .lab{font-family:var(--mono);font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--red);margin-bottom:10px}
+.aside p{font-size:1.02rem;line-height:1.62;color:#33312c}
+
+/* gazette artifact */
+.gazette{border:1px solid var(--ink);max-width:620px;margin:40px 0;padding:0}
+.gazette .head{font-family:var(--mono);font-size:10.5px;letter-spacing:.18em;text-transform:uppercase;
+  border-bottom:1px solid var(--ink);padding:10px 18px;display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap}
+.gazette .head span:last-child{color:var(--red)}
+.gazette .body{padding:20px 18px 22px;font-size:1.05rem;line-height:1.6}
+.gazette .body .name{font-variant:small-caps;letter-spacing:.02em;font-weight:600}
+.gazette .stamp{font-family:var(--mono);font-size:10.5px;color:var(--grey);border-top:1px solid var(--rule);
+  padding:10px 18px;letter-spacing:.06em}
+
+/* ruled entries (sources, methods, ai) */
+.entries{border-top:1px solid var(--ink)}
+.entry{display:grid;grid-template-columns:200px 1fr;gap:26px;padding:26px 0;border-bottom:1px solid var(--rule)}
+.entry .lab{font-family:var(--mono);font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--grey);line-height:1.8;padding-top:5px}
+.entry .lab b{display:block;color:var(--red);font-weight:500}
+.entry h4{font-family:var(--disp);font-size:1.22rem;font-weight:600;margin-bottom:8px}
+.entry p{font-size:1.0rem;line-height:1.6;color:#33312c;max-width:640px}
+@media(max-width:760px){.entry{grid-template-columns:1fr;gap:8px}}
+
+/* reliability — ghost numbers */
+.flaws{display:grid;grid-template-columns:1fr 1fr;border-top:1px solid var(--ink)}
+.flaw{position:relative;padding:30px 34px 34px 0;border-bottom:1px solid var(--rule)}
+.flaw:nth-child(odd){border-right:1px solid var(--rule);padding-right:40px}
+.flaw:nth-child(even){padding-left:40px;padding-right:0}
+.flaw .gn{font-family:var(--disp);font-size:4.4rem;line-height:1;font-weight:300;color:var(--rule);
+  display:block;margin-bottom:2px}
+.flaw h4{font-family:var(--disp);font-size:1.18rem;font-weight:600;margin:-34px 0 10px 64px}
+.flaw p{font-size:.98rem;color:#33312c;line-height:1.6}
+@media(max-width:760px){.flaws{grid-template-columns:1fr}.flaw{border-right:none !important;padding:26px 0 30px 0 !important}}
+
+/* charts */
+.plate{margin:40px 0 8px;border-top:1px solid var(--ink);padding-top:14px}
+.plate .pl-head{display:flex;justify-content:space-between;align-items:baseline;gap:16px;flex-wrap:wrap;margin-bottom:4px}
+.plate .pl-no{font-family:var(--mono);font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;color:var(--red)}
+.plate h4{font-family:var(--disp);font-size:1.22rem;font-weight:600}
+.plate .cap{font-family:var(--mono);font-size:11px;color:var(--grey);line-height:1.7;margin:6px 0 18px;max-width:640px}
+.cwrap{position:relative;height:340px}
+.cwrap.tall{height:420px}
+.cwrap.short{height:240px}
+.cwrap.tiny{height:130px}
+
+/* pull quote */
+.pull{padding:70px 0;text-align:left}
+.pull p{font-family:var(--disp);font-style:italic;font-weight:430;
+  font-size:clamp(1.7rem,3.6vw,2.6rem);line-height:1.25;letter-spacing:-.01em;max-width:880px}
+.pull p::before{content:"“";color:var(--red)}
+.pull p::after{content:"”";color:var(--red)}
+.pull .who{font-family:var(--mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--grey);margin-top:18px}
+
+/* tables — ledger style */
+.ledger{border-top:1px solid var(--ink);margin-top:26px}
+table{width:100%;border-collapse:collapse}
+th{font-family:var(--mono);font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--grey);
+  font-weight:500;text-align:left;padding:10px 14px 10px 0;border-bottom:1px solid var(--ink)}
+td{font-size:.98rem;padding:9px 14px 9px 0;border-bottom:1px solid var(--rule);vertical-align:top}
+td.num,th.num{text-align:right;font-family:var(--mono);font-size:.86rem;padding-right:0}
+tr.em td:first-child{color:var(--red)}
+tr.em td:first-child::before{content:"× ";font-family:var(--mono);font-size:.8rem}
+.tbl-scroll{max-height:480px;overflow:auto}
+.tbl-scroll th{position:sticky;top:0;background:var(--paper)}
+.tbl-note{font-family:var(--mono);font-size:10.5px;color:var(--faint);margin-top:12px;letter-spacing:.02em}
+.tbl-note i{font-style:normal;color:var(--red)}
+
+/* filters — text, not pills */
+.filters{font-family:var(--mono);font-size:11.5px;letter-spacing:.04em;margin:26px 0 0;color:var(--faint)}
+.filters button{font:inherit;background:none;border:none;cursor:pointer;color:var(--grey);
+  padding:0 2px 3px;border-bottom:1px solid transparent;letter-spacing:inherit}
+.filters button:hover{color:var(--ink)}
+.filters button.active{color:var(--red);border-bottom-color:var(--red)}
+.filters .sep{margin:0 8px;color:var(--rule)}
+input.search{font-family:var(--mono);font-size:12px;border:none;border-bottom:1px solid var(--ink);
+  background:transparent;padding:8px 2px;width:100%;max-width:320px;margin-top:18px;border-radius:0;color:var(--ink)}
+input.search:focus{outline:none;border-bottom-color:var(--red)}
+input.search::placeholder{color:var(--faint)}
+
+/* figures */
+figure.fg{margin:44px 0;cursor:zoom-in}
+figure.fg img{width:100%;display:block;border:1px solid var(--rule)}
+figure.fg figcaption{font-family:var(--mono);font-size:10.5px;color:var(--grey);line-height:1.7;margin-top:10px;
+  max-width:640px;letter-spacing:.02em}
+figure.fg figcaption::before{content:"fig. ";color:var(--red)}
+#lightbox{position:fixed;inset:0;background:rgba(15,14,12,.93);display:none;align-items:center;
+  justify-content:center;z-index:100;cursor:zoom-out;padding:30px}
+#lightbox.open{display:flex}
+#lightbox img{max-width:96%;max-height:92vh;background:#fff;padding:10px}
+
+/* split layout */
+.duo{display:grid;grid-template-columns:1fr 1fr;gap:48px;align-items:start}
+@media(max-width:860px){.duo{grid-template-columns:1fr}}
+
+/* ===== the dark act ===== */
+.act{background:var(--coal);color:var(--coal-text)}
+.act .chap{border-top-color:var(--red-bright)}
+.act .chap .no{color:var(--red-bright)}
+.act .chap h2{color:#f2efe8}
+.act h3{color:#f2efe8}
+.act h3 .k{color:var(--red-bright)}
+.act p{color:var(--coal-text)}
+.act .muted,.act .fn{color:var(--coal-grey)}
+.act .plate{border-top-color:var(--coal-rule)}
+.act .plate .pl-no{color:var(--red-bright)}
+.act .plate h4{color:#f2efe8}
+.act .plate .cap{color:var(--coal-grey)}
+.act .ledger{border-top-color:#5a574f}
+.act th{color:var(--coal-grey);border-bottom-color:#5a574f}
+.act td{border-bottom-color:var(--coal-rule);color:var(--coal-text)}
+.act tr.em td:first-child{color:var(--red-bright)}
+.act .tbl-scroll th{background:var(--coal)}
+.act .filters button{color:var(--coal-grey)}
+.act .filters button:hover{color:#fff}
+.act .filters button.active{color:var(--red-bright);border-bottom-color:var(--red-bright)}
+.act input.search{border-bottom-color:#5a574f;color:#f2efe8}
+.act figure.fg img{border-color:var(--coal-rule)}
+.act .pull p{color:#f2efe8}
+.act .pull p::before,.act .pull p::after{color:var(--red-bright)}
+.act .pull .who{color:var(--coal-grey)}
+.act a:hover{color:var(--red-bright)}
+
+/* word wall */
+.wall{margin:46px 0 10px;line-height:1.06;max-width:980px}
+.wall span{font-family:var(--disp);font-style:italic;display:inline-block;margin:0 26px 14px 0;
+  color:#76736b;font-weight:430;white-space:nowrap;
+  opacity:0;transform:translateY(18px);transition:opacity .6s ease,transform .6s ease}
+.wall.in span{opacity:1;transform:none}
+.wall span.hot{color:var(--red-bright)}
+.wall sup{font-family:var(--mono);font-style:normal;font-size:11px;color:var(--coal-grey);margin-left:6px}
+
+/* glossary */
+.gl-grid{columns:2;column-gap:54px;margin-top:34px;border-top:1px solid var(--ink);padding-top:30px}
+.gl{break-inside:avoid;margin-bottom:24px}
+.gl b{font-family:var(--disp);font-weight:600;font-size:1.04rem;display:block}
+.gl p{font-size:.94rem;color:#44423c;line-height:1.55;margin-top:3px}
+@media(max-width:760px){.gl-grid{columns:1}}
+
+/* references */
+.refs{border-top:1px solid var(--ink);margin-top:30px;padding-top:8px;max-width:860px}
+.refs li{list-style:none;font-size:.95rem;padding:13px 0;border-bottom:1px solid var(--rule);
+  padding-left:34px;text-indent:-34px;line-height:1.55}
+
+.cta{display:inline-block;font-family:var(--mono);font-size:12px;letter-spacing:.1em;text-transform:uppercase;
+  border:1px solid var(--ink);padding:13px 26px;text-decoration:none;margin-top:34px}
+.cta:hover{background:var(--ink);color:#fff}
+
+footer{border-top:2px solid var(--ink);margin-top:30px;padding:30px 0 70px}
+footer .colophon{font-family:var(--mono);font-size:10.5px;color:var(--grey);line-height:1.9;letter-spacing:.03em;max-width:720px}
+</style>
+</head>
+<body>
+
+<div id="progress"></div>
+
+<nav><div class="inner">
+  <span class="brand">Outsiders <span class="x">×</span> the Window</span>
+  <a class="lnk" href="#prologue">prologue</a>
+  <a class="lnk" href="#sources">sources</a>
+  <a class="lnk" href="#reliability">reliability</a>
+  <a class="lnk" href="#methods">methods</a>
+  <a class="lnk" href="#evidence">evidence</a>
+  <a class="lnk" href="#window1914">1914</a>
+  <a class="lnk" href="#reversal">reversal</a>
+  <a class="lnk" href="#glossary">appendix</a>
+</div></nav>
+
+<header><div class="wrap">
+  <div class="mast-rule"></div>
+  <div class="overline">A data history of the cosmopolitan City · <b>1857 — 1914</b> · HSS207/DHS211</div>
+  <h1>The Bank's ledgers called them customers.<br>Parliament called them <em>aliens.</em></h1>
+  <p class="standfirst">The foreign banking families of the City of London — Schröder, Huth, Kleinwort,
+    Ralli — are remembered as outsiders slowly let in. Three crisis ledgers of the Bank of England say
+    otherwise: they were already inside, until the First World War redrew the line around them.</p>
+  <div class="byline">Biruk Kassa · Student 20220775 · Introduction to Digital History · June 2026
+    &nbsp;—&nbsp; <a href="paper.pdf" target="_blank">read the paper (pdf) ↗</a></div>
+  <div class="specimen">
+    <div><b>3</b><span>crises with surviving ledgers — 1857 · 1866 · 1914</span></div>
+    <div><b>≈9,000</b><span>individual loans &amp; discounts recorded</span></div>
+    <div><b>45</b><span>émigré houses identified at the window</span></div>
+    <div><b>81%</b><span>of lent value assigned to a named house</span></div>
+  </div>
+</div></header>
+
+<section id="prologue"><div class="wrap">
+  <div class="chap"><span class="no">PROLOGUE</span><h2>Three days to stop being German</h2></div>
+  <div class="col dropcap">
+    <p class="lead">In the first days of August 1914, as Britain went to war with Germany, the banker Bruno
+      Schröder rushed to become a British subject. He ran J. Henry Schröder &amp; Co., one of the most
+      respected houses in the City, but he had never given up his German citizenship, and the law now treated
+      him as an enemy alien. Unless he naturalised, the government could seize his firm.</p>
+  </div>
+  <div class="gazette">
+    <div class="head"><span>The London Gazette · naturalisation</span><span>No. 28892 · p. 7033</span></div>
+    <div class="body"><span class="name">Schroder, Rudolf Bruno;</span> Germany; Banker; 35 Park Street, London.
+      Oath of allegiance — 7 August 1914, three days after the declaration of war.</div>
+    <div class="stamp">verified against the primary record · the firm survived (Roberts 1992)</div>
+  </div>
+  <div class="col">
+    <p>It is a strange story when you think about it: a man could run a central London bank for decades and
+      still become a suspect overnight. That is the puzzle this project starts from. Were the City's foreign
+      origin banking houses — the émigré houses — actually outsiders?</p>
+    <p>The answer comes from setting two records side by side. The Bank of England's crisis ledgers, read with
+      simple data and network methods, show integration. The wartime debates in Parliament, read with text
+      mining, show exclusion. The "outsider" status of these houses was never an economic fact. It was
+      political, and it came suddenly in 1914.</p>
+  </div>
+  <div class="aside">
+    <div class="lab">Why this topic</div>
+    <p>The Schröder story is what got me interested first, because it seemed strange that a banker could be
+      forced to swear an oath three days into a war just to keep his firm. It made me think about how a label
+      like foreign can change someone's life even when it says nothing about what they have actually done,
+      which is something people still argue about today. I also wanted a question I could test against real
+      records instead of just retelling what other books say, and the Bank's ledgers let me do that. The period
+      interested me too, since the years before 1914 were a very open time for international finance, and I
+      wanted to see how much that openness was really worth once the war put it under pressure.</p>
+  </div>
+</div></section>
+
+<section id="sources"><div class="wrap">
+  <div class="chap"><span class="no">I</span><h2>The sources</h2></div>
+  <p class="col lead">Two datasets stand behind the paper — one that already existed, one built by hand for
+    this project — and to read the results properly you need to tell them apart.</p>
+  <div class="entries" style="margin-top:38px">
+    <div class="entry">
+      <div class="lab">borrowed<b>primary source</b></div>
+      <div><h4>The Bank of England crisis ledgers</h4>
+        <p>The Bank's historical dataset on lending of last resort, released with a staff working paper
+        (Anson, Bholat, Kang &amp; Thomas 2017). The Bank's archivists found the handwritten crisis ledgers and
+        typed them into a clean dataset anyone can
+        <a href="https://www.bankofengland.co.uk/working-paper/2017/the-boe-as-lender-of-last-resort-new-historical-evidence-from-daily-transactional-data" target="_blank" rel="noopener">download for free</a>.
+        Each of its ≈9,000 rows is one loan or discount: the firm's name, the date, the amount, the rate, how
+        much of the bill was accepted and how much rejected — and, for 1914, whose account the bill really
+        served. These few columns are the raw material for every number on this page.</p></div>
+    </div>
+    <div class="entry">
+      <div class="lab">hand built<b>this project</b></div>
+      <div><h4>The origin register</h4>
+        <p>The ledgers give names, amounts and rates, but nothing about where a firm came from. That part was
+        added by hand: a biographical database with one row per house — its likely origin (German, Greek,
+        Parsi, American, native British…), its founder and founding year where they could be found, and its
+        fate in the First World War — drawn from the standard histories of the City (Cassis 1994; Chapman 1984;
+        Kynaston 1995; Jones 1993). Every row carries a confidence label, so a reader can see which entries are
+        solid and which are a best guess from thin evidence.</p></div>
+    </div>
+    <div class="entry">
+      <div class="lab">verification<b>primary source</b></div>
+      <div><h4>The London Gazette check</h4>
+        <p>Because the register began as a reading of secondary books, its key claims were checked against the
+        official record of the British state — the <a href="https://www.thegazette.co.uk" target="_blank" rel="noopener">London
+        Gazette</a>, which prints naturalisations, liquidations, and the wartime orders that seized enemy
+        property. Schröder's naturalisation appears there with its exact date; so do the orders winding up the
+        German bank branches. For the neutral houses, Danish Hambro and Dutch Blydenstein, no such order
+        exists — which is the right test that they were spared.</p></div>
+    </div>
+    <div class="entry">
+      <div class="lab">borrowed<b>primary source</b></div>
+      <div><h4>The Hansard debates, 1914–18</h4>
+        <p>Eight debates of the Commons and the Lords on enemy aliens and German banks in London, from the
+        official <a href="https://hansard.parliament.uk" target="_blank" rel="noopener">Hansard</a> record. These are the
+        words politicians used about foreign banks during the war — they let the project compare what the Bank
+        actually did with what politicians were saying.</p></div>
+    </div>
+    <div class="entry">
+      <div class="lab">cleaning<b>entity resolution</b></div>
+      <div><h4>Linking names across crises</h4>
+        <p>The same house appears under different spellings — "J H Schroder", "J.H.Schroder", even
+        "S.N.Schroder"; Frühling &amp; Goschen once appears as <i>Truhling</i> &amp; Goschen, where the scanner
+        read an F as a T. Hand written matching rules join these variants into single houses, so a firm can be
+        followed from 1857 to 1914.</p></div>
+    </div>
+  </div>
+</div></section>
+
+<section id="reliability"><div class="wrap">
+  <div class="chap"><span class="no">II</span><h2>How far to trust it</h2></div>
+  <p class="col lead">No source is perfect, so the weak spots are stated upfront rather than buried. Four
+    matter most.</p>
+  <div class="flaws" style="margin-top:38px">
+    <div class="flaw"><span class="gn">01</span><h4>The ledgers only show who borrowed</h4>
+      <p>A house that did not borrow is simply absent, so every share reported here is a share of crisis
+      borrowing, not of the whole City. This selection effect is built into the source and limits what the
+      project can claim.</p></div>
+    <div class="flaw"><span class="gn">02</span><h4>The transcription is not flawless</h4>
+      <p>The ledgers were typed from Victorian handwriting. The same house turns up under garbled spellings,
+      and at least one name was misread by the scanner. A few faint entries may still be wrong even after the
+      names were repaired by hand.</p></div>
+    <div class="flaw"><span class="gn">03</span><h4>The register is interpretation</h4>
+      <p>The origin register was assembled from secondary histories, so its softer rows are interpretations
+      rather than facts. Low confidence rows are starting points that need more checking, and the origin
+      buckets — German, Greek, Parsi — are coarse, hiding real differences inside each group.</p></div>
+    <div class="flaw"><span class="gn">04</span><h4>Small numbers, rough estimates</h4>
+      <p>Most houses appear a handful of times, so this is a study of patterns and named cases, not large
+      statistical tests; the one regression is a rough check. And the debates mix general alien talk with the
+      banks, so the word counts capture a mood, not a precise measurement.</p></div>
+  </div>
+  <p class="col" style="margin-top:30px">None of this sinks the argument, which rests on several independent
+    signals that agree — but every number below should be read as a reasonable estimate, not an exact figure.
+    Each one can be regenerated from the scripts and CSVs in the project repository.</p>
+</div></section>
+
+<section id="methods"><div class="wrap">
+  <div class="chap"><span class="no">III</span><h2>Four methods, matched to their sources</h2></div>
+  <div class="entries">
+    <div class="entry">
+      <div class="lab">w12<b>database</b></div>
+      <div><h4>Descriptive statistics over a hand built database</h4>
+        <p>Shares of lending, average rates, counts of who appears in which crisis. The ledgers are lists of
+        amounts and rates; shares and averages are the plain way to summarise lists.</p></div>
+    </div>
+    <div class="entry">
+      <div class="lab">w4<b>networks</b></div>
+      <div><h4>Network analysis</h4>
+        <p>Did the émigré houses cluster apart? How did money flow through London in 1914? Did the lending
+        network change when war was declared? A network is the natural tool for asking who clustered with
+        whom.</p></div>
+    </div>
+    <div class="entry">
+      <div class="lab">w3<b>text</b></div>
+      <div><h4>Text mining the wartime debates</h4>
+        <p>Counting words across eight Hansard debates. The reversal happened mostly in language — in words
+        like <i>alien</i> and <i>enemy</i> repeated across many speeches — and counting is how you show a
+        pattern no single quotation could prove.</p></div>
+    </div>
+    <div class="entry">
+      <div class="lab">spine<b>prosopography</b></div>
+      <div><h4>Prosopography</h4>
+        <p>The register itself: studying a group through the collected life facts of its members. Underneath
+        every chart on this page sits that biographical table.</p></div>
+    </div>
+  </div>
+</div></section>
+
+<section id="evidence"><div class="wrap">
+  <div class="chap"><span class="no">IV</span><h2>The evidence: insiders, not outsiders</h2></div>
+  <div class="col">
+    <p class="lead">If the émigré houses were really outsiders, the records should show it — small amounts,
+      higher prices, paper turned away more often than everyone else's. The ledgers show none of that. Four
+      simple checks all give the same answer.</p>
+  </div>
+
+  <div class="wide">
+    <div class="plate">
+      <div class="pl-head"><h4>Who borrowed at the window</h4><span class="pl-no">plate i</span></div>
+      <div class="cap">share of window lending by origin group, per crisis (%). red shades — émigré houses;
+        grey — british &amp; other. émigré totals: 12.5% (1857) · 10.9% (1866) · 15.1% (1914), highest on the
+        eve of the reversal. hover for values.</div>
+      <div class="cwrap tall"><canvas id="chartShare"></canvas></div>
+    </div>
+  </div>
+
+  <h3><span class="k">CHECK 1</span>The same names kept coming back</h3>
+  <div class="col"><p>Six houses appear in all three crises — Huth, Brandt, Kleinwort, Raphael, Frühling &amp;
+    Goschen, Ralli. A house that shows up at the Bank in panic after panic for nearly sixty years is no
+    newcomer. The full register is below: filter it, sort it.</p></div>
+  <div class="wide">
+    <div class="filters" id="arcChips">
+      <button data-n="0" class="active">all 45 houses</button><span class="sep">/</span>
+      <button data-n="2">in two or more crises</button><span class="sep">/</span>
+      <button data-n="3">in all three</button>
+    </div>
+    <div class="ledger tbl-scroll"><table id="arcTable">
+      <thead><tr><th>house</th><th>origin</th><th>present</th>
+        <th class="num" id="arcSort" style="cursor:pointer" title="click to flip">total borrowed £ ↓</th></tr></thead>
+      <tbody></tbody></table></div>
+    <div class="tbl-note">source: outputs/tables/emigre_house_arc.csv · <i>×</i> all rows are émigré houses · click the £ column to flip sort</div>
+  </div>
+
+  <h3><span class="k">CHECK 2</span>They sat among the biggest borrowers</h3>
+  <div class="col"><p>In 1857, twelve of the twenty largest borrowing houses were émigré firms. The count falls
+    in later crises — but that is not decline: their overall share rose to its highest in 1914. What changed is
+    the company at the top, as a few giant clearing banks and discount houses came to borrow enormous single
+    amounts. The émigré houses had not shrunk. The banks next to them had just grown much bigger.</p></div>
+  <div class="wide">
+    <div class="filters" id="topTabs">
+      <button data-y="1857" class="active">1857</button><span class="sep">/</span>
+      <button data-y="1866">1866</button><span class="sep">/</span>
+      <button data-y="1914">1914</button>
+    </div>
+    <div class="ledger tbl-scroll" style="max-height:440px"><table id="topTable">
+      <thead><tr><th style="width:46px">nº</th><th>house</th><th>origin</th><th class="num">borrowed £</th></tr></thead>
+      <tbody></tbody></table></div>
+    <div class="tbl-note"><i>×</i> émigré houses marked in red</div>
+  </div>
+
+  <h3><span class="k">CHECK 3</span>Their paper was not turned away</h3>
+  <div class="duo" style="margin-top:20px">
+    <div class="col"><p>When a firm brought bills to discount, the Bank could refuse any it doubted. In every
+      crisis the émigré houses were refused at or below the average for all borrowers; only the old English
+      private banks were trusted slightly more. The émigré houses sat well inside the Bank's normal circle of
+      trust.</p></div>
+    <div class="plate" style="margin-top:0">
+      <div class="pl-head"><h4>Share of bill value rejected</h4><span class="pl-no">plate ii</span></div>
+      <div class="cap">lower = more trusted. per crisis, %.</div>
+      <div class="cwrap short"><canvas id="chartReject"></canvas></div>
+    </div>
+  </div>
+
+  <h3><span class="k">CHECK 4</span>No penalty for being foreign</h3>
+  <div class="duo" style="margin-top:20px">
+    <div class="col"><p>Raw averages actually favour the émigré houses — they paid a little <em>less</em> than
+      native British merchants in every crisis. But big houses get better rates, and the émigré group held some
+      very big houses. Hold size level and the gap disappears: a simple model per crisis finds an émigré effect
+      on the rate that cannot be told apart from zero — in 1914, about minus one hundredth of one percent.</p>
+      <p>This is not a special discount. It is the ordinary price for their size. There was no foreign
+      surcharge — and a market that distrusted them would have charged one.</p></div>
+    <div class="plate" style="margin-top:0">
+      <div class="pl-head"><h4>The émigré effect on the rate</h4><span class="pl-no">plate iii</span></div>
+      <div class="cap">dot — estimated extra rate for émigré houses once size is held level; bar — 95% range.
+        every range crosses zero.</div>
+      <div class="cwrap"><canvas id="chartReg"></canvas></div>
+    </div>
+  </div>
+  <figure class="fg wide">
+    <img src="figures/e2_rate_vs_size.png" alt="Interest rate against house size, émigré vs British houses" loading="lazy">
+    <figcaption>rate against house size; each point one house in one crisis, émigré in red, british in blue.
+      same size, same price. click to enlarge.</figcaption>
+  </figure>
+
+  <h3><span class="k">CHECK 5</span>And no émigré enclave in the network</h3>
+  <div class="duo" style="margin-top:20px">
+    <div class="col"><p>Link two houses when they came to the Bank on the same ledger days more often than
+      chance. If the émigré houses were a separate club, émigré–émigré links should be common. Shuffle the
+      origin labels 1,000 times across the same graph and the shuffles produce <em>more</em> émigré clustering
+      than the real network shows. They came to the window woven among native houses — not as a foreign
+      corner.</p>
+      <figure class="fg" style="margin:26px 0 0">
+        <img src="figures/net2_affiliation_clean.png" alt="Co-presence network coloured by origin" loading="lazy">
+        <figcaption>the co-presence network, coloured by origin. click to enlarge.</figcaption>
+      </figure></div>
+    <div class="plate" style="margin-top:0">
+      <div class="pl-head"><h4>Real network vs 1,000 shuffles</h4><span class="pl-no">plate iv</span></div>
+      <div class="cap">share of weighted links, all crises pooled, %.</div>
+      <div class="cwrap"><canvas id="chartEnclave"></canvas></div>
+    </div>
+  </div>
+
+  <div class="pull"><p>There was no foreign surcharge. A market that distrusted them would have charged one.</p>
+    <div class="who">— from §5 of the paper</div></div>
+</div></section>
+
+<section id="window1914" style="padding-top:0"><div class="wrap">
+  <div class="chap"><span class="no">V</span><h2>1914 — London as the world's window</h2></div>
+  <div class="col">
+    <p class="lead">The 1914 ledger records whose account each bill really served. It catches the Bank of
+      England acting as a discount window for much of the world — with London's houses as the middlemen who
+      carried foreign bills to its door.</p>
+    <p>About 76 percent of the intermediated value was for overseas banks and firms. The largest single flow —
+      some £5.7m from Crédit Lyonnais — passed almost entirely through one <em>British</em> house, Glyn, Mills,
+      Currie &amp; Co. So this clearing role belonged to the City as a whole, not to the émigré houses in
+      particular. The émigré point in 1914 is about size: their share of the window peaked, at about fifteen
+      percent, just as London was doing its most international work.</p>
+  </div>
+  <div class="wide">
+    <div class="plate">
+      <div class="pl-head"><h4>Who the bills were really for</h4><span class="pl-no">plate v</span></div>
+      <div class="cap">value of intermediated bills by beneficiary type, 1914.</div>
+      <div class="cwrap tiny"><canvas id="chartBenef"></canvas></div>
+    </div>
+    <div class="plate">
+      <div class="pl-head"><h4>The conduits</h4><span class="pl-no">plate vi</span></div>
+      <div class="cap">london houses by value carried to the bank on others' account. the largest, in red, is
+        glyn mills — a british house clearing for france.</div>
+      <div class="cwrap short"><canvas id="chartConduit"></canvas></div>
+    </div>
+    <figure class="fg">
+      <img src="figures/net1_1914_intermediation_sankey.png" alt="Sankey: foreign accounts through London houses to the Bank" loading="lazy">
+      <figcaption>how the world reached the bank of england in 1914 — foreign account, london house, bank.
+        ribbon width is value. click to enlarge.</figcaption>
+    </figure>
+  </div>
+</div></section>
+
+<!-- ============ THE DARK ACT ============ -->
+<section id="reversal" class="act"><div class="wrap">
+  <div class="chap"><span class="no">VI</span><h2>The reversal — made foreign in 1914</h2></div>
+  <div class="col">
+    <p class="lead">The change does not appear in the Bank's ledgers. It appears in Parliament. Across eight
+      debates between 1914 and 1918 the language is blunt — and beside it runs a vocabulary of shutting down:
+      trading with the enemy, the Public Trustee, sequestration, wound up, sold by auction.</p>
+  </div>
+
+  <div class="wall" id="wordWall"></div>
+  <div class="fn">word counts across the eight hansard debates, 1914–18 · source: outputs/tables/hansard_lexicon_counts.csv</div>
+
+  <div class="col" style="margin-top:54px">
+    <p>This is not the language of a market weighing who is creditworthy. It is political language, about who
+      belongs. And the actions matched the words: the London branches of Deutsche Bank, Dresdner Bank and the
+      Disconto-Gesellschaft were placed under a government Controller and wound up under the Trading with the
+      Enemy Acts. Frühling &amp; Goschen, a German named private house, was folded into Goschen &amp; Cunliffe
+      by 1920. Schröder survived only because its senior partner naturalised at once.</p>
+    <p>Another telling detail is who was spared. Danish Hambro and Dutch Blydenstein were left alone, because
+      Denmark and the Netherlands were neutral. The line that fell across the City in 1914 was not between
+      British and foreign at all. It was between Britain's friends and Britain's enemies in this particular
+      war. A German name was now a danger; a Danish one was not.</p>
+  </div>
+
+  <h3 style="margin-top:64px"><span class="k">THE REGISTER</span>What happened to each house</h3>
+  <div class="col"><p class="muted">Every house seen at the 1914 window, with its wartime fate and the
+    confidence of the underlying evidence. Filter, or search a name.</p></div>
+  <div class="wide">
+    <div class="filters" id="fateChips">
+      <button data-f="all" class="active">all</button><span class="sep">/</span>
+      <button data-f="emigre">émigré houses</button><span class="sep">/</span>
+      <button data-f="german">german banks</button><span class="sep">/</span>
+      <button data-f="neutral">neutrals spared</button><span class="sep">/</span>
+      <button data-f="british">british</button>
+    </div>
+    <input class="search" id="fateSearch" type="search" placeholder="search a house — schröder, hambro, deutsche…">
+    <div class="ledger tbl-scroll" style="max-height:430px"><table id="fateTable">
+      <thead><tr><th>house</th><th>origin</th><th>fate in the war</th><th style="width:90px">conf.</th></tr></thead>
+      <tbody></tbody></table></div>
+    <div class="tbl-note">source: outputs/tables/wwi_fate.csv, checked against the london gazette where possible · "—" no specific wartime event recorded</div>
+  </div>
+
+  <h3 style="margin-top:64px"><span class="k">THE CONTROL</span>And the Bank? It did not flinch</h3>
+  <div class="duo" style="margin-top:20px">
+    <div class="col"><p>The 1914 ledger straddles the declaration of war on 4 August, so both records can be
+      watched in the same months. The émigré houses kept coming to the window right through the autumn, holding
+      eleven to seventeen percent of the Bank's lending every war month. The Bank did grow more careful once
+      the panic hit — but for everyone at once. In the same weeks Parliament called these houses enemies, the
+      Bank treated them as ordinary customers.</p></div>
+    <div class="plate" style="margin-top:0">
+      <div class="pl-head"><h4>Rejection around the outbreak of war</h4><span class="pl-no">plate vii</span></div>
+      <div class="cap">share of bill value rejected, %. the bank tightened for everyone at once — not for the
+        émigré houses in particular.</div>
+      <div class="cwrap short"><canvas id="chartShock"></canvas></div>
+    </div>
+  </div>
+  <div class="duo wide" style="margin-top:30px">
+    <figure class="fg" style="margin:0">
+      <img src="figures/e4_wartime_treatment.png" alt="The Bank's treatment of émigré houses across 1914" loading="lazy">
+      <figcaption>month by month through 1914 — the émigré share holds double digits all war; rejection rises
+        after august for everyone equally.</figcaption>
+    </figure>
+    <figure class="fg" style="margin:0">
+      <img src="figures/x3_wartime_network_shock.png" alt="Wartime network shock test around 4 August 1914" loading="lazy">
+      <figcaption>the network shock test around 4 august 1914 — the window changed, but no targeted exclusion.</figcaption>
+    </figure>
+  </div>
+
+  <div class="pull"><p>They were in, and then they were pushed out — by forces that had nothing to do with
+    banking.</p><div class="who">— two archives, opposite stories</div></div>
+
+  <div class="col">
+    <p>The ledgers measure economic behaviour, which had made these houses central over many decades. The
+      debates measure political status, which changed almost overnight when the war began. What the sources
+      show is a fast political exclusion that came after decades of economic inclusion. Their foreignness was
+      not a fact about their banking. It was a label — applied suddenly, by a wartime state and an anxious
+      public, and unevenly: falling on enemies, sparing neutrals.</p>
+  </div>
+</div></section>
+
+<section id="glossary"><div class="wrap">
+  <div class="chap"><span class="no">APPENDIX A</span><h2>Glossary, in plain words</h2></div>
+  <input class="search" id="glossSearch" type="search" placeholder="filter terms — bill, alien, network…">
+  <div class="gl-grid" id="glossGrid"></div>
+</div></section>
+
+<section id="ai" style="padding-top:0"><div class="wrap">
+  <div class="chap"><span class="no">APPENDIX B</span><h2>Use of AI</h2></div>
+  <p class="col lead">In the interest of honesty, AI tools were used at a few points in this project.</p>
+  <div class="entries" style="margin-top:34px">
+    <div class="entry">
+      <div class="lab">1<b>thinking</b></div>
+      <div><h4>As a thought partner</h4>
+        <p>Pitching ideas and plans, and getting a better understanding of feasibility, where open data
+        archives might be, and so on.</p></div>
+    </div>
+    <div class="entry">
+      <div class="lab">2<b>finding</b></div>
+      <div><h4>Dataset search</h4>
+        <p>In addition to manual searching of open archives, ChatGPT helped automate the hunt for datasets.</p></div>
+    </div>
+    <div class="entry">
+      <div class="lab">3<b>processing</b></div>
+      <div><h4>Data processing</h4>
+        <p>AI helped with cleaning and structuring the ledger data — matching the many spellings of each house
+        into single firms, organising the origin register.</p></div>
+    </div>
+    <div class="entry">
+      <div class="lab">4<b>building</b></div>
+      <div><h4>Code debugging and generation</h4>
+        <p>The code used for the data analysis and this website was written in collaboration with AI,
+        specifically Claude.</p></div>
+    </div>
+    <div class="entry">
+      <div class="lab">5<b>polish</b></div>
+      <div><h4>Grammar checking and final polish</h4>
+        <p>After the writing was drafted by hand, AI fixed grammar mistakes and imprecise wordings.</p></div>
+    </div>
+  </div>
+</div></section>
+
+<section id="refs" style="padding-top:0"><div class="wrap">
+  <div class="chap"><span class="no">APPENDIX C</span><h2>References</h2></div>
+  <ul class="refs">
+    <li>Anson, M., Bholat, D., Kang, M. &amp; Thomas, R. (2017). <i>The Bank of England as lender of last
+      resort: new historical evidence from daily transactional data.</i> Bank of England Staff Working Paper 691.</li>
+    <li>Bank of England (2017). <i>The Bank of England as lender of last resort: historical dataset.</i></li>
+    <li>Bagehot, W. (1873). <i>Lombard Street: A Description of the Money Market.</i></li>
+    <li>Cassis, Y. (1994). <i>City Bankers, 1890–1914.</i> Cambridge University Press.</li>
+    <li>Chapman, S. (1984). <i>The Rise of Merchant Banking.</i> George Allen &amp; Unwin.</li>
+    <li>Hansard. HC &amp; HL debates on alien enemies and German banks in London, 1914–18 — HC Deb 17 Sep 1914;
+      16 Nov 1914; 3 Mar 1915; 31 Oct 1916; 21 Nov 1916; 20 Mar 1918.</li>
+    <li>Jones, G. (1993). <i>British Multinational Banking, 1830–1990.</i> Oxford University Press.</li>
+    <li>The London Gazette — №28892 p.7033 (Schröder naturalisation, 1914); №30803 p.8498 (liquidations, 1918);
+      №31206 p.2855 (honours, 1919); №32303 p.3332 (Disconto order, 1921); №33354 p.919 (Dresdner Controller,
+      1928). <a href="https://www.thegazette.co.uk" target="_blank" rel="noopener">thegazette.co.uk</a></li>
+    <li>Kynaston, D. (1994–95). <i>The City of London,</i> vols. I–II. Chatto &amp; Windus.</li>
+    <li>Roberts, R. (1992). <i>Schroders: Merchants and Bankers.</i> Macmillan.</li>
+    <li>Ziegler, P. (1988). <i>The Sixth Great Power: Barings, 1762–1929.</i> Collins.</li>
+  </ul>
+  <a class="cta" href="paper.pdf" target="_blank">Read the full paper ↗</a>
+</div></section>
+
+<footer><div class="wrap">
+  <div class="colophon">OUTSIDERS AT THE WINDOW · Biruk Kassa · Introduction to Digital History, June 2026.<br>
+  Set in Fraunces, Newsreader &amp; IBM Plex Mono. Every chart is drawn live from the project's output CSVs
+  (src/build_site_data.py → site/data.js); tables and figures reproduce with the scripts in src/.</div>
+</div></footer>
+
+<div id="lightbox"><img src="" alt=""></div>
+
+<script src="data.js"></script>
+<script>
+const D = window.DATA;
+const fmtGBP = v => "£" + Math.round(v).toLocaleString("en-GB");
+Chart.defaults.font.family = '"IBM Plex Mono",ui-monospace,monospace';
+Chart.defaults.font.size = 10.5;
+Chart.defaults.color = "#8a877f";
+Chart.defaults.borderColor = "#e9e7e1";
+Chart.defaults.animation.duration = 950;
+Chart.defaults.animation.easing = "easeOutQuart";
+
+/* charts are built lazily, when scrolled into view, so their entrance animates.
+   plain rect checks on scroll — IntersectionObserver is unreliable in embedded previews */
+const factories = {};
+const pendingReveals = [];
+function watchReveal(el, fn){ if(el) pendingReveals.push({el, fn}); }
+function checkReveals(){
+ for (let i = pendingReveals.length - 1; i >= 0; i--){
+  /* revealed once its top has entered (or passed) the lower viewport edge —
+     elements jumped past in one big scroll still count */
+  if (pendingReveals[i].el.getBoundingClientRect().top < innerHeight * .88){
+   const {fn} = pendingReveals[i];
+   pendingReveals.splice(i, 1);
+   fn();
+  }
+ }
+}
+addEventListener("scroll", checkReveals, {passive:true});
+addEventListener("resize", checkReveals);
+
+/* safe DOM helpers (no innerHTML) */
+function el(tag, attrs, text){
+  const n = document.createElement(tag);
+  if (attrs) for (const [k,v] of Object.entries(attrs)) n.setAttribute(k, v);
+  if (text != null) n.textContent = text;
+  return n;
+}
+function row(cells, cls){
+  const tr = el("tr", cls ? {class: cls} : null);
+  cells.forEach(c => tr.appendChild(c));
+  return tr;
+}
+function td(text, opts){
+  const t = el("td", opts && opts.num ? {class:"num"} : null);
+  t.textContent = text;
+  if (opts && opts.dim) t.style.color = "var(--coal-grey)";
+  return t;
+}
+
+/* palette: red family = émigré, greys = the rest */
+const GROUP_COLORS = {
+ "Émigré: German & Central European":"#a8230f",
+ "Émigré: Greek & Levantine":"#cd4527",
+ "Émigré: Indian / Parsi":"#e2724f",
+ "Émigré: American":"#edA384",
+ "British: private / merchant (native)":"#55534d",
+ "British: discount house":"#7c7a73",
+ "British: clearing / joint-stock bank":"#a3a19a",
+ "Colonial / Imperial bank":"#c2c0b9",
+ "Foreign bank (1914 wartime)":"#8f9aa6",
+ "Unclassified (long tail)":"#eceae5"
+};
+
+/* plate i — stacked share */
+factories.chartShare = () => new Chart(document.getElementById("chartShare"), {
+ type:"bar",
+ data:{ labels:["1857","1866","1914"],
+  datasets: D.groupShare.map(g => ({
+   label:g.group, data:[g.s1857,g.s1866,g.s1914],
+   backgroundColor:GROUP_COLORS[g.group]||"#999", stack:"s", borderWidth:0
+  }))},
+ options:{ responsive:true, maintainAspectRatio:false,
+  interaction:{mode:"index",intersect:false},
+  animation:{delay:c=>c.type==="data" ? c.dataIndex*140 + c.datasetIndex*45 : 0},
+  plugins:{ legend:{position:"bottom",labels:{boxWidth:10,boxHeight:10,padding:10}},
+   tooltip:{callbacks:{label:c=>` ${c.dataset.label} — ${c.parsed.y}%`}}},
+  scales:{ x:{stacked:true,grid:{display:false}},
+   y:{stacked:true,max:100,ticks:{callback:v=>v+"%"}}}}
+});
+
+/* house explorer */
+let arcMinN = 0, arcDesc = true;
+function renderArc(){
+ const tb = document.querySelector("#arcTable tbody");
+ tb.replaceChildren();
+ const rows = D.arc.filter(r => r.n >= arcMinN)
+  .sort((a,b)=> arcDesc ? b.total-a.total : a.total-b.total);
+ rows.forEach(r => {
+  tb.appendChild(row([
+   td(r.house), td(r.origin),
+   td(r.crises.split("+").join(" · ")),
+   td(Math.round(r.total).toLocaleString("en-GB"), {num:true})
+  ], "em"));
+ });
+}
+document.getElementById("arcChips").addEventListener("click",e=>{
+ if(e.target.tagName!=="BUTTON")return;
+ document.querySelectorAll("#arcChips button").forEach(b=>b.classList.remove("active"));
+ e.target.classList.add("active");
+ arcMinN = +e.target.dataset.n; renderArc();
+});
+document.getElementById("arcSort").addEventListener("click",()=>{
+ arcDesc = !arcDesc;
+ document.getElementById("arcSort").textContent = "total borrowed £ " + (arcDesc ? "↓" : "↑");
+ renderArc();
+});
+renderArc();
+
+/* top twenty */
+function renderTop(y){
+ const tb = document.querySelector("#topTable tbody");
+ tb.replaceChildren();
+ D.top20[y].forEach(r => {
+  tb.appendChild(row([
+   td(String(r.rank).padStart(2,"0")),
+   td(r.house), td(r.origin),
+   td(r.value.toLocaleString("en-GB"), {num:true})
+  ], r.emigre ? "em" : null));
+ });
+}
+document.getElementById("topTabs").addEventListener("click",e=>{
+ if(e.target.tagName!=="BUTTON")return;
+ document.querySelectorAll("#topTabs button").forEach(b=>b.classList.remove("active"));
+ e.target.classList.add("active"); renderTop(e.target.dataset.y);
+});
+renderTop("1857");
+
+/* plate ii — rejection */
+const rejGroups = ["Émigré houses","All borrowers (window)","Old English private banks"];
+const rejColors = {"Émigré houses":"#bc2f1a","All borrowers (window)":"#b9b7b0","Old English private banks":"#46443f"};
+factories.chartReject = () => new Chart(document.getElementById("chartReject"),{
+ type:"bar",
+ data:{ labels:["1857","1866","1914"],
+  datasets: rejGroups.map(g=>({
+   label:g.toLowerCase(), backgroundColor:rejColors[g],
+   data:["1857","1866","1914"].map(c=>{
+    const r=D.rejection.find(x=>x.crisis===c&&x.group===g); return r?r.pct:null;})
+  }))},
+ options:{responsive:true,maintainAspectRatio:false,
+  interaction:{mode:"index",intersect:false},
+  animation:{delay:c=>c.type==="data" ? c.dataIndex*120 + c.datasetIndex*60 : 0},
+  plugins:{legend:{position:"bottom",labels:{boxWidth:10,boxHeight:10,padding:10}},
+   tooltip:{callbacks:{label:c=>` ${c.dataset.label} — ${c.parsed.y}% rejected`}}},
+  scales:{y:{ticks:{callback:v=>v+"%"}},x:{grid:{display:false}}}}
+});
+
+/* plate iii — regression */
+factories.chartReg = () => new Chart(document.getElementById("chartReg"),{
+ data:{ labels:D.regression.map(r=>r.crisis),
+  datasets:[
+   {type:"bar",label:"95% range",
+    data:D.regression.map(r=>[r.lo,r.hi]),
+    backgroundColor:"#e4e2dc",barPercentage:.32},
+   {type:"scatter",label:"estimated effect",
+    data:D.regression.map((r,i)=>({x:i,y:r.coef})),
+    backgroundColor:"#bc2f1a",pointRadius:6,pointHoverRadius:7},
+   {type:"line",label:"zero — no effect",
+    data:D.regression.map(()=>0),
+    borderColor:"#191713",borderDash:[5,5],borderWidth:1,pointRadius:0}
+  ]},
+ options:{responsive:true,maintainAspectRatio:false,
+  plugins:{legend:{position:"bottom",labels:{boxWidth:10,boxHeight:10,padding:10}},
+   tooltip:{callbacks:{label:c=>{
+    const r=D.regression[c.dataIndex];
+    if(c.dataset.type==="scatter")return` effect ${r.coef>0?"+":""}${r.coef} pts (p=${r.p})`;
+    if(c.dataset.type==="bar")return` 95% range ${r.lo} … ${r.hi}`;
+    return null;}}}},
+  scales:{y:{title:{display:true,text:"effect on rate, % points"}},x:{grid:{display:false}}}}
+});
+
+/* plate iv — enclave */
+const enc = D.enclave;
+factories.chartEnclave = () => new Chart(document.getElementById("chartEnclave"),{
+ type:"bar",
+ data:{ labels:["émigré–émigré links","émigré–other links"],
+  datasets:[
+   {label:"real network",backgroundColor:"#bc2f1a",
+    data:[enc.emigre_emigre_weight_share.observed*100, enc.emigre_other_weight_share.observed*100]},
+   {label:"mean of 1,000 shuffles",backgroundColor:"#c9c7c0",
+    data:[enc.emigre_emigre_weight_share.null*100, enc.emigre_other_weight_share.null*100]}
+  ]},
+ options:{responsive:true,maintainAspectRatio:false,
+  interaction:{mode:"index",intersect:false},
+  animation:{delay:c=>c.type==="data" ? c.dataIndex*120 + c.datasetIndex*60 : 0},
+  plugins:{legend:{position:"bottom",labels:{boxWidth:10,boxHeight:10,padding:10}},
+   tooltip:{callbacks:{label:c=>` ${c.dataset.label} — ${c.parsed.y.toFixed(1)}%`}}},
+  scales:{y:{ticks:{callback:v=>v+"%"}},x:{grid:{display:false}}}}
+});
+
+/* plate v — beneficiary: single 100% bar (no donut) */
+const bTotal = D.beneficiary.reduce((s,b)=>s+b.value,0);
+const bCols = {"overseas bank/firm":"#bc2f1a","domestic/provincial bank":"#55534d",
+  "firm / other":"#a3a19a","London branch/place":"#dcdad4"};
+factories.chartBenef = () => new Chart(document.getElementById("chartBenef"),{
+ type:"bar",
+ data:{ labels:[""],
+  datasets:D.beneficiary.map(b=>({
+   label:`${b.kind} — ${(b.value/bTotal*100).toFixed(0)}%`,
+   data:[b.value/bTotal*100], backgroundColor:bCols[b.kind]||"#999", stack:"b"}))},
+ options:{indexAxis:"y",responsive:true,maintainAspectRatio:false,
+  plugins:{legend:{position:"bottom",labels:{boxWidth:10,boxHeight:10,padding:10}},
+   tooltip:{callbacks:{label:c=>` ${c.dataset.label.split(" — ")[0]} — ${fmtGBP(bTotal*c.parsed.x/100)}`}}},
+  scales:{x:{stacked:true,max:100,ticks:{callback:v=>v+"%"}},
+   y:{stacked:true,grid:{display:false},ticks:{display:false}}}}
+});
+
+/* plate vi — conduits, top one in red */
+factories.chartConduit = () => new Chart(document.getElementById("chartConduit"),{
+ type:"bar",
+ data:{labels:D.conduits.map(c=>c.house.toLowerCase()),
+  datasets:[{data:D.conduits.map(c=>c.value),
+   backgroundColor:D.conduits.map((c,i)=>i===0?"#bc2f1a":"#c9c7c0")}]},
+ options:{indexAxis:"y",responsive:true,maintainAspectRatio:false,
+  animation:{delay:c=>c.type==="data" ? c.dataIndex*90 : 0},
+  plugins:{legend:{display:false},
+   tooltip:{callbacks:{label:c=>` carried ${fmtGBP(c.parsed.x)}`}}},
+  scales:{x:{ticks:{callback:v=>"£"+(v/1e6).toFixed(1)+"m"}},y:{grid:{display:false}}}}
+});
+
+/* word wall — words rise in one by one when scrolled to */
+(function(){
+ const wall = document.getElementById("wordWall");
+ const max = Math.max(...D.hansard.map(h=>h.count));
+ D.hansard.forEach((h,i)=>{
+  const s = el("span", i<3 ? {class:"hot"} : null);
+  const size = 16 + Math.pow(h.count/max, .62) * 86;
+  s.style.fontSize = size.toFixed(0) + "px";
+  s.style.transitionDelay = (i*80) + "ms";
+  s.textContent = h.term.toLowerCase();
+  s.appendChild(el("sup", null, String(h.count)));
+  wall.appendChild(s);
+ });
+ watchReveal(wall, ()=>wall.classList.add("in"));
+})();
+
+/* plate vii — wartime shock (dark) */
+const periods=["pre_war_34d","early_war_34d","later_war"];
+const periodLabels=["34 days before","first 34 war days","later war months"];
+factories.chartShock = () => new Chart(document.getElementById("chartShock"),{
+ type:"bar",
+ data:{labels:periodLabels,
+  datasets:[
+   {label:"émigré houses",backgroundColor:"#ff5c3d",
+    data:periods.map(p=>D.shock.find(s=>s.period===p&&s.group==="Emigre houses").rejection)},
+   {label:"all classified houses",backgroundColor:"#56544e",
+    data:periods.map(p=>D.shock.find(s=>s.period===p&&s.group==="All classified houses").rejection)}
+  ]},
+ options:{responsive:true,maintainAspectRatio:false,
+  interaction:{mode:"index",intersect:false},
+  animation:{delay:c=>c.type==="data" ? c.dataIndex*120 + c.datasetIndex*60 : 0},
+  plugins:{legend:{position:"bottom",labels:{boxWidth:10,boxHeight:10,padding:10,color:"#a9a69e"}},
+   tooltip:{callbacks:{label:c=>` ${c.dataset.label} — ${c.parsed.y.toFixed(1)}% rejected`}}},
+  scales:{y:{ticks:{callback:v=>v+"%",color:"#8f8d86"},grid:{color:"rgba(255,255,255,.07)"}},
+   x:{ticks:{color:"#8f8d86"},grid:{display:false}}}}
+});
+
+/* fate explorer */
+let fateFilter="all", fateQuery="";
+const isEmigre = r => r.group.startsWith("Émigré");
+const isGermanBank = r => (r.group==="Foreign bank (1914 wartime)" && /german/i.test(r.origin)) || /Deutsche|Dresdner|Hanseatic/.test(r.house);
+const isNeutral = r => /neutral/i.test(r.fate);
+function renderFate(){
+ const tb=document.querySelector("#fateTable tbody");
+ tb.replaceChildren();
+ const rows=D.fate.filter(r=>{
+  if(fateFilter==="emigre"&&!isEmigre(r))return false;
+  if(fateFilter==="german"&&!isGermanBank(r))return false;
+  if(fateFilter==="neutral"&&!isNeutral(r))return false;
+  if(fateFilter==="british"&&!r.group.startsWith("British"))return false;
+  if(fateQuery&&!(r.house+" "+r.origin+" "+r.fate).toLowerCase().includes(fateQuery))return false;
+  return true;
+ });
+ if(!rows.length){
+  const tr=el("tr"); const t=td("no houses match.",{dim:true});
+  t.setAttribute("colspan","4"); tr.appendChild(t); tb.appendChild(tr); return;
+ }
+ rows.forEach(r=>{
+  tb.appendChild(row([
+   td(r.house), td(r.origin), td(r.fate||"—"), td(r.confidence,{dim:true})
+  ], isEmigre(r)?"em":null));
+ });
+}
+document.getElementById("fateChips").addEventListener("click",e=>{
+ if(e.target.tagName!=="BUTTON")return;
+ document.querySelectorAll("#fateChips button").forEach(b=>b.classList.remove("active"));
+ e.target.classList.add("active"); fateFilter=e.target.dataset.f; renderFate();
+});
+document.getElementById("fateSearch").addEventListener("input",e=>{
+ fateQuery=e.target.value.trim().toLowerCase(); renderFate();
+});
+renderFate();
+
+/* glossary */
+const GLOSSARY=[
+ ["Accepting house / merchant bank","A private banking firm whose main business was to put its name on bills of exchange, promising to pay them, which made the bills safe to trade."],
+ ["Alien / enemy alien","A person living in Britain who was a citizen of another country. During the war, a citizen of an enemy country, such as Germany, was an enemy alien and faced special restrictions."],
+ ["Bill of exchange","A written promise to pay a sum of money on a future date, widely used to finance trade in the nineteenth century."],
+ ["Clearing bank / joint stock bank","A large ordinary bank owned by shareholders, such as Lloyds or Barclays, as opposed to a private merchant house."],
+ ["Discount house / bill broker","A British firm that specialised in buying and selling bills of exchange in the money market. Overend, Gurney & Co. was the most famous, and its collapse caused the 1866 crisis."],
+ ["Discounting / the discount window","Selling a bill to the Bank of England before its due date for slightly less than its face value, to get cash at once. The \"window\" is just the place firms came to do this."],
+ ["Émigré house","This project's term for a banking firm founded by a family that came to Britain from abroad — from Germany, Greece, India, the United States."],
+ ["Entity resolution","Deciding when two slightly different names (\"J H Schroder\", \"J.H.Schroder\") refer to the same firm, so they can be joined."],
+ ["Lender of last resort","The institution — in Britain, the Bank of England — that lends freely in a panic so sound firms do not fail merely for lack of cash. The classic statement is Bagehot's Lombard Street (1873)."],
+ ["Naturalise","To become a British subject by application. Bruno Schröder did this in the first days of the war to save his firm."],
+ ["Network analysis","Studying relationships by drawing them as points joined by lines, then measuring the shape that results."],
+ ["Prosopography","The study of a group of people through the collected life facts of its members. The origin register is a prosopography of the borrowing houses."],
+ ["Public Trustee","A government official who took over and sold the property of enemy firms during the war."],
+ ["Sequestration","The seizure of property by the state — here, of enemy owned banks."],
+ ["Text mining","Searching and counting words across a body of text to find patterns; used here on the parliamentary debates."]
+];
+function renderGloss(q){
+ const grid=document.getElementById("glossGrid");
+ grid.replaceChildren();
+ const items=GLOSSARY.filter(([t,d])=>!q||(t+" "+d).toLowerCase().includes(q));
+ if(!items.length){ grid.appendChild(el("p",{class:"muted"},"no terms match.")); return; }
+ items.forEach(([t,d])=>{
+  const g=el("div",{class:"gl"});
+  g.appendChild(el("b",null,t));
+  g.appendChild(el("p",null,d));
+  grid.appendChild(g);
+ });
+}
+document.getElementById("glossSearch").addEventListener("input",e=>renderGloss(e.target.value.trim().toLowerCase()));
+renderGloss("");
+
+/* register every chart for lazy build */
+Object.keys(factories).forEach(id=>{
+ const c = document.getElementById(id);
+ watchReveal(c, ()=>{ if (factories[id]) { factories[id](); delete factories[id]; } });
+});
+checkReveals(); /* build anything already on screen */
+
+/* lightbox */
+const lb=document.getElementById("lightbox"), lbImg=lb.querySelector("img");
+document.querySelectorAll("figure.fg img").forEach(img=>{
+ img.closest("figure.fg").addEventListener("click",()=>{lbImg.src=img.src;lb.classList.add("open");});
+});
+lb.addEventListener("click",()=>lb.classList.remove("open"));
+document.addEventListener("keydown",e=>{if(e.key==="Escape")lb.classList.remove("open");});
+
+/* progress bar + scrollspy */
+const bar=document.getElementById("progress");
+addEventListener("scroll",()=>{
+ const h=document.documentElement;
+ bar.style.width=(h.scrollTop/(h.scrollHeight-h.clientHeight)*100)+"%";
+},{passive:true});
+const links=[...document.querySelectorAll("nav a.lnk")];
+const secs=links.map(a=>document.querySelector(a.getAttribute("href")));
+function spy(){
+ let cur=null;
+ secs.forEach(s=>{ if(s && s.getBoundingClientRect().top<=150) cur=s.id; });
+ links.forEach(l=>l.classList.toggle("active",l.getAttribute("href")==="#"+cur));
+}
+addEventListener("scroll",spy,{passive:true});
+spy();
+
+/* fallback poll — some embedded webviews swallow scroll events */
+let lastY = -1;
+setInterval(()=>{
+ if (window.scrollY !== lastY){
+  lastY = window.scrollY;
+  checkReveals(); spy();
+  const h = document.documentElement;
+  bar.style.width = (h.scrollTop/(h.scrollHeight-h.clientHeight)*100) + "%";
+ }
+}, 250);
+</script>
+</body>
+</html>

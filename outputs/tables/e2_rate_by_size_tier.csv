@@ -1,0 +1,13 @@
+crisis,tier,group,mean_rate,n_houses
+1857,larger,Émigré,8.72,11
+1857,larger,British,8.63,8
+1857,smaller,Émigré,8.26,16
+1857,smaller,British,9.27,2
+1866,larger,Émigré,8.83,8
+1866,larger,British,8.96,9
+1866,smaller,Émigré,8.38,17
+1866,smaller,British,7.38,2
+1914,larger,Émigré,4.98,8
+1914,larger,British,5.24,18
+1914,smaller,Émigré,5.08,13
+1914,smaller,British,4.97,13

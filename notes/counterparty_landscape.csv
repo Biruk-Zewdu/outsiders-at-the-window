@@ -1,0 +1,1477 @@
+counterparty_clean,n,value,rate,crises,types
+Union Discount Co. Of London Ltd,115,10352861.34,5.326086956521739,1914,discount_house
+Glyn Mills Currie,94,10097238.4,5.0,1914,other
+London County & Westminster Bank Ltd,265,9271925.9,5.0,1914,commercial_bank
+B. W .Blydenstein & Co,60,7082331.32,5.1,1914,merchant
+National Discount Co.,91,6862189.109999999,6.05,1914,discount_house
+Reeves Whitburn & Co,67,6174018.93,5.843283582089552,1914,merchant
+Alexanders & Co Ltd,86,6159278.99,5.145348837209302,1914,merchant
+Brightwen & Co,72,5720211.72,5.256944444444445,1914,merchant
+Smith St Aubyn & Co,41,4894544.49,4.9625,1914,merchant
+Overend Gurney & Co,60,4871776.9,8.108333333333333,1857+1866,merchant
+Hohler & Co,45,4380520.8575,5.038888888888889,1914,merchant
+A & G W Alexander & Co,51,4337505.385,8.693877551020408,1857,merchant
+Lloyd'S Bank Ltd,73,4051027.05,5.0,1914,commercial_bank
+King & Foa,51,3875752.79,5.303921568627451,1914,other
+Baker Duncombe & Co Ltd,47,3677587.4,5.191489361702128,1914,merchant
+National Provincial Bk Of England Ltd,58,3309195.8,5.0,1914,merchant
+Allen Harvey & Ross,61,3087057.8,5.237704918032787,1914,other
+London & River Plate Bank Ltd,16,2805472.55,5.0,1914,commercial_bank
+Natl Bk Of India Ltd,34,2594595.35,5.044117647058823,1914,merchant
+Union Smiths Bk Ho,107,2573360.0,5.0,1914,other
+Haarbleicher Schumann,39,2280963.92,4.9423076923076925,1914,other
+Bruce Wilkinson & Co,63,2239566.925,8.0,1857,merchant
+Imperial Ottoman Bank,19,2237876.95,5.2894736842105265,1914,commercial_bank
+Lon Jt Stock Bk,48,2215691.65,5.0,1914,other
+"Chartered Bank Of India, Austrailia & China",22,2175719.51,4.988636363636363,1914,commercial_bank
+Anglo South American Bank Ltd,39,2166880.925,4.653846153846154,1914,commercial_bank
+Comptoir National D'Escompte De Paris,31,1901110.55,5.0,1914,other
+R.Cunliffe Sons Co,24,1899733.23,5.520833333333333,1914,other
+Sanderson Sandeman & Co,38,1781120.29,7.657894736842105,1857,merchant
+London & Brazilian Bank,8,1745684.8499999999,5.0,1914,commercial_bank
+Frith Sands & Co,45,1717569.92,8.433333333333334,1857+1866,merchant
+Hong Kong & Shanghai Banking Corporation,24,1617882.8725,4.34375,1914,commercial_bank
+Ryder & Co,20,1458923.00875,5.58125,1914,merchant
+S.Montagu Co,32,1376063.7774999999,4.8203125,1914,other
+Deutsche Bank,9,1321208.7,5.0,1914,commercial_bank
+C.J.Hambro & Son,29,1286288.105,4.991379310344827,1914,other
+N. M. Rothschild & Sons,12,1237482.3499999999,5.0,1914,merchant_bank
+Union Smiths Bank Ld Lom St,147,1195134.2,5.0,1914,commercial_bank
+Smith Fleming & Co,29,1130267.06,8.689655172413794,1866,merchant
+F.Huth Co,21,1120477.16625,4.696428571428571,1914,merchant_bank
+National Discount Co Of Limited,10,1115863.7,9.1,1866,discount_house
+Lon S.Western Bk,45,1073072.5,5.0,1914,other
+Banque Belge,25,1069739.9,5.0,1914,other
+J.H.Schroder & Co,10,1031112.9,5.0,1914,merchant_bank
+Yokohama Bk Ltd,7,1008933.25,5.0,1914,merchant
+Lyon & Lucker,22,1005164.5299999999,4.9772727272727275,1914,other
+Harwood Knight & Allen,19,984430.0,9.352941176470589,1866,other
+British Bank Of South America Ltd,12,952994.2,5.416666666666667,1914,commercial_bank
+Gillett Bros & Co,17,940985.02,5.176470588235294,1914,merchant
+William Brandt'S Sons & Co,13,899189.73,5.846153846153846,1914,merchant
+R Lawes & Co,25,888937.45,8.22,1857,merchant
+Union Bank Of Scotland Ltd,11,881277.95,5.0,1914,commercial_bank
+Baring Bros & Co Ld,7,864269.1499999999,5.0,1914,merchant_bank
+Credito Italiano,15,862855.5499999999,5.0,1914,other
+Alexander Cunliffes & Co,5,848266.2000000001,8.4,1866,merchant
+Parr'S Bank Ltd,90,835460.3999999999,5.0,1914,commercial_bank
+Royal Bank Of Scotland,38,830775.95,5.0,1914,commercial_bank
+Mercantile Bank Of India Ltd,20,819240.29,4.6,1914,commercial_bank
+White & Shaxson,22,782893.47,5.295454545454546,1914,other
+Daniell Cafenove & Co,28,780754.33,5.071428571428571,1914,merchant
+National Discount Corporation,19,775619.515,9.131578947368421,1857,discount_house
+Agra & Mastermans Bank Limited,2,750000.0,10.0,1866,commercial_bank
+Oriental Bank Corporation,14,715807.535,9.535714285714286,1857+1866,commercial_bank
+Capital & Counties Bank Ltd,24,710577.2,5.0,1914,commercial_bank
+International Banking Corporation,22,708043.2999999999,4.715909090909091,1914,commercial_bank
+Nohler & Co,3,700000.0,9.833333333333334,1914,merchant
+Eastern Bank Ltd,31,699639.39,4.838709677419355,1914,commercial_bank
+Union Smiths Bk Ld,35,667362.65,5.0,1914,other
+Guaranty Trust Co Of New York,7,653935.35,5.0,1914,merchant
+Standard Bk Of S.Africa,17,619090.2999999999,5.0,1914,other
+Canadian Bank Of Commerce,10,603157.095,4.175,1914,commercial_bank
+Barclay & Co,4,595188.2,10.0,1866,merchant
+Kleinwort Sons & Co,33,556727.5499999999,5.0,1914,merchant_bank
+R Raphael & Sons,22,550584.5,7.333333333333333,1857+1866,other
+Glyn & Co,5,550257.4,10.0,1857,merchant
+Cater Greenwell & Co,9,526436.95,5.166666666666667,1914,merchant
+Anglo Egyptian Bank Ltd,7,523242.64999999997,5.714285714285714,1914,commercial_bank
+Alliance Bank Limited,4,520000.0,10.0,1866,commercial_bank
+London County Bank,3,505035.2,10.0,1866,commercial_bank
+Discount Corporation Limited,11,500000.0,9.090909090909092,1866,discount_house
+G Peabody & Co,13,494353.93,9.115384615384615,1857,merchant
+A. Ruffer & Sons,28,470857.44749999995,5.026785714285714,1914,other
+Dresdner Bank,5,468421.24999999994,5.0,1914,commercial_bank
+Banca Commerciale Italiana,11,443935.0,5.0,1914,other
+Bank Of London Limited,2,430000.0,11.0,1866,commercial_bank
+James Burness & Sons,8,426901.5,5.0,1914,other
+Wallace Bros & Co Ld,10,419558.0525,4.125,1914,merchant
+Fruhling & Goschen,13,419378.36,5.769230769230769,1857+1866+1914,other
+Hy Sherwood & Co,10,418244.19999999995,6.15,1914,merchant
+British Bank Of Foreign Trade Ltd,9,401400.64999999997,5.0,1914,commercial_bank
+Chartered Merchant Bank Of India Limited,4,400000.0,6.5,1866,commercial_bank
+Cunliffes & Co,9,380315.01,9.444444444444445,1857,merchant
+National Bank Of Scotland,23,370236.85,5.0,1914,commercial_bank
+Lon: Asiatic & American Coy Limited,18,365609.86,8.0,1866,merchant
+Chilian Gout,1,364090.35,5.0,1914,other
+Manchester & Liverpool District Bkg Co Ltd,7,358625.0,5.0,1914,merchant
+Swiss Bankverein,5,346781.35,5.0,1914,commercial_bank
+Hatimal Discount Co Ltd,3,344192.86,3.0,1914,discount_house
+Haarbleichen Schumaum,25,328000.7,9.32,1866,other
+The Ebbw Vale Co Ltd,19,323600.7,7.5,1866,merchant
+Gledstones & Co,19,322102.0,9.105263157894736,1866,merchant
+Bank Of Montreal,15,317946.95,5.0,1914,commercial_bank
+F.Elles Son,17,316119.85,5.0,1914,other
+Bank Of New South Wales,3,316000.0,7.333333333333333,1866,commercial_bank
+Frederick Youle,24,308573.28,8.208333333333334,1866,other
+Barnetts Hoare & Co On Account Of The Clydesdale Banking Company,4,302771.3,10.0,1857,commercial_bank
+London Westminister Bank,1,300000.0,10.0,1866,commercial_bank
+I. F. Pawson & Co,17,294766.42,8.235294117647058,1866,merchant
+London Discount Corporation,23,293016.625,8.869565217391305,1857,discount_house
+Lutgens & Ripley,16,290912.8,5.0,1914,other
+National Bank Of India Ltd,2,290808.0525,3.125,1914,commercial_bank
+Finlay Campbell & Co,4,289487.5,9.0,1866,merchant
+Consolidated Discount Co Limited,9,288000.0,6.375,1866,discount_house
+Glyn & Co O/A Union Bank Of Scotland,1,285729.92,8.0,1857,commercial_bank
+Timothy Wiggin & Co,21,284535.705,8.404761904761905,1857,merchant
+Union Bank Of Australia Ltd,14,284327.39999999997,5.0,1914,commercial_bank
+The London Brazilian Bank,1,282000.0,6.0,1866,commercial_bank
+Credit Lyonnais Per Glyn Mills Currie,1,281915.35,5.0,1914,other
+Bank Of Hindustan Limited,6,279238.66000000003,9.8,1866,commercial_bank
+Samuel Montagu & Co,19,276452.94,9.38888888888889,1866,merchant
+Lon Hanseatic Bk Ld,12,274311.39,5.25,1914,other
+Union Smiths Bank Prescotts,68,274230.8,5.0,1914,commercial_bank
+Durant & Co,6,273099.93,8.833333333333334,1857+1866,merchant
+Natl Bk Of Africa Ltd,1,268612.5,5.0,1914,merchant
+G&R Dewhurst Ltd,8,263036.111875,4.7578125,1914,merchant
+"Finlay, Hodgeson & Co",13,260994.94,8.153846153846153,1866,merchant
+Kraeutler & Mieville,13,259095.74000000002,8.846153846153847,1857,other
+Barnett & Co,6,258606.90000000002,9.666666666666666,1866,merchant
+Robert Lawes & Co,5,257800.0,10.0,1866,merchant
+Robert Smith & Co,47,257094.51,8.956521739130435,1866,merchant
+The City Bank,2,255049.2,10.0,1866,commercial_bank
+Mccalmont Brothers & Co,8,243828.72,9.5,1857,merchant
+Direction Der Discounts,1,243103.09999999998,5.0,1914,discount_house
+The London County Bank,1,239167.80000000002,10.0,1866,commercial_bank
+"Drake, Kleinwort & Cohen",7,238208.40000000002,10.0,1866,merchant_bank
+Konig Bros,3,233761.9,5.5,1914,merchant
+Colonial Company Limited,8,232767.33,9.25,1866,merchant
+Brightwen Gillet & Co,9,232254.0,10.0,1866,merchant
+London River Place Bank Limited,12,224653.41999999998,7.833333333333333,1866,commercial_bank
+Hyde Hodge & Co,38,222453.885,8.661764705882353,1857,merchant
+S. Oppenheim & Sons,10,220475.7,7.8,1866,other
+Suse + Sibeth,26,219100.66,7.903846153846154,1857,other
+Williams Deacon'S Bank Ltd,10,213978.0,5.0,1914,commercial_bank
+G Loder,4,209526.22999999998,8.0,1857,other
+Colonial Bank,4,209025.7,8.75,1866+1914,commercial_bank
+F Huth & Co,3,206427.6,10.0,1857,merchant_bank
+Brown Shipley & Co,7,205353.89999999997,5.0,1914,merchant
+Frederick Huth & Co,2,203778.0,10.0,1866,merchant_bank
+Bank Of Wales,2,201077.94999999998,5.0,1914,commercial_bank
+Bieber & Co,33,199628.25,9.578125,1857+1866,merchant
+Streatfield Laurence & Co,25,199265.145,8.666666666666666,1857,merchant
+Commercial Bank Of Scotland Ltd,9,198264.05,5.0,1914,commercial_bank
+R. Raphael & Sons,8,196899.61,6.75,1866+1914,other
+Robarts Lubbock Co,5,196156.94999999998,5.0,1914,other
+Steven Brothers,6,190961.58,8.0,1866,other
+R Heine Semon & Co,23,186549.8,8.847826086956522,1857,merchant
+Anglo Austrian Bank,2,186328.24999999997,5.0,1914,commercial_bank
+Cama & Co,29,186056.995,8.655172413793103,1857,merchant
+Heywood & Co,3,184334.55,9.0,1857,merchant
+C I Hambro & Son,8,184145.33,8.75,1857,other
+J H Schroder & Co,7,180501.74,8.285714285714286,1857,merchant_bank
+Martin'S Bank Ltd,15,175712.94999999998,5.0,1914,commercial_bank
+Imp Merchant Credit Limited,4,175000.0,6.5,1866,merchant
+"Naylor, Benzon & Co",12,172539.02,8.416666666666666,1866,merchant
+P T Ralli,42,170952.45,9.464285714285714,1857,other
+R. Cunliffe Son & Co,4,170000.0,9.5,1866,merchant
+Sheppard Pelly & Co,4,169500.0,10.5,1866,merchant
+Bischoffsheim & Goldschmidt,12,169437.43,7.125,1857+1866,merchant_bank
+The Bornes Co Limited,5,168410.2,10.0,1866,merchant
+B S & J Phillips & Co,22,167561.34,10.15,1857+1866,merchant
+Boutcher Mortimore & Co,14,163512.65,8.5,1857+1866,merchant
+R Cunliffe Son & Co,10,162713.865,7.55,1857,merchant
+Commercial Banking Co. Of Of Sydney Ltd,5,161863.85,5.0,1914,commercial_bank
+James Hill & Sons,11,159327.395,8.0,1857+1866,other
+"Quenene, Furney & Co",2,157927.13,7.75,1857,merchant
+Joseph Allard,28,155957.85,8.37037037037037,1866,other
+J. C. Im Thurm & Co,12,146127.56,9.166666666666666,1866,merchant
+H W Eaton,24,142978.2,8.635416666666666,1857,other
+Union Bank Of Canada,7,142161.3675,5.464285714285714,1914,commercial_bank
+Lon Lpool Bk Of Comce,12,141767.55,5.0,1914,other
+Stern Bros,3,138699.05,5.0,1914,merchant
+J L Lemme & Co,4,136584.675,5.875,1857,merchant
+R Rodger,10,135776.82,6.65,1857,other
+Royal Bank Of Canada,2,135457.9875,4.125,1914,commercial_bank
+Andy Gibbs & Sons,5,135049.26,8.8,1866,merchant_bank
+Imp. Ottoman Government,1,135000.0,10.0,1866,other
+J C Bailey,3,135000.0,10.0,1857,other
+Elias & Co,13,134345.085,8.153846153846153,1857+1866,merchant
+Schunck Souchay & Co,9,133838.21,7.111111111111111,1857,merchant
+Consolidated Bank Limited,2,131190.30000000002,10.0,1866,commercial_bank
+Heugh Balfour & Co,15,128543.66,8.642857142857142,1857+1866,merchant
+J & R Morley,17,128391.96,9.0,1857+1866,other
+Barclay & Co Ltd,33,125872.15,5.0,1914,merchant
+W & J Devas & Co,21,124709.86,8.476190476190476,1866,merchant
+National Bank Of Australasia,4,123339.90000000001,10.0,1866,commercial_bank
+H Sherwood Co,1,123022.19,3.0,1914,other
+Haycroft & Pethick,17,118786.535,8.323529411764707,1857+1866,other
+Metrop Provincial Bank Limited,9,118475.70000000001,10.571428571428571,1866,commercial_bank
+Robert Benson & Co,4,115514.78,9.5,1866,merchant
+Cavan Brothers & Co,6,115135.23999999999,7.25,1857,merchant
+I. Leonino & Co,12,114839.96,9.5,1866,merchant
+"Soanes, Son & Page",8,112536.26,8.25,1866,other
+S.N.Schroder & Co,1,111542.34999999999,5.0,1914,merchant_bank
+"Barker, Benwell & Co.",2,110000.0,7.0,1866,merchant
+S.P. Framjee & Co,16,108968.97,6.125,1866,merchant
+David Evans & Co,36,107087.385,7.986111111111111,1857+1866,merchant
+Pastre Brothers,12,106995.18,8.958333333333334,1866,other
+Bomanjee Framjee Cama & Co,14,105923.03,7.5,1866,merchant
+A Bell & Sons,33,104493.76,7.121212121212121,1857,other
+H. W. Eaton,6,103359.62,8.333333333333334,1866,other
+F. T. Elworthy,11,102652.54000000001,8.272727272727273,1866,other
+B Simon & A Jacoby,8,101706.32,8.5,1857,other
+Dinsdale Drewell & Co,2,101642.9,10.0,1857,merchant
+H J Einthoven & Sons,10,101176.62,8.4,1857,other
+Lat Discount Co Lo,3,100272.09,5.5,1857,discount_house
+Leaf Sons & Co,10,99803.69,8.8,1857+1866,merchant
+Horstman & Co,8,99717.28,9.5,1857+1866,merchant
+Lon: River Plate Bank Limited,2,99646.2,10.0,1866,commercial_bank
+Bco & Del Rio De La Hala,1,99407.04999999999,5.0,1914,merchant
+Robinson & Fleming,11,98829.31,7.545454545454546,1866,other
+I. W. Cater Inman & Co,14,97718.86,8.535714285714286,1857,merchant
+"Dennistoun, Cross & Co",4,97344.55,8.75,1866,merchant
+Bradbury & Cook,26,97236.4,9.192307692307692,1857+1866,merchant
+Alex Bell & Sons,20,95830.05,8.45,1866,other
+Ralli Bros,3,94662.75,5.0,1914,merchant
+Blogg & Martin,1,94000.0,10.0,1866,other
+Foy Morgan & Co,3,91818.26,4.75,1914,merchant_bank
+Arthur & Co,10,91624.92,8.8,1866,merchant
+Walhampton & Staffordshire,1,91579.5,10.0,1857,other
+Dadabhai Naoroji & Co,22,90862.47,7.318181818181818,1866,merchant
+T & J Ralli,41,90859.81,7.7317073170731705,1866,other
+Williams Deacon & Co On Each Of The Dudley + West Bromwich Co,3,90000.0,10.0,1857,merchant
+H.J. Enthoven & Sons,8,89306.23999999999,7.5625,1866,other
+Duncan Fox & Co,4,87687.84999999999,5.0,1914,merchant
+Ellis Everington & Co,10,85429.145,8.2,1857,merchant
+National Bank Of New Zealand,1,85217.84999999999,5.0,1914,commercial_bank
+Francis Ede Son & Co,20,84949.31,8.0,1857,merchant
+Crawshay Bailey,4,84394.7,10.5,1866,other
+W Brandt'S Sons & Co,12,84283.06,8.833333333333334,1866,merchant
+Cook Sons & Co,18,83031.305,7.444444444444445,1857,merchant
+C. & C. I. Coles,14,81295.2,8.142857142857142,1857+1866,other
+British Bank Of North America Ltd,4,80847.84999999999,5.0,1914,commercial_bank
+Anglo Egyptian Bank Limited,3,79440.3,10.0,1866,commercial_bank
+Rt Lowes & Co,2,79212.025,5.5,1857,merchant
+E Sieveking & Son,13,78960.02,8.038461538461538,1857,other
+T. Tapling & Co,24,77301.42,7.958333333333333,1866,merchant
+Peter Rolt & Co,13,76369.6,7.923076923076923,1866,merchant
+Lon Provincial Bk,24,74464.8,5.0,1914,other
+Bell & Grant,18,74344.27,8.694444444444445,1857+1866,other
+J Leonino & Co,10,74117.9,8.2,1857,merchant
+East London Bank Limited,3,73178.1,10.0,1866,commercial_bank
+H L & C Edwards & Co,12,73060.12,9.25,1857+1866,merchant
+Gresend & Co,1,73000.0,5.5,1857,merchant
+Anglo Italian Bank Limited,2,70000.0,11.0,1866,commercial_bank
+Robinson & Flemming,11,68694.865,8.227272727272727,1857,other
+Schilizzi & Co,15,67976.935,7.2,1857+1866,merchant
+Morrison Dillon & Co,9,66708.90000000001,10.0,1857,merchant
+Aberdare Iron Co.,2,66444.3,11.0,1866,merchant
+Mitchell Yeames & Co,5,65324.22,8.4,1866,merchant
+Heilbut Symons & Co,1,64698.799999999996,5.0,1914,merchant
+Price & Pierce Ltd,7,64340.049999999996,4.642857142857143,1914,merchant
+D. D. Cama & Co,7,64075.0,7.571428571428571,1866,merchant
+Banca De Espana,3,63926.44999999999,5.0,1914,other
+Wallace Brothers,6,63814.380000000005,8.75,1866,other
+Egyptian Tubale Acct,1,63804.509999999995,5.5,1857,other
+J. S. Morgan & Co,2,63645.0,9.0,1866,merchant_bank
+Jacob Walter & Co,7,63587.457500000004,5.178571428571429,1914,merchant
+James Fowa,6,63486.145,5.9,1857,other
+Edwards Eastty & Co,12,63226.625,6.909090909090909,1857+1866,merchant
+London Bank Of Australia Ltd,3,62004.6,5.0,1914,commercial_bank
+Peek Bros & Co,22,60539.125,8.545454545454545,1857,merchant
+Suse & Sibeth,12,60178.42,9.333333333333334,1866,other
+E. B. Meyes,1,60000.0,6.0,1866,other
+Baring & Co,1,60000.0,10.0,1857,merchant_bank
+Giles Loder,1,59987.700000000004,10.0,1866,other
+Byass & Son,8,59925.44,8.625,1866,other
+Baring Brothers & Co,1,59000.0,10.0,1857,merchant_bank
+E H Brandts Son & Co,12,58408.08,9.333333333333334,1857,merchant
+M Levin & Adler,17,58339.159999999996,8.852941176470589,1857,other
+P Grenfell & Sons,3,58326.090000000004,9.0,1857+1866,other
+English Joint & Stock Bank Limited,3,58000.0,7.0,1866,commercial_bank
+Borneo Co Ltd,7,57205.2,5.0,1914,merchant
+Beith Stevenson & Co,7,55956.125,4.857142857142857,1914,merchant
+Bennison & Lennard,4,55814.5,8.75,1866,other
+Zarifi Brothers & Co,5,55602.700000000004,8.4,1857+1866,merchant
+Robinson Fleming & Co,1,55506.6,5.0,1914,merchant
+Bennison Lermard,9,55207.22,6.555555555555555,1857,other
+London County Bank For The Midland Bank,1,55000.0,10.0,1866,commercial_bank
+Bradbury Greatorex & Co,10,54910.125,8.4,1857,merchant
+W M Andrew & Sons,12,54748.619999999995,8.0,1866,other
+Bank Of Egypt,3,54201.600000000006,10.0,1857,commercial_bank
+Daniell Dickinson & Co,13,54197.1,9.615384615384615,1857,merchant
+H. T Morgan & Co,1,53894.700000000004,10.0,1866,merchant_bank
+Spartali & Co,8,53709.23,9.25,1857+1866,merchant
+R Smith & Co,6,53406.9,9.666666666666666,1857,merchant
+Bordier Fabris & Co,17,52379.405,8.705882352941176,1857,merchant
+Mildred Goyeneche & Co,4,52289.4,10.0,1866,merchant
+Price & Co For The Bedford,1,52116.3,10.0,1866,merchant
+N Cohen,5,52029.9,8.3,1857,other
+Hoare Buxton & Co,4,52019.33,7.625,1857,merchant
+Bank Of British West Africa Ltd,5,51756.0,5.0,1914,commercial_bank
+G B Carr,9,51077.07,8.277777777777779,1857,other
+Thomas Tapling & Co,29,51033.125,7.698275862068965,1857,merchant
+Mildred Goyenchi & Co,2,50968.45,5.0,1914,merchant
+C. Bailey,3,50802.36,10.666666666666666,1866,other
+"Iwing, Ebsworth & Holmes",5,50642.92,8.0,1866,other
+Mullens Marshall & Co,1,50000.0,10.0,1857,merchant
+Smith Payne & Smiths,1,50000.0,10.0,1857,other
+Vyse Sons & Co,19,49826.54,8.473684210526315,1866,merchant
+Weston + Laurie,6,49070.2,10.0,1857,other
+Somes Mullens & Co,18,48865.36,8.676470588235293,1857+1866,merchant
+A. L. Elder,3,48583.67,8.833333333333334,1866,other
+S .Japhet Co,2,48500.0,3.0,1914,other
+D Taylor & Sons,15,48348.605,8.333333333333334,1857,other
+Streckeisen Bischoff & Co,13,47850.83,8.153846153846153,1866,merchant
+Henry Clarke & Co,22,47600.21,7.954545454545454,1866,merchant
+H & J Johnston & Co,3,47560.755,7.5,1857,merchant
+Bateman & Co,2,47501.02,6.0,1866,merchant
+I F Pawson & Co,8,47409.84,8.6875,1857,merchant
+Fore Street Warehouse & Co Limited,2,47334.43,11.5,1866,merchant
+Rob B Byass,16,47123.94,8.25,1857,other
+English & Swedish Bank Limited,3,47062.28,10.666666666666666,1866,commercial_bank
+John Hubbard & Co,6,46897.119999999995,6.5,1866,merchant
+Richard Hooper & Sons,14,46712.13,8.035714285714286,1866,other
+R. B. Byass,15,46562.84,8.733333333333333,1866,other
+H. S. Lefevre & Co,4,46328.4,10.0,1866,merchant
+William Deacon & Co For The Northampton Union Bank,1,46322.1,10.0,1866,commercial_bank
+R Cunliffes & Co,3,46262.8,10.0,1857,merchant
+Do,1,45900.0,10.0,1857,other
+B T Laveo & Co,1,45834.39,5.5,1857,merchant
+Woverhamption & Staffordshire Banking Corporation By ?,1,45756.0,10.0,1857,commercial_bank
+Palmer Mackillop Dent & Co,1,45000.0,10.0,1857,merchant
+Geo Soanes & Co,10,44889.125,7.5,1857,merchant
+Broadwood & Barclay,7,44659.86,7.285714285714286,1857,other
+Cj Hamlin & Sons,2,44622.0,10.0,1857,other
+Swewells & Neck,6,44537.6,6.916666666666667,1857,other
+J. & C. Boyd & Co,7,44251.295,7.642857142857143,1857,merchant
+G.F. Neame Co,3,44054.350000000006,5.0,1914,other
+"Ellis, Howell & Co",6,43867.409999999996,8.333333333333334,1866,merchant
+Hoge & Williamson,3,43469.4,8.333333333333334,1857,other
+J R Jaffray & Co,21,42738.0,8.523809523809524,1857,merchant
+Nathaniel Cohen,5,42495.7,8.125,1857+1866,other
+Williams Overbury & Co,10,42335.700000000004,10.0,1866,merchant
+Mccalmont Bros & Co,2,42273.0,10.0,1866,merchant
+Sampson Mitchell & Co,2,42219.58,9.0,1857,merchant
+Gillespie Churchill & Co,8,42089.56,6.4,1866,merchant
+W Mallaliew & Co,24,42015.11,8.041666666666666,1866,merchant
+P Hava & Co,10,41811.01,7.6,1857,merchant
+T.M. Mackay & Co,12,41439.04,6.9,1866,merchant
+T. R. Merton,3,41302.2,5.0,1914,other
+Stealfeild Lancence,4,41141.955,7.875,1857,other
+James Lang,14,41067.1,9.571428571428571,1857,other
+London & Venezuela Bank Limited,6,41010.96,9.5,1866,commercial_bank
+H. W. Elder & Son,9,40914.799999999996,7.777777777777778,1866,other
+European Bank Limited,4,40655.8,11.0,1866,commercial_bank
+Moses Brothers,13,40285.24,8.615384615384615,1857+1866,other
+Louis Cohen,1,40116.6,10.0,1857,other
+W Klein,15,40035.54,8.392857142857142,1857+1866,other
+Dwindale & Ho,1,40000.0,10.0,1866,other
+Scheibler & Coenen,16,39671.22,8.375,1866,merchant
+James Steains & Co,13,39511.450000000004,8.538461538461538,1866,merchant
+Dimsdale & Co,1,38475.9,10.0,1857,merchant
+Henry Kendall & Sons,8,37603.01,8.75,1866,other
+Merchant Bank & Co Limited,2,37537.119999999995,8.0,1866,commercial_bank
+English Scottish & Australian Bank Limited,2,37000.0,10.0,1866,commercial_bank
+Dennistoun Cross & Co,2,36836.8,8.0,1857,merchant
+L. Hart & Son,7,36609.19,8.0,1866,other
+James & Brown,1,35987.9,5.0,1914,other
+Ricketts Boutcher & Co,4,35981.81,9.5,1857,merchant
+"Copestake Moore, Crampton & Co",7,35890.479999999996,8.214285714285714,1857,merchant
+Pinto Leite & Nephews,4,35807.399999999994,5.0,1914,other
+Frullen Baubury & Co,1,35686.8,10.0,1866,merchant
+G. J. Smith For The Shropshire Banking Coy,2,35602.7,11.0,1866,commercial_bank
+G H & J F Wulff,9,35390.47,7.611111111111111,1857,other
+David Sasson & Co Ld,1,35195.6,5.0,1914,merchant
+Egyptian Commercial Trading Coy,3,35028.9,10.0,1866,merchant
+H. Bath & Son,9,34991.1,10.0,1866,other
+Aviesim & Co,9,34595.909999999996,6.888888888888889,1866,merchant
+Natl Bk Of Belgium,3,34546.85,4.833333333333333,1914,other
+Ebbw Vale & Co,2,34500.0,9.0,1857,merchant
+John Fair & Co,5,34466.18,9.6,1866,merchant
+Joseph Anderson & Son,12,34443.93,8.0,1866,other
+John Rapp & Co,4,34399.55,9.75,1857,merchant
+The Oriental Br Corps,1,34380.0,10.0,1857,other
+I.K. Gilliat & Co,1,34348.54,6.0,1866,merchant
+Arbuthnot Latham Co,3,34247.5,5.0,1914,other
+Kleinwort & Cohen,3,33930.9,10.0,1857,merchant_bank
+F. De Lizardi & Co,4,33830.36,9.5,1866,merchant
+Conway Phelps & Hayward,18,33700.755,8.180555555555555,1857+1866,other
+Foster Porter & Co,4,33454.565,9.3125,1857,merchant
+White Son & Co,18,33450.69,8.5,1857+1866,merchant
+D.Sasson Co Ltd,1,33251.9,5.0,1914,merchant
+Delhi & London Bank Ltd,1,32758.059999999998,6.0,1914,commercial_bank
+Copestake Moore & Co,4,32732.08,8.5,1866,merchant
+John Boy & Co,17,32305.6675,9.779411764705882,1857,merchant
+"Prince, Ogg & Co",4,31987.0,8.0,1866,merchant
+Hy Rogers Sons & Co,6,31711.949999999997,5.0,1914,merchant
+I.H.H. Holm,6,31678.82,6.8,1866,other
+"Tamvaco, Micrulachi & Co",6,31521.13,8.333333333333334,1866,merchant
+Tjas + Robinson W Ebbie Rale Co,1,31500.0,10.0,1857,other
+Morgan Gellibrand & Co,7,31480.06,8.285714285714286,1866,merchant_bank
+W & I Hall & Co,7,31329.079999999998,8.428571428571429,1866,merchant
+A Sellean Son & Co,2,31077.03,6.25,1857,merchant
+Weston & Co,5,31000.0,6.5,1866,merchant
+"Crocker, Sons & Turner",7,30891.949999999997,8.428571428571429,1866,other
+Ralli & Mavrojani,7,30870.640000000003,7.916666666666667,1857+1866,other
+P. J. Morgan & Co,1,30825.0,10.0,1866,merchant_bank
+Norris & Chaplin,8,30396.72,8.625,1866,other
+E Sheldon & Co,18,30269.83,8.61111111111111,1857,merchant
+English Scottish & Australian Bank Ltd,1,30060.85,5.0,1914,commercial_bank
+Keith Sands & Co,1,30000.0,10.0,1857,merchant
+Spalding & Hodge,11,29978.34,8.272727272727273,1866,other
+J. Mosenthal & Co,8,29828.6,7.625,1866,merchant
+Cj Howell & Son,2,29766.554999999997,5.5,1857,other
+Bevington & Morris,22,29495.52,8.409090909090908,1857+1866,other
+H Cox & Co,8,29488.07,8.571428571428571,1857,merchant
+Natl Bk Of Australasia,2,29144.1,5.0,1914,other
+The European Bank,1,29100.600000000002,10.0,1866,commercial_bank
+Gust Roos & Co,14,28939.5,10.0,1866,merchant
+Churchill & Sim,2,28811.25,6.0,1857+1914,other
+The East London Bank Limited,1,28809.9,10.0,1866,commercial_bank
+The Bombay Co Ltd,14,28800.859375,3.8973214285714284,1914,merchant
+Beo Befand Del Rio Co,1,28644.399999999998,5.0,1914,other
+"Rose, Graham & Wilson",5,28586.6,9.2,1866,other
+S Fafhet & Co,1,28500.0,5.0,1914,merchant
+I. K. Gilliat & Co,2,28417.14,6.0,1866,merchant
+H Hoffmann,12,28198.7,7.5,1857,other
+Leonon Hart & Son,3,28165.48,6.333333333333333,1857,other
+Donaldson Lambert & Co,4,28140.0,9.0,1866,merchant
+The Bank Of Egypt,1,27816.0,8.5,1866,commercial_bank
+Coventry Sheppard & Co,15,27783.05,7.923076923076923,1857+1866,merchant
+J & T Hepburn & Sons,10,27638.1,8.2,1866,other
+Bank Of Scotland,9,27549.999999999996,5.0,1914,commercial_bank
+Norton Megaw & Co Ltd,4,27476.348749999997,4.90625,1914,merchant
+Standard Bank Of Africa Limited,4,27407.379999999997,8.25,1866,commercial_bank
+P & C Van Notten & Co,8,27388.0,9.0,1866,merchant
+T. A. Hawkey,2,27000.0,10.0,1866,other
+J R Thomason & Co,1,27000.0,10.0,1857,merchant
+London & Liverpool Bank Of Commerce Ltd,2,26964.059999999998,3.0,1914,commercial_bank
+New Zealand Bank,2,26860.0,8.0,1866,commercial_bank
+F&A Delcomyn,2,26681.7,5.0,1914,other
+Thomas Phehan & Co,1,26663.0,9.0,1857,merchant
+Bevingtons & Sons,12,26635.48,7.666666666666667,1866,other
+W I & H Thompson,3,26580.0,8.0,1866,other
+Lemon Hart & Son,4,26568.22,8.5,1866,other
+Bank Of Australia,1,26456.55,5.0,1914,commercial_bank
+A. Mongredien & Co,5,26446.96,7.666666666666667,1866,merchant
+Bank Of Madras,15,26365.0,8.466666666666667,1866,commercial_bank
+Bicken & Co,1,25987.780000000002,9.0,1857,merchant
+Price Coker & Co,10,25920.64,7.5,1857,merchant
+Gledstanes & Co,3,25816.48,9.333333333333334,1857,merchant
+Imp Merchant Credit Australia,2,25800.0,7.0,1866,other
+Graham Tobias & Co,6,25755.940000000002,8.0,1857,merchant
+T. M. Comas & Co,9,25731.98,8.333333333333334,1866,merchant
+John Harbottle,8,25708.545,7.6875,1857+1866,other
+Naylor Benyon Co Ld,3,25469.65,5.5,1914,merchant
+"Bagallay, Westall & Spence",8,25287.58,9.125,1866,other
+F & E Godsell,7,25269.11,8.857142857142858,1857+1866,other
+"Gilmour, Rankin, Strang & Co.",15,25061.95,8.2,1866,merchant
+Joint Stock Discount Co Limited,1,25000.0,7.0,1866,discount_house
+Arluthrot Ewart & Co,15,24811.0925,4.55,1914,merchant
+T. Lowndes & Co,8,24549.72,7.375,1866,merchant
+J & A Crocker,5,24515.985,8.1,1857,other
+Atfu Heseundes & Co,1,24414.074999999997,5.5,1857,merchant
+Kerr & Scott,14,24359.54,8.642857142857142,1857,other
+Josh Robinson + Ebbie Vale Co,1,24300.0,10.0,1857,other
+Edward Higgin & Co,6,24208.2,10.0,1866,merchant
+B. Jubini & Co,5,23873.86,9.8,1866,merchant
+Bank Of Ireland,1,23750.0,5.0,1914,commercial_bank
+Samuel Stone,5,23696.24,8.1,1857,other
+Siordet Meyer & Co,5,23694.66,7.4,1857,merchant
+C Sutherland & Co,6,23410.5,9.083333333333334,1857,merchant
+A. Ralli & Co,1,23396.4,10.0,1866,merchant
+L Cohen,1,23384.7,10.0,1857,other
+Crowsley Bailey,2,23299.2,10.0,1866,other
+Hoston Megaw Co Ltd,6,23022.30625,2.7708333333333335,1914,merchant
+James Bult Son & Co,1,22803.6,7.0,1857,merchant
+Rohinson Fleming & Co,1,22656.55,5.0,1914,merchant
+"Kess, Scott & Co",7,22517.6,6.857142857142857,1866,merchant
+A Lillen Son & Co,1,22361.4,10.0,1857,merchant
+G. Credit & Finance Coy Limited,1,22286.7,10.0,1866,merchant
+John Currie & Co,3,22240.65,6.333333333333333,1857,merchant
+T. W. Smith & Co,11,22222.11,9.340909090909092,1857,merchant
+H & R Fowler,4,22209.2,10.0,1866,other
+Cole Nichols & Co,5,22157.1,10.0,1857,merchant
+George Brettle & Co,10,21481.265,8.5,1857+1866,merchant
+W Jackson & Co,4,21350.760000000002,9.0,1866,merchant
+Redfern Alexander & Co,2,21100.9,8.0,1866,merchant
+Bardgett & Picard,7,20954.515,7.083333333333333,1857,other
+J.R Belltman,2,20936.1,5.0,1914,other
+S Reuter,4,20741.4,10.0,1857,other
+John Pickersgill & Son,4,20673.0,10.0,1857,other
+W. & T. Devas & Co,12,20600.815,10.214285714285714,1857,merchant
+Trimmer & Grainger,11,20571.614999999998,8.09375,1866,other
+J. Kynaston & Sons,5,20538.949999999997,7.8,1866,other
+Same Hawkey & Co,1,20113.18,6.0,1866,merchant
+Coulon & Co,9,20085.605,8.555555555555555,1857,merchant
+Caldecott & Sons W,3,20072.75,9.666666666666666,1857,other
+"Randall, Wigan & Co",1,20000.0,10.0,1866,merchant
+Roger Cunliffe Son Co,1,20000.0,5.5,1857,other
+Stephenson Clarke,17,19939.035,9.0,1857+1866,other
+N Garrett & Sons,6,19799.42,7.333333333333333,1866,other
+Gilbert Kerr & Co,11,19634.18,8.166666666666666,1866,merchant
+C David & Co,3,19557.0,10.0,1857,merchant
+S.Barrow & Bro Ltd,3,19449.47,4.333333333333333,1914,merchant
+Jones & Brown,2,19419.9,5.0,1914,other
+T J & T Powell,4,19411.23,7.875,1857,other
+J L Lensome & Co,1,19390.84,8.0,1857,merchant
+H Waithman & Co,8,19359.43,8.25,1857,merchant
+Gauge & Co,1,19287.45,5.5,1857,merchant
+Cook Son & Co,3,19279.559999999998,7.333333333333333,1866,merchant
+"Heilbut, Symons & Co",4,19241.66,8.0,1866,merchant
+Hindley Co,5,19230.829999999998,4.5,1914,other
+Dominion Bank,1,19192.85,5.0,1914,commercial_bank
+Absolom Crocker & Co,26,19045.805,8.115384615384615,1857+1866,merchant
+Joseph Leese,1,19000.0,,1866,other
+S.Faphel & Co,1,19000.0,5.0,1914,merchant
+Cocker Biddulph & Co,1,19000.0,10.0,1866,merchant
+Arthur & Co Ltd,5,18969.738749999997,3.95,1914,merchant
+H Bateman,4,18929.05,8.75,1857,other
+Cox Heisch & Co,3,18859.5,10.0,1857+1866,merchant
+Eyles Evans & Co,8,18747.08,8.375,1857,merchant
+Church Son & Stubbs,17,18535.685,8.205882352941176,1857,other
+C Tottie & Sons,7,18483.7,9.285714285714286,1857,other
+Lewells + Nick,2,18469.0,10.0,1857,other
+Hatsman & Co,1,18326.45,5.0,1914,merchant
+Bailey & Co To Afe Of Bailey,1,18325.12,12.0,1866,merchant
+John Williams & Sons,14,18313.3725,8.410714285714286,1857,other
+Darent & Co,1,18309.600000000002,10.0,1857,merchant
+John Armitage & Co,4,18300.0,9.0,1866,merchant
+Rehder & Baldemann,6,18197.91,8.5,1857,other
+"Gellatly, Hankey & Sewell",6,18031.12,9.0,1866,other
+Spicer Brothers,5,17966.07,7.9,1857,other
+Baltazzi Sons & Co,5,17748.9,7.3,1857,merchant
+John Gladstone & Co,7,17700.535,8.416666666666666,1857,merchant
+"Pinto Perez, Ashley & Co",2,17670.0,7.0,1866,merchant
+Morgan Yellibrand & Co,4,17665.75,6.25,1914,merchant_bank
+R & H Green,3,17613.9,10.0,1866,other
+Marshall Page & Co,10,17596.075,8.55,1857+1866,merchant
+B. C. T. Gray & Son,5,17564.4,10.0,1857,other
+Samuel Courtaula & Co,5,17535.5,9.2,1866,merchant
+Thompson & Pattinson,5,17515.34,8.2,1866,other
+R&J Henderson,6,17357.45,5.0,1914,other
+W Anderson Hunt & Co,9,17352.0,8.642857142857142,1857,merchant
+Harvey & Hudsons,1,17343.0,10.0,1866,other
+D Drakeford & Co,9,17331.1525,8.36111111111111,1857,merchant
+Spence Baggallay & Co,5,17235.6,9.6,1857,merchant
+Jroing Ellsworth & Adams,2,17148.6,10.0,1857,other
+Ricard Freiwald,1,17094.3,5.0,1914,other
+The International Bank,2,17055.0,11.0,1866,commercial_bank
+Colchesters & Woolner,5,16927.94,8.7,1857+1866,other
+Taccivace Lucklacke,2,16838.01,5.5,1857,other
+J C Im Thuru & Co,2,16755.3,10.0,1857,merchant
+"L. Goddard, Finch & Co",13,16738.39,7.35,1866,merchant
+R & J Henderson,1,16698.600000000002,10.0,1866,other
+"Foster, Porter & Co",3,16621.440000000002,9.333333333333334,1866,merchant
+Daniel Hawkins,4,16580.0,8.0,1857,other
+John Pirie & Co,5,16579.980000000003,8.8,1857+1866,merchant
+C Walton & Sons,10,16461.98,8.95,1857,other
+Brockelbank & Rolt,8,16345.02,9.0,1857,commercial_bank
+Bowes Co Ltd,1,16293.310000000001,6.5,1914,merchant
+Turck Barclay & Co,10,16278.015,9.125,1857,merchant
+R. W. Kennard & Co,5,16264.669999999998,8.6,1866,merchant
+Joseph Richard,2,16241.8,10.0,1866,other
+Ashton & Co,3,16185.0,8.0,1857,merchant
+"Pye, Field & Co",5,16146.64,8.8,1866,merchant
+Sturt & Sharp,3,16061.685000000001,7.833333333333333,1857+1866,other
+N Fisher & Sons,6,16024.14,7.666666666666667,1866,other
+Joseph Traves & Sons,3,15883.76,8.0,1866,other
+W. Rattray & Co,11,15877.42,8.136363636363637,1866,merchant
+A Pelly & Co,6,15759.0,10.0,1857,merchant
+F. Gade & Son,8,15751.04,8.857142857142858,1866,other
+G Hitchcock & Co,4,15660.2,9.5,1857,merchant
+John Young & Co,3,15644.099999999999,7.666666666666667,1857,merchant
+Clawfow Coloui & Co,2,15550.185000000001,6.75,1857,merchant
+H & C Kent,5,15494.185,8.2,1857+1866,other
+J Dowson & Co,3,15454.665,8.5,1857,merchant
+J. R. Jaffray & Co,6,15300.0,10.0,1866,merchant
+Vivanti Annett & Co,12,15058.34,6.916666666666667,1866,merchant
+James Watt & Co,7,15026.6,8.142857142857142,1857+1866,merchant
+Robert Badger,1,15000.0,10.0,1857,other
+X. Balli,1,14961.6,10.0,1866,other
+Cotesworth & Powell,1,14800.0,8.5,1866,other
+W. Spotten & Co,10,14756.18,9.777777777777779,1866,merchant
+James Still & Sons,1,14653.66,6.0,1866,other
+George Smeed,6,14646.285,9.0,1866,other
+Vagliano Brothers,4,14574.999999999998,7.5,1866,other
+T. Courtauld & Co,1,14527.720000000001,8.0,1866,merchant
+Commonwealth Bk Of Australia,1,14382.05,5.0,1914,other
+John Crossley & Sons Limited,2,14355.75,6.5,1866,merchant
+F Le Breton,1,14292.0,10.0,1857,other
+W. Vaughan & Co,8,14278.9,8.75,1866,merchant
+Harryman & White,4,14193.18,8.75,1857,other
+E. C. M Da Costa,4,14185.9,9.0,1866,other
+L Hart & Son,3,14136.965,9.0,1857,other
+T & W Smith,9,14123.88,7.222222222222222,1866,other
+Sieveking Droop & Co,4,14112.48,8.5,1866,merchant
+Horstman Co,2,14109.4,5.0,1914,other
+Rayner & Co,7,14037.47,8.25,1866,merchant
+H & D Sharpe,6,14007.675,6.5,1857,other
+Robert Christie & Co,6,13986.380000000001,7.083333333333333,1866,merchant
+Melhuish Sons & Co,1,13972.960000000001,8.0,1857,merchant
+Randells & Co,5,13971.02,9.0,1857,merchant
+T Prehn & Co,1,13949.999999999998,7.0,1857,merchant
+Pinto Perez & Co,11,13936.32,9.166666666666666,1857,merchant
+Edward Liddell Manager Of The Sheffield Union Banking Company,1,13904.800000000001,9.0,1857,commercial_bank
+I B W Nevill & Co,7,13898.029999999999,6.708333333333333,1857,merchant
+Bowes Game & Moren,4,13891.48,8.75,1866,other
+Welch Margetson & Co,3,13844.744999999999,7.0,1857,merchant
+Nestle Andreae & Co,4,13840.2,10.0,1866,merchant
+John Ranking & Co,2,13837.5,10.0,1857,merchant
+The Egyptian Tribute,1,13663.839999999998,6.0,1866,other
+Hinkpatrick & Belguy,2,13604.2,6.625,1866,other
+"Bennoch, Twentyman & Rigg",4,13591.43,7.5,1857,other
+J. H. Rudall & Son,5,13551.720000000001,8.4,1866,other
+Bhimsey Sewjee & Co,4,13545.82,9.0,1866,merchant
+Jt Docoson & Co,1,13356.63,5.5,1857,merchant
+F. Bennoch & Co,8,13279.609999999999,8.428571428571429,1866,merchant
+Feo Foss & Co,3,13230.0,5.5,1857,merchant
+D & T J Warren,15,13183.279999999999,8.0,1866,other
+Draper Pietroni & Co,4,13138.0,8.5,1857,merchant
+William Leask,7,13096.435,8.357142857142858,1857,other
+Swindell Matthews & Sendall,6,13036.56,8.0,1866,other
+J. Gaury & Co,4,12817.859999999999,9.25,1866,merchant
+L Bunn & Co,7,12765.605,8.0,1857,merchant
+James Matthews & Co,7,12559.71,7.428571428571429,1866,merchant
+Jos. Bridgette & Co,3,12553.965,8.5,1857,merchant
+James Wiseman,6,12552.895,8.7,1866,other
+H + E Muggeridge,2,12504.24,5.5,1857,other
+Price'S Patent Candle Company Limited,2,12489.93,8.5,1857,merchant
+Edward Erolty & Co,2,12374.27,8.0,1857,merchant
+Lascaridi & Co,6,12359.400000000001,9.6,1857,merchant
+Chesnutt Cooper Co,4,12332.494999999999,5.375,1914,other
+John Feltham & Co,5,12205.48,9.1,1857,merchant
+James Spicer & Sons,3,12199.08,7.333333333333333,1866,other
+Charles Hemery,5,12107.8,10.0,1866,other
+Rhymney Iron & Co,2,12067.9,11.0,1866,merchant
+Cuadra Romero,2,12015.720000000001,9.0,1857,other
+James Barber & Co,5,11831.7,9.6,1857+1866,merchant
+John Anderson & Sons,2,11817.6,9.5,1857,other
+Morgan Brothers,4,11800.345000000001,8.375,1857+1866,merchant_bank
+Ebbie Vale Co & Robbinson,1,11799.9,10.0,1857,merchant
+Hardcastle & Co.,7,11791.01,8.0,1866,merchant
+Ollier & Co,5,11782.18,7.6,1866,merchant
+James Duncan & Co,3,11755.82,6.666666666666667,1866,merchant
+Prior Turner & Co,9,11716.135,8.5,1857,merchant
+George Lawrence,2,11654.1,7.75,1857,other
+Foster & Porter,2,11599.15,6.5,1866,other
+Hop Planters Joint Stock Company,2,11579.86,6.0,1866,other
+Carneille David & Co,2,11557.8,10.0,1857,merchant
+Small & Co,2,11481.6,10.0,1857+1866,merchant
+Crowe Christian & Co,4,11478.4,9.5,1857,merchant
+Higgins Eagle & Hutchinson,7,11417.45,8.071428571428571,1866,other
+Howse & Mead,9,11409.36,7.0,1857,other
+George Cross & Co,12,11374.3,8.083333333333334,1866,merchant
+W E Franks & Son,11,11307.115,8.068181818181818,1857,other
+Rawson Sons & Co,3,11287.2,8.5,1857,merchant
+Lloyd & Attree,15,11244.220000000001,8.571428571428571,1866,other
+H.S.Lefevre,1,11156.8,5.0,1914,other
+Geo Bretsle & Co,2,11142.404999999999,7.75,1857,merchant
+John Tellham & Co,4,11139.145,8.0,1857,merchant
+James Coster & Co,3,11132.36,9.333333333333334,1857,merchant
+London Bank Of Australia,1,11131.15,5.0,1914,commercial_bank
+British Honduras Coy Limited,2,11000.0,11.0,1866,merchant
+W H Cox & Co,2,10938.6,10.0,1857,merchant
+B Salomons & Sons,6,10933.605,7.083333333333333,1857,other
+J Hart & Co,7,10877.7,9.714285714285714,1857,merchant
+D. E. Power,10,10848.45,8.1,1866,other
+Abet Brothers,9,10802.14,9.625,1857,other
+J R Thomas & Co,1,10800.0,10.0,1857,merchant
+A G Da Costa,10,10678.6,7.5,1857,other
+D T Morgan,7,10618.02,7.214285714285714,1857,merchant_bank
+Siondet Mayer & Co,2,10525.119999999999,9.0,1857,merchant
+Richard Walford & Co,3,10480.13,7.666666666666667,1866,merchant
+Truhling & Goschen,1,10412.949999999999,5.0,1914,other
+W N De Mattos,7,10400.205,7.714285714285714,1857,other
+Brown Davis & Co,3,10364.619999999999,7.333333333333333,1866,merchant
+George Goss & Co,3,10327.32,8.5,1857,merchant
+Clement Dresser,8,10290.75,7.8125,1857+1866,other
+John Schwartz,15,10232.66,7.607142857142857,1866,other
+Boysin Hoyer Tagart,1,10000.0,11.0,1857,other
+T. D. Henry,2,9985.0,9.0,1866,other
+Benoliel Brothers,4,9955.800000000001,10.0,1857,other
+E. Lloyd & Co,5,9915.64,8.4,1866,merchant
+"H. Rogess, Sons & Co",1,9914.18,6.0,1866,merchant
+H. Butler & Son,5,9900.0,9.0,1866,other
+J. Young Ehlers & Co,1,9900.0,10.0,1866,merchant
+J Bulk Son & Co,1,9900.0,10.0,1857,merchant
+Gorton & Son,7,9891.4,7.928571428571429,1857+1866,other
+Gilmour Rankin Strong & Co,3,9890.42,9.333333333333334,1857,merchant
+Fishers & Robinson,2,9882.18,7.0,1857,other
+Oastler & Palmer,2,9853.08,6.0,1866,other
+Fisher King & Co,1,9837.25,5.0,1914,merchant
+Thomson Bonar & Co,1,9837.0,10.0,1866,merchant
+James Pin & Co,2,9758.7,10.0,1866,merchant
+John Torrance,2,9725.0,10.0,1866,other
+A Joachim,3,9689.06,5.833333333333333,1857,other
+King Melvil & Co,4,9568.17,7.125,1866,merchant
+Puget Bainbridges & Co,2,9523.38,8.5,1857+1866,merchant
+W + A Riand & Co,1,9450.0,5.5,1857,merchant
+Bailey Pegg & Co,5,9424.53,8.5,1857,merchant
+Provincial Bank & Corp Limited,2,9373.5,10.0,1866,commercial_bank
+The Jone St Marehouse Co Limited,1,9305.84,11.0,1866,merchant
+F Harrison & Co,6,9296.710000000001,8.416666666666666,1857,merchant
+Fenn Kemm & Fenn,8,9267.26,8.0625,1857,other
+Pinto Leite & Brothers,1,9224.1,10.0,1857,other
+R Johnson & Co,12,9211.335000000001,8.15,1857+1866,merchant
+Hinton Brothers & Co,9,9201.145,8.944444444444445,1857,merchant
+Geo: Hitchcock W: H & Co,2,9200.7,8.0,1866,merchant
+A. Grant Son & Co,2,9144.9,10.0,1866,merchant
+G & I. A. Noble,4,9041.25,9.0,1866,other
+J Hartley & Co,7,9028.755000000001,7.857142857142857,1857,merchant
+F Calvert,1,9000.0,10.0,1857,other
+Crowns Agents For Colonies,1,9000.0,10.0,1866,other
+Miles Brother & Co,1,9000.0,10.0,1866,merchant
+Greenwood & Co,9,8991.92,7.75,1857+1866,merchant
+Alexiadi Delta & Co,1,8984.720000000001,8.0,1857,merchant
+"Sanderson Frys, Rigge & Co",3,8969.9,10.0,1866,merchant
+Ja Bull Sons Co,1,8956.71,5.5,1857,other
+Fincham Matson Potts & Co,3,8899.779999999999,6.833333333333333,1857,merchant
+J Collinson,9,8872.11,9.4375,1857,other
+Northumberland & Durham Coal Co,8,8870.55,6.625,1857,other
+I & E Corderoy & Co,2,8836.2,10.0,1866,merchant
+Sims Willyams Nevill & Co,1,8807.4,10.0,1857,merchant
+G. Hitchcock Williams & Co,2,8791.2,10.0,1866,merchant
+Elder Stevens & Co,6,8775.779999999999,8.166666666666666,1866,merchant
+Walford Tainen & Co,3,8773.335,7.0,1857,merchant
+J Butt Son & Co,1,8753.535,5.5,1857,merchant
+I. W. Cater Sons & Co,1,8750.46,6.0,1866,merchant
+P Mordon & Co,5,8704.21,10.25,1866,merchant
+Hugh Jones & Co,11,8699.4,9.0,1866,merchant
+Welch Margeston & Co,2,8675.2,7.0,1866,merchant
+Clydesdale Bank Ltd,2,8669.699999999999,5.0,1914,commercial_bank
+Spalding & Hodges,8,8668.4475,8.25,1857,other
+W. E. Franks & Son,8,8667.44,7.9375,1866,other
+Lester & Buskin,6,8648.275,7.75,1857,other
+Henry Powell & Sons,2,8641.365,6.75,1857,other
+Samuel Gibson,5,8614.75,6.2,1866,other
+David Taylor & Sons,4,8614.24,8.25,1866,other
+C Fauntleroy,25,8611.555,8.5,1857,other
+J & J Vickers & Co,3,8599.23,7.666666666666667,1866,merchant
+C. Candy & Co,2,8487.9,10.0,1866,merchant
+John Young Ehlers & Co,1,8460.0,6.0,1866,merchant
+Aug: Wehmer,11,8428.5,8.1,1866,other
+Robert Bentley & Sons,2,8404.68,7.5,1857+1866,other
+J Bischoff & Sons,10,8397.365,8.4,1857,other
+J Davies & Son,13,8390.765,9.416666666666666,1857,other
+Price'S Patent Candle Co Limited,3,8352.98,9.333333333333334,1866,merchant
+Esdaile & Co,8,8331.64,7.625,1866,merchant
+Wilson Swale & Co,6,8265.0,7.833333333333333,1866,merchant
+Unity Mutual Bank,1,8253.7,9.0,1857,commercial_bank
+H Rogers Sons & Co,1,8175.6,10.0,1857,merchant
+J & I Batten & Co,3,8166.72125,5.041666666666667,1914,merchant
+J F Fixsen & Co,6,8154.33,7.916666666666667,1857,merchant
+Lanthe Buhnell,1,8064.900000000001,10.0,1866,other
+Hood & Ward,9,8022.575,8.222222222222221,1857,other
+Peek Brothers & Co,4,8010.000000000001,10.0,1866,merchant
+James Norris,6,7992.5175,8.35,1857,other
+W.Ladenburg & Co,2,7896.4,5.0,1914,merchant
+A. S. Petrie & Co,2,7877.300000000001,9.0,1857+1866,merchant
+Edwards Matthie,3,7871.945,8.166666666666666,1857,other
+W. Muggeridge & Co,3,7850.66,8.0,1866,merchant
+H Lohnotamm,1,7821.349999999999,5.0,1914,other
+T.O. Stock & Co,3,7800.0,8.0,1866,merchant
+Thos Walker,6,7750.8,10.0,1857,other
+Taster Oortens & Co,1,7731.044999999999,5.5,1857,merchant
+Sheyer Bros,1,7708.299999999999,5.0,1914,merchant
+"Jacomb, Hogg & Co",2,7701.360000000001,7.0,1866,merchant
+H. Clarkson & Co,8,7667.459999999999,7.125,1866,merchant
+W & H Brand & Co,5,7638.16,6.8,1857,merchant
+F Castelli,8,7628.78,8.25,1857,other
+W Mc Andrew & Sons,2,7619.66,7.0,1857,other
+I. Ciw Thaw & Co,1,7612.2,10.0,1857,merchant
+C Henry,9,7528.14,9.428571428571429,1857,other
+C Leary & Co,2,7450.2,10.0,1857,merchant
+Poutus Kleman,2,7440.0,7.0,1866,other
+H Butler & Son,1,7428.839999999999,7.0,1857,other
+Frangopulo Agelasto Co,1,7426.0,6.0,1866,other
+Horne & Watney,3,7420.855,8.166666666666666,1857,other
+Phillips King & Co,3,7419.6,10.0,1857,merchant
+J. G. Homere,1,7380.900000000001,10.0,1866,other
+Unity Joint,1,7367.360000000001,8.0,1857,other
+Thomas Lowndes & Co,5,7360.21,9.4,1857,merchant
+Cash + Ledgard,4,7349.5025000000005,7.3125,1857,other
+Simon & Carey,3,7330.5,7.833333333333333,1857,other
+Bernard Elliot,1,7330.2,5.0,1914,other
+Judah Hard & Co,2,7284.45,8.5,1866,merchant
+J Carter & Co,2,7272.09,8.5,1857,merchant
+Coutts & Co,1,7247.549999999999,5.0,1914,merchant
+Baker & Co,1,7225.2,10.0,1857,merchant
+Da Costa & Kiell,2,7200.0,10.0,1866,other
+Rutherford Drury & Co,9,7185.75,8.0,1866,merchant
+Novelli & Co,3,7181.639999999999,7.333333333333333,1866,merchant
+Wilson Leward & Swale,2,7180.0,9.0,1857,other
+Puito Perry & Co,6,7155.0,10.0,1857,merchant
+Phirias Abraham,3,7141.5,10.0,1857,other
+R Evans & Co,4,7074.33,8.25,1857,merchant
+Truman Hitchcock & Co,1,7045.299999999999,6.0,1866,merchant
+Thomas Stephen & Co,1,7021.8,10.0,1866,merchant
+T Ralli Sons & Co,1,7015.5,10.0,1857,merchant
+T. & D. Henry,2,7009.33,10.25,1857,other
+"Wilson, Rose, Graham & Co",6,6958.89,7.5,1857,merchant
+F Ede Son & Noyes,7,6952.32,7.785714285714286,1866,other
+Sevidet Mayer & Co,3,6937.424999999999,7.0,1857,merchant
+Page & Welch,2,6909.94,6.0,1866,other
+J. Hubbard & Co,1,6900.0,8.0,1866,merchant
+Rowley & Davies,3,6817.84,8.666666666666666,1866,other
+I T W Noakes,2,6773.84,8.25,1857,other
+Ross & Ash,2,6750.0,10.0,1866,other
+Palmer & Co,6,6738.37,8.583333333333334,1857,merchant
+James Shears & Sons,5,6734.42,8.9,1857,other
+Wilson & Bellenger,4,6729.38,7.5,1866,other
+Unity St Something,1,6702.59,11.0,1857,other
+Allen Solly & Co,4,6651.42,7.75,1866,merchant
+Henry Joachim,4,6644.9,8.75,1857,other
+Saml.Barrow & Bro Ld,1,6627.2,5.0,1914,other
+C C Williams,4,6615.0,5.666666666666667,1857,other
+Browning Wood & Fox,7,6577.52,7.642857142857143,1857+1866,other
+H P Rouquette & Co,3,6517.9,8.666666666666666,1857,merchant
+Prier P Candle & Co,2,6490.32,10.5,1857,merchant
+E & A Prior,9,6475.889999999999,7.166666666666667,1857,other
+W. Morhimore,8,6445.53,8.375,1866,other
+H E + M Moses,1,6440.0,8.0,1857,other
+Borrowman Phillipps & Co,5,6435.959999999999,6.875,1866,merchant
+"Caldecott, Sons & Willcocks",1,6400.8,10.0,1866,other
+J & W J Courtenay,4,6350.74,9.5,1857,other
+H H Lindsay,6,6344.405000000001,8.5,1857,other
+Clode & Baker,2,6336.38,8.0,1866,other
+I. & B. Pearse & Co,3,6290.0,9.5,1857,merchant
+Stera Bros,1,6258.6,10.0,1857,merchant
+Hartman & Mallet,3,6218.32,7.333333333333333,1866,other
+Samuel Sadler,4,6211.56,6.0,1857+1866,other
+Thomas Stephens & Co,2,6210.4,8.0,1866,merchant
+Wn De Hacelles,2,6151.8150000000005,7.75,1857,other
+Richard Evans & Co,4,6149.84,8.0,1866,merchant
+Charles & Fox,11,6138.945,7.7727272727272725,1857+1866,other
+Poppleton Gibs & Co,2,6122.18,5.25,1914,merchant
+Henderson & Constable,4,6066.825,8.375,1857,merchant
+"Dae La Rue Thomas, & Co",3,6051.755,6.5,1857,merchant
+Young Harrison & Bevan,3,6039.365,6.166666666666667,1857+1866,other
+Inglis & Wakefield,2,6023.54,7.5,1866,other
+John Dickensgill & Son,1,6003.92,8.0,1857,other
+Gladstone Ewart & Co,3,5985.9,10.0,1866,merchant
+Tw Bradley & Co,5,5983.73,6.9,1857,merchant
+Smith & Lister,2,5980.700000000001,8.75,1866,other
+"Mac Intyre, Buchanan & Co",5,5942.36,8.0,1866,merchant
+Lom Bunudti Soms & Co,1,5906.429999999999,7.0,1866,merchant
+De Jersey & Co,1,5905.2,5.0,1914,merchant
+Pomsford Southall & Co,3,5886.959999999999,7.666666666666667,1866,merchant
+Grissell Brothers & Co,4,5885.0,9.625,1857,merchant
+J. H. Rudall,4,5875.715,8.375,1857,other
+Morley Nephew & Co,1,5852.21,9.0,1857,merchant
+Chaffey & Son,8,5813.4025,7.75,1857+1866,other
+W Vaughan & Co,2,5791.4400000000005,9.25,1857,merchant
+Fecan Kerrison & Flanne,7,5768.005,10.357142857142858,1857,other
+Tamvaco Michrulachi,1,5762.28,7.0,1857,merchant
+Somervell & Co,7,5758.27,8.833333333333334,1866,merchant
+I. W. Cripps,3,5757.94,7.333333333333333,1866,other
+Clairmonte Brothers,5,5751.975,8.5,1857,other
+Morlet + Horne,3,5746.995,8.5,1857,other
+Robert Campbell,1,5700.320000000001,8.0,1866,other
+T. I. & T. Powell,9,5682.9,5.0,1914,other
+Castelli Brothers,2,5669.1,10.0,1866,other
+J. Tenny Clarke & Co,1,5620.259999999999,6.0,1866,merchant
+W. Halford & Co,2,5605.0,5.0,1914,merchant
+David Lloyd,1,5543.92,8.0,1857,other
+Tamvaco Utell,1,5472.900000000001,10.0,1857,merchant
+Mangles Brothers,3,5458.05,8.5,1857,other
+Carr & Hoare,4,5448.6,10.0,1866,other
+Charles Rayne,6,5425.7,8.0,1866,other
+Pritchett & Sons,8,5356.52,8.357142857142858,1866,other
+Phillips Faithfull & Co,5,5320.13,8.55,1857,merchant
+Bheonutt Booper & Co,3,5320.0,5.0,1914,merchant
+A. Salomons,3,5245.5,8.0,1866,other
+Wm Oliver & Sons Ltd,2,5238.29,4.0,1914,merchant
+Smellgrove & Leach,2,5202.0,10.0,1866,other
+Middleton Answorth & Co,2,5199.21,8.5,1866,merchant
+A Jarohai,1,5197.5,5.5,1857,other
+Buckler Woolbright,2,5173.275,7.5,1866,other
+D Lloyd,2,5115.285,5.5,1857,other
+John Gladding & Son,18,5099.35,7.833333333333333,1866,other
+Sillem & Co,1,5085.76,8.0,1866,merchant
+J Gaury & Co,2,5044.76,9.0,1857,merchant
+J Maurenbrecher & Co,2,5038.22,9.0,1857,merchant
+H Ballin & Son,1,5000.0,5.5,1857,other
+F Engelhardt,1,4940.1,10.0,1857,other
+Northumberland & Durham Coal,8,4906.98,7.625,1866,other
+Gene Credit & Co Limited,1,4881.6,10.0,1866,merchant
+Sanderson & Murray,3,4857.5599999999995,6.333333333333333,1866,other
+"Hanson, Smiths & Stephens",3,4856.115,7.833333333333333,1866,other
+E Bernouilli,6,4844.205,9.25,1857,other
+J Foot & Son,5,4829.285,6.2,1857,other
+S. Northcote & Co,4,4819.7,8.0,1866,merchant
+Ruck Fenwick & Ruck,2,4778.41,11.0,1857,other
+Geo Gore & Co,1,4777.51,10.5,1857,merchant
+Thos Pretu & Co,1,4752.0,10.0,1857,merchant
+Higginson & Co,1,4750.0,5.0,1914,merchant
+L. Brusewitz,1,4700.0,6.0,1866,other
+Barry & Nephews,1,4700.0,6.0,1866,other
+Stephen Kennard & Co,1,4680.0,10.0,1866,merchant
+Britsh Linen Bank,8,4664.5,5.0,1914,commercial_bank
+A Webber & Co,5,4661.8550000000005,8.3,1857,merchant
+John Pickessgill & Sons,1,4661.1,10.0,1857,other
+Guillaume Coster,1,4620.6,10.0,1866,other
+Warre Brothers,4,4545.58,9.5,1857,other
+J Jacobson & Co,9,4542.54,6.5,1857,merchant
+"Wilson, Seward & Swale",4,4518.0,7.75,1857,other
+Morley & Powell,1,4509.179999999999,6.0,1866,other
+W Berkefeld,1,4500.0,10.0,1857,other
+James Cook & Co,1,4500.0,10.0,1857,merchant
+Rodocanachi Sons & Co,3,4465.0,5.0,1914,merchant
+Mac Intyre Buchanan & Co,6,4395.38,8.5,1857,merchant
+Puzey Pallett & Co,4,4393.1,8.375,1857+1866,merchant
+Walford Fairer & Harrison,1,4386.8099999999995,7.0,1857,other
+Gunning & Duarell,3,4382.639999999999,7.333333333333333,1866,other
+Mme Cherry Co,1,4332.825,5.5,1857,other
+Bautcher Baltimore,1,4331.88,5.5,1857,other
+J Hubbard & Co,3,4300.635,8.833333333333334,1857,merchant
+Kemp Stone & Co,2,4294.3,9.0,1866,merchant
+Hocking Hitchock & Co,2,4293.58,9.0,1866,merchant
+Wr Crow & Son,1,4266.45,5.0,1914,other
+Neville Reid Prestwich & Co,2,4247.1,10.0,1857,merchant
+H Bucknall & Sons Ltd,1,4165.75,5.0,1914,merchant
+Josh Anderson,1,4144.5,10.0,1857,other
+Springfield Sons & Co,1,4125.6,10.0,1857,merchant
+B. Tucker & Co,4,4112.5,6.0,1866,merchant
+John Barelli & Co,5,4106.6,8.4,1866,merchant
+Truman Hitchcock,1,4080.6,10.0,1857,other
+T. Husband & Co,3,4057.12,7.333333333333333,1866,merchant
+George Walker,3,4050.0,9.0,1866,other
+Hawes Stanbridge & Hedley,5,4043.0,7.5,1857,other
+Escourt & Stanley,4,4033.525,7.833333333333333,1866,other
+Thomas Walker,3,4010.8199999999997,8.666666666666666,1866,other
+W Jameson & Son,2,3993.0,9.0,1857,other
+Dawson Campbell & Co,2,3980.4300000000003,7.75,1857,merchant
+Hit Dellators,1,3964.2749999999996,5.5,1857,other
+John Fore & Co,2,3919.59,7.75,1857,merchant
+Havenith & Co,1,3870.0,10.0,1857,merchant
+"Bidgood, Jones & Wilson",2,3865.58,8.0,1866,other
+C. H. Noble,4,3846.2200000000003,7.0,1866,other
+Cunliffe Bros,1,3841.7999999999997,5.0,1914,merchant
+Jw Silmer & Co,1,3821.58,5.5,1857,merchant
+Luckie Brothers & Co,8,3811.9224999999997,8.25,1857+1866,merchant
+Henckell Du Buisson & Co,1,3807.0,6.0,1866,merchant
+"Dunbar, Dicksons & Co",2,3806.26,6.5,1866,merchant
+Lroving Ebsworth & Co,1,3794.0800000000004,8.0,1857,merchant
+E. Higgin & Co,2,3780.0,10.0,1866,merchant
+C H Olivier,5,3743.96,8.5,1857,other
+S W Silver & Co,1,3716.1,10.0,1857,merchant
+H Davies,4,3703.95,6.25,1857,other
+O. Roberts & Son,1,3689.5,6.0,1866,other
+Rehdi & Baldermann,1,3670.8,8.0,1857,other
+Lengerke Caesar,1,3645.9,10.0,1857,other
+J H Randall,3,3632.38,8.333333333333334,1857,other
+J Main Sons & Co,2,3622.59,7.75,1857,merchant
+T. De La Rue & Co,3,3610.05,9.0,1866,merchant
+Wienholt Wehmer & Co,1,3591.0,10.0,1857,merchant
+Culverwell Brooks Co,1,3589.0,3.0,1914,other
+Samuel Magnus,6,3565.47,6.166666666666667,1866,other
+Beverington Norris,1,3548.7000000000003,10.0,1857,other
+Green Humphry & Co,3,3546.83,7.666666666666667,1866,merchant
+T. Hubbuck & Son Ltd,2,3522.6,5.0,1914,merchant
+Brown & Laws,2,3507.3,10.0,1866,other
+John Hugher & Co,6,3504.06,8.166666666666666,1866,merchant
+Adamson & Ronaldson,7,3492.03,10.333333333333334,1866,other
+G & J Prince,3,3485.67,7.833333333333333,1857,other
+W Kendle,7,3476.54,7.428571428571429,1857,other
+S Swownell & Son,5,3442.845,9.25,1857,other
+Blogg Vellantini,1,3442.53,9.0,1857,other
+William Clowes & Sons,1,3436.355,5.75,1857,other
+Field & Sons,2,3428.24,9.0,1866,other
+Hall & Nuttall,9,3410.02,7.777777777777778,1866,other
+Thomas Seamer & Son,6,3384.15,8.166666666666666,1866,other
+A Cose & Co,1,3327.87,9.0,1857,merchant
+Taylor & Whalley,1,3290.0,6.0,1866,other
+George Routledge & Son,7,3265.93,7.285714285714286,1866,other
+L Goddard Finch & Co,6,3247.76,8.7,1857,merchant
+H White & Co,1,3246.6299999999997,7.0,1866,merchant
+N. C. Frank & Sons,3,3243.81,7.833333333333333,1866,other
+E. H. Keeling & Son,1,3225.14,6.0,1866,other
+W. Ewart & Son Ltd,1,3224.2999999999997,5.0,1914,merchant
+Swindell & Bankhead,5,3190.65,8.7,1857,commercial_bank
+W.H. Cox & Co,1,3171.6,10.0,1866,merchant
+Ps Galatti,4,3156.3,10.0,1857,other
+J. H. Mackenzie,1,3150.0,10.0,1866,other
+Lister & Biggs,9,3147.995,8.5625,1866,other
+W Smee & Sons,3,3144.7650000000003,7.833333333333333,1857,other
+Joseph Bridgett & Co,1,3143.7000000000003,10.0,1866,merchant
+L Engstrom Neame & Co,1,3110.52,8.0,1857,merchant
+L Bisset & Co,2,3109.05,5.5,1857,merchant
+E Girdham & Co,4,3086.02,7.25,1866,merchant
+Stoman & Co,1,3085.2000000000003,10.0,1866,merchant
+W Hinkes Cay & Co,1,3085.2000000000003,10.0,1866,merchant
+R + Paul,2,3071.7,10.0,1857,other
+J. Defries & Sons,6,3069.7799999999997,7.8,1866,other
+Tandel + Phillips,1,3047.625,5.5,1857,other
+Bedell Prior & Co,4,3042.9,10.0,1866,merchant
+G Costen,1,3018.6,10.0,1866,other
+Moris Ashby Ltd,1,3011.765,3.5,1914,merchant
+F. Bowes & Co,1,3000.0,10.0,1866,merchant
+Hoine Wahney,1,2976.75,5.5,1857,other
+Wf Moore,4,2958.62,10.333333333333334,1857,other
+W H Cox & Sons,1,2914.62,7.0,1857,other
+Wm Norton Yates Lombard St,1,2905.1,5.0,1914,other
+Joseph Balfour,1,2900.0,10.0,1866,other
+Lapton Hootond & Co,2,2867.13,5.5,1857,merchant
+Wm Lymington & Co,1,2853.7999999999997,5.0,1914,merchant
+E. & I. Vickers & Co,5,2850.73,9.6,1857,merchant
+I Isaacs,3,2847.2200000000003,7.833333333333333,1857,other
+Favell Beddome & Co,2,2829.555,7.0,1857,merchant
+Teede & Bishop,6,2817.935,8.25,1866,other
+James Anderson & Co,4,2815.0,6.875,1857+1866,merchant
+John Haurie Nephew,3,2813.4,10.0,1866,other
+Eyre & Spottiswoode,4,2768.7,9.0,1866,other
+"Porter, Schlusser & Co",2,2760.0,8.0,1866,merchant
+"Pye, Field & Tanqueray",1,2758.8999999999996,6.0,1866,other
+Hanson Smiths & Stevens,1,2725.2000000000003,10.0,1857,other
+Yeames Lander & Co,1,2718.9,10.0,1857,merchant
+"Puice, Coken & Co",1,2704.3799999999997,6.0,1866,merchant
+E. Tetley & Son,8,2700.88,7.285714285714286,1866,other
+Dudgeon & Co,1,2700.0,10.0,1857,merchant
+Steve Blas,1,2693.25,5.5,1857,other
+B Elkin & Sons,3,2689.25,7.5,1857,other
+F. Horne & Co,1,2687.4,10.0,1866,merchant
+Tevan Kamon & Son,2,2678.13,5.5,1857,other
+It Tixcsen & Co,2,2669.625,5.5,1857,merchant
+W & H Braud & Co,1,2650.5,7.0,1857,merchant
+William Andew & Sons,1,2646.9,10.0,1857,other
+Ew Fernie,2,2642.4,10.0,1857,other
+Cripps & Starkey,2,2621.16,9.5,1857,other
+S. W. Silver & Co,2,2599.1,6.0,1866,merchant
+R. Johnson & Co,5,2588.68,9.25,1866,merchant
+Edward Corry,2,2565.0,10.0,1866,other
+John Goie & Co,2,2564.56,9.0,1857,merchant
+David Lloyd & Co,2,2563.6,7.5,1866,merchant
+Wm Rivet & Sons Ltd,1,2558.35,5.0,1914,merchant
+Hicks Baylis & Hicks,1,2552.4449999999997,5.5,1857,other
+Bidgorddons & Co,2,2545.335,7.75,1857,merchant
+Mangles & Co,1,2543.4,10.0,1857,merchant
+Standring Brothers,3,2530.8,8.0,1857,other
+S. H. Lucas & Son,1,2527.2000000000003,10.0,1866,other
+John Courtenay,1,2511.93,7.0,1857,other
+Shropshire Bank Coy ( To The Afe Of G. J. Smith ),1,2495.7000000000003,10.0,1866,commercial_bank
+Walker Howell & Co,3,2477.7,10.0,1857,merchant
+P Davey & Sons,3,2475.265,8.833333333333334,1857,other
+Rainey Bruce & Co,4,2448.75,7.375,1857,merchant
+Bandier Tobias & Co,1,2436.21,5.5,1857,merchant
+Lut & George,1,2417.4,10.0,1857,other
+Southall & Ponsford,2,2417.395,7.5,1857,other
+"Judah, Hart & Co",2,2414.43,8.5,1866,merchant
+Hore + Gifford,3,2388.745,7.333333333333333,1857,other
+Burr Brother & Co,2,2388.54,6.0,1866,merchant
+Koebel Jameson & Co,2,2385.0,10.0,1866,merchant
+James Scott & Son,1,2381.64,11.0,1866,other
+H Williamns & Co,1,2375.1,10.0,1857,merchant
+Brien & Parker,13,2365.6,8.846153846153847,1857,other
+N Nicholls & Sons,4,2359.8075,8.1875,1857,other
+W. H. Hindley,2,2358.46,8.0,1866,other
+T . O. Stock & Co,1,2350.0,6.0,1866,merchant
+H.C. Heut,1,2345.2999999999997,6.0,1866,other
+Henry Dresser & Co,1,2340.9,10.0,1857,merchant
+Ashby Morris Ltd,1,2335.7599999999998,3.0,1914,merchant
+Thomas Ainsworth,1,2334.6,10.0,1866,other
+Closley Vepher & Co,1,2332.2599999999998,5.5,1857,merchant
+Swonnell Samuel & Son,2,2327.37,6.5,1866,other
+??Se Sons & Co,1,2325.93,7.0,1866,merchant
+Joseph Tetley & Co,3,2316.6000000000004,6.666666666666667,1866,merchant
+Pike Leake & Co,1,2296.65,8.5,1857,merchant
+Wm Hooten Yates,2,2290.45,5.0,1914,other
+C Faintling,2,2272.5,7.75,1857,other
+J. B. Elin,1,2250.0,10.0,1866,other
+A. Wehmes,2,2245.0,10.5,1866,other
+Stephen Evans & Co,3,2232.4399999999996,8.833333333333334,1866,merchant
+James Mills,4,2199.7799999999997,7.0,1866,other
+C. Lloyd & Co,1,2192.08,6.0,1866,merchant
+W. Mepzstein,1,2190.6,10.0,1866,other
+Pye Field & Tanqueray,1,2186.1,10.0,1857,other
+Locke Lanccaster W W R Johnson Sons Ltd,2,2184.05,5.0,1914,merchant
+William Burnside,1,2177.4300000000003,9.5,1857,other
+R W Kein & Co,2,2162.9300000000003,10.5,1857,merchant
+T M Waters,3,2152.42,8.666666666666666,1857,other
+John Reay Sons & Co,3,2149.1,7.833333333333333,1857,merchant
+Parker Hine & Co,3,2146.8599999999997,7.0,1857,merchant
+W.R.Crow & Son,1,2146.0499999999997,5.0,1914,other
+Tuichaw Leatson P & Co,1,2138.535,5.5,1857,merchant
+H Lancaster & Bull,3,2135.475,7.833333333333333,1857,other
+M. Z. Just & Co,1,2102.4,10.0,1866,merchant
+G. Andreae & Co,2,2092.5,10.0,1866,merchant
+Blogg + Martin,1,2082.6,10.0,1857,other
+Hellertwaag Russel,1,2079.5499999999997,5.0,1914,other
+Jersey Banking Coy,1,2067.3,10.0,1866,commercial_bank
+Priei Cohen & Co,1,2049.3,10.0,1857,merchant
+T Le Princeton,1,2048.4,10.0,1857,other
+Eastern Amos & Sons,1,2046.6000000000001,10.0,1866,other
+L&A Brown,1,2019.6999999999998,5.0,1914,other
+J D Park,1,2019.03,7.0,1857,other
+John Riaff Sons & Co,3,2017.075,8.166666666666666,1857,merchant
+Heitz & Deveze,3,2015.58,8.666666666666666,1866,other
+Te Blatsphiel,2,2005.29,5.5,1857,other
+Bieber & Co.,1,2005.02,6.0,1866,merchant
+John Simmonds,6,2004.1,7.4,1866,other
+J. B. Elvis,1,2000.0,10.0,1866,other
+Schwann & Co,1,1999.4999999999998,7.0,1866,merchant
+F.T. Barry,1,1995.62,6.0,1866,other
+Kipling Pain & Co,2,1980.9,10.0,1866,merchant
+Serutton Sons & Co,1,1980.0,10.0,1857,merchant
+Alex Webber & Co,3,1972.08,8.0,1866,merchant
+Unity St Jk Bank,1,1966.5,10.0,1857,commercial_bank
+Cutler & Barker,2,1956.45,6.75,1866,other
+Jacob Isaac,1,1945.8,6.0,1866,other
+W. Hi & Andrew Form,1,1937.25,5.5,1857,other
+Schrmann Bros,1,1936.1,5.0,1914,merchant
+W. H. Laird,2,1935.0,10.0,1857,other
+Lupton Hooton & Co,1,1926.075,8.5,1857,merchant
+Dufay & Isnard,2,1915.32,7.5,1866,other
+S.Bobree & Sons,1,1907.6,5.0,1914,other
+Blyth Greene Jourdain Co Ld,1,1894.3,5.0,1914,merchant
+Curteis Whitworth & Co,1,1892.7,10.0,1866,merchant
+W Anderson Haut & Co,1,1890.0,5.5,1857,merchant
+C Jamtterey,1,1890.0,5.5,1857,other
+John Mair Son & Co,1,1881.0,10.0,1857,merchant
+N. H. Pantridge & Co,1,1873.8,10.0,1866,merchant
+T. Hodgekinson & Co,3,1872.5,6.5,1866,merchant
+J. Bennock & Co,1,1862.1399999999999,6.0,1866,merchant
+Bank Of Australasia,1,1851.55,5.0,1914,commercial_bank
+Schwaan & Co,1,1843.0,5.0,1914,merchant
+Carvalho Brother & Co,2,1822.5,10.0,1866,merchant
+Fw Caseus,2,1816.2,10.0,1857,other
+E J Cole,8,1814.87,8.714285714285714,1857,other
+Balls Garrett,2,1807.1,8.0,1866,other
+C Tauntlory,3,1800.0,7.0,1857,other
+W. H. Partridge & Co,1,1800.0,10.0,1866,merchant
+B. De Castro & Co,2,1800.0,10.0,1866,merchant
+J Hash & Co,1,1800.0,10.0,1857,merchant
+Wm Andrew & Sons,1,1790.1000000000001,10.0,1857,other
+R. W. Starkey & Son,2,1789.2,10.0,1866,other
+Hawes & Co,1,1780.0,11.0,1866,merchant
+Richard Johnson & Co,2,1779.3799999999999,9.0,1866,merchant
+Moses Solomon,3,1773.4499999999998,5.833333333333333,1857+1866,other
+S Vander Willigen,1,1756.3,9.0,1857,other
+W. H & A Scott,1,1755.9,10.0,1866,other
+Williams Meyustein,1,1738.8,10.0,1866,other
+"Lockie, Crosier & Edwards",1,1737.0,10.0,1866,other
+L Busson & Co,1,1724.665,10.5,1857,merchant
+John Boyd,2,1722.37,8.5,1866,other
+Chas Belier,2,1710.0,5.0,1914,other
+E. Lloyd & Cp,1,1710.0,10.0,1866,other
+James Mullins & Co,1,1709.34,7.0,1857,merchant
+Gunning + Luarell,2,1694.16,7.75,1857,other
+"Grierson, Cole & Co.",2,1674.25,7.5,1866,merchant
+Cha Heinery,1,1671.3,10.0,1857,other
+Harley Nephew & Co,1,1669.8149999999998,5.5,1857,merchant
+G.G. Sandeman Sons Co,1,1666.3,5.0,1914,other
+J. Hughes & Co,2,1654.48,8.0,1866,merchant
+Washington & Davies,2,1631.35,9.0,1857,other
+"Locke, Crosier & Edwards",2,1631.26,8.0,1866,other
+T Hodgkinson & Co,4,1629.1799999999998,5.5,1857,merchant
+Raff. Bascones,1,1628.4,8.0,1866,other
+Faudel & Phillips,1,1624.455,5.5,1857,other
+A Dimitris & Sons,2,1610.28,5.5,1857,other
+Parner Sons & Pictoned,1,1606.5,5.5,1857,other
+Jellicoe & Wix,2,1601.775,5.5,1857,other
+W Hunt & Co,1,1598.0,6.0,1866,merchant
+"Davey, Thompson & Alder",1,1593.9,10.0,1866,other
+Carvalho & Brother,1,1557.0,10.0,1857,other
+Hen Geoff,1,1549.8,5.5,1857,other
+Allen & Solly,1,1539.16,8.0,1857,other
+M Da Costa + I. E. Coleman,1,1514.7,10.0,1857,other
+New Zealand Loans Afe,1,1500.0,6.0,1866,other
+G. Routledge & Sons Ld,2,1499.1,5.0,1914,other
+James Lawrence,2,1498.5,10.0,1866,other
+Nestle & Anglo Swiss C.Milk Co,1,1496.25,5.0,1914,other
+W H & A Scott,1,1472.0,8.0,1857,other
+G. Houghton & Sons,4,1471.8000000000002,7.875,1857,other
+David Kidd & Son,2,1465.2,10.0,1866,other
+Richard Poppleton,1,1461.9599999999998,7.0,1866,other
+Jonas Simonsen & Co,1,1458.0,10.0,1866,merchant
+Vander Willigen Simon,1,1445.3200000000002,8.0,1866,other
+Matthew Brothers,1,1430.1000000000001,10.0,1857,other
+John Montefiore & Son,1,1410.3,10.0,1857,other
+Jh Macku,2,1409.04,7.75,1857,other
+L. Engstrom Browning & Co,1,1405.8,10.0,1866,merchant
+A F Schleicher,1,1401.3,10.0,1857,other
+London S N Coy Limited,1,1398.72,6.0,1866,merchant
+Schwarm & Co,1,1386.0,10.0,1866,merchant
+Tp Lloyds & Co,1,1383.3,10.0,1857,merchant
+J H N Loundes & Co,1,1374.03,5.5,1857,merchant
+Resta Moore,3,1362.5,9.166666666666666,1857,other
+John Halles,1,1354.5,10.0,1866,other
+Nowoorjee Furdoonjee,1,1351.8,10.0,1866,other
+George Peash,6,1344.435,7.75,1857,other
+J.Greenich & Sons Ld,1,1333.1799999999998,4.5,1914,other
+J & B Peade & Co,1,1314.12,6.0,1866,merchant
+"Gilmour, Rankin, Strang & Co",1,1305.48,8.0,1866,merchant
+J. B Thompson,1,1292.28,11.0,1866,other
+Sinclair Hamilton & Co,1,1268.68,8.0,1857,merchant
+N. H + A Scott,1,1266.3,10.0,1857,other
+Neumann Lueback & Co,1,1265.3999999999999,5.0,1914,merchant
+A. G. D Costa,1,1260.0,10.0,1866,other
+Oliver & Carr,3,1252.68,9.0,1866,other
+Bardburg & Cook,1,1248.32,6.0,1866,merchant
+Beaudsell & Jackson,2,1238.6499999999999,6.5,1866,other
+Tho' Stephens & Co,1,1215.0,10.0,1857,merchant
+Thomas Nelson & Son,2,1207.92,6.5,1866,other
+Parker Son & Picktchef,1,1206.66,9.0,1857,other
+James Consens,1,1188.0,10.0,1857,other
+H Huith,1,1179.36,5.5,1857,other
+Henckell Du Buisson Co,2,1175.53,6.5,1914,other
+Bridgewater Jones & Co,2,1169.8200000000002,9.0,1866,merchant
+Joane Jackson & Co,1,1162.35,5.5,1857,merchant
+John Walker,5,1149.3,8.5,1857,other
+R Von Glehn,1,1142.97,7.0,1857,other
+E Beach Sons & Co,1,1138.725,5.5,1857,merchant
+H. A Joseph,1,1128.0,6.0,1866,other
+Chas Watton & Sons,1,1124.55,5.5,1857,other
+H R Fowler,1,1098.48,8.0,1857,other
+I. E. Coleman,2,1091.7,10.0,1857,other
+Tw Madley & Co,1,1083.915,5.5,1857,merchant
+John Barelli,1,1077.87,7.0,1857,other
+H J Lias & Son,4,1075.43,7.5,1857,other
+W Bamondi,1,1074.465,5.5,1857,other
+P. Abraham,3,1071.0,7.333333333333333,1866,other
+P J Meugsino,2,1046.5,9.0,1857,other
+Tho Husband & Co,1,1039.5,5.5,1857,merchant
+P Howard,1,1039.5,5.5,1857,other
+Tavell Beddone & Co,1,1029.105,5.5,1857,merchant
+Thomas Seamer,2,1018.8,10.0,1857,other
+W Clewes & Sons,1,1000.8000000000001,10.0,1857,other
+Thos Wecom & Son,1,1000.0,10.0,1857,other
+"Meares, Absolom & Co",3,998.01,8.5,1866,merchant
+E Beach Frn & Rep,1,992.7,10.0,1866,other
+Harper Burne & Co,1,990.8399999999999,10.25,1857,merchant
+National Bk Ld,1,989.9,5.0,1914,other
+Inglis Wakefield,1,978.0749999999999,5.5,1857,other
+John Sharp,3,971.52,7.166666666666667,1857,other
+Mody & Co,1,968.1999999999999,6.0,1866,merchant
+Bidgood Jones & Wilson,1,966.4200000000001,9.0,1857,other
+Secretan Campbell & Co,1,958.8,6.0,1866,merchant
+Beauvaisen + Leannard,1,950.67,5.5,1857,other
+F Walter & Co,1,950.0,5.0,1914,merchant
+William Chevyt & Co,1,948.5200000000001,8.0,1857,merchant
+Edward Sparkhall,1,945.0,5.5,1857,other
+Sromidill & Beckham,2,945.0,10.0,1857,other
+William Jackson,1,943.2,10.0,1857,other
+Parkinson & Dilchick,1,932.7149999999999,5.5,1857,other
+Union Smiths Bank Ld Prescotts,1,931.9499999999999,5.0,1914,commercial_bank
+Tevan Kamm Tevan,1,930.8249999999999,5.5,1857,other
+Barnard & Co,1,930.8249999999999,5.5,1857,merchant
+"Bauley, Pegg & Co",1,929.9999999999999,7.0,1866,merchant
+W E Eddison,2,929.5799999999999,7.5,1857,other
+Freinn Kennedy Percival (?),1,921.1999999999999,6.0,1857,other
+Messrs Berkefeld,1,920.0,8.0,1857,other
+S Stuart,1,909.0,10.0,1857,other
+Stinton Bard & Co,1,904.365,5.5,1857,merchant
+Dawson Worth,1,900.0,10.0,1866,other
+N. Ganuap,1,900.0,10.0,1866,other
+Joseph Jackson,2,900.0,10.0,1857,other
+Edward Luckie,1,900.0,10.0,1866,other
+C & S Grimmrade,1,900.0,10.0,1866,other
+B Halberth & Sons,1,900.0,10.0,1857,other
+Parker Son & Co,1,897.3000000000001,10.0,1857,merchant
+S Swonnell & Son,2,888.0,6.5,1857,other
+L.Boy.W.Bk Bk Chas Comiys Co,2,877.8,5.0,1914,other
+J. W Laird,2,839.4499999999999,6.5,1866,other
+S. Rich,1,828.0,8.0,1866,other
+Gb Oyates & Son,1,819.3149999999999,5.5,1857,other
+Charles Hoare Co,1,814.15,5.0,1914,other
+Mae Jontque Buchanan & Co,1,807.9749999999999,5.5,1857,merchant
+James Davidge,5,806.5,8.625,1857,other
+"Mackinlay, Reuss & Co",1,800.0,10.0,1866,merchant
+W Howell & Co,1,791.1800000000001,10.5,1857,merchant
+"Bayliss, Jones & Bayliss",1,782.0,8.0,1866,other
+J P Thal & Co,2,779.97,6.75,1857,merchant
+G. B. Yates & Son,2,775.7,8.0,1866,other
+H. Thurburn,1,765.0,10.0,1866,other
+H. D. Baleh,4,758.865,8.125,1866,other
+J E Ford,1,757.8000000000001,10.0,1857,other
+Sivendell & Baukland,1,756.0,5.5,1857,other
+W. E. Eddison & Co,1,756.0,10.0,1866,merchant
+Barff & Co,1,748.8000000000001,10.0,1866,merchant
+Frederick Sage,12,745.58,9.0,1866,other
+Newton B & Co,1,741.6,10.0,1857,merchant
+Perrott & Perrott,1,730.8000000000001,10.0,1866,other
+E Downs & Co,1,724.7825,5.75,1857,merchant
+Banffo & Co,1,720.0,10.0,1866,merchant
+T Scott,1,711.5849999999999,5.5,1857,other
+T Lawnde & Co,1,701.1899999999999,5.5,1857,merchant
+Joseph Barwick,1,696.6,10.0,1866,other
+H. Varasseus,1,695.5999999999999,6.0,1866,other
+W Kindle,1,687.97,11.0,1857,other
+Vivian & Younger,1,675.0,10.0,1866,other
+Joseph Callinson,2,663.3899999999999,5.5,1857,other
+J. P. Thol & Co,2,656.8,8.0,1866,merchant
+F J Montoya,1,651.0,7.0,1857,other
+A. M. Peebler & Son,1,650.48,6.0,1866,other
+Rees Glammong & Co,5,648.08,9.6,1866,merchant
+Natl Bk Of England Ltd,1,647.9,5.0,1914,merchant
+Perrott +Perrott,1,644.0,8.0,1857,other
+"John Reay, Sons Co",2,637.44,8.0,1866,other
+Tevan Kamon + Tevan,1,636.93,5.5,1857,other
+Grosscuth & Lubodlt,1,627.0,5.0,1914,other
+Pesta Movie,1,614.25,5.5,1857,other
+I. W. Horsley,2,610.29,6.5,1866,other
+D H Bushell,5,607.23,7.0,1857,other
+Till & Flegor,1,592.515,5.5,1857,other
+W Jenkinson,2,565.53,8.5,1866,other
+Owthwaite & Co,4,556.9100000000001,9.625,1857,merchant
+S & J Peqq,1,551.78,6.0,1866,other
+C E Fireman,1,548.1,10.0,1857,other
+John Macfrige,1,548.1,10.0,1857,other
+Mary Burton,1,540.0,10.0,1857,other
+W Wilson & Co,1,540.0,10.0,1866,merchant
+A. Haliener & Co,4,536.4,10.0,1866,merchant
+Charles & Jof,1,532.98,5.5,1857,other
+E. F. Oelricks & Co,3,531.7,11.0,1866,merchant
+Robt Beattey & Sons,1,529.1999999999999,5.5,1857,other
+Andrew Jackson & Co,1,517.0,6.0,1866,merchant
+Jt Dow,1,516.915,5.5,1857,other
+M. Mayer & Co,1,513.0,10.0,1866,merchant
+Lurek Barelay,1,512.1,10.0,1857,other
+George Johnson & Co,1,509.40000000000003,10.0,1857,merchant
+W M Crauston,1,491.40000000000003,10.0,1866,other
+Langton + Robinson,1,489.6,10.0,1857,other
+A L Crohn,2,489.0,7.5,1857,other
+Carlthian & Corbierie,1,488.24999999999994,7.0,1857,merchant
+H. & J. Johnson & Co,1,480.24,8.0,1857,merchant
+London Missionary Soc,1,477.5,4.5,1914,other
+Pesk Hooie,1,472.5,5.5,1857,other
+Tho Hodgkinson & Co,1,472.5,5.5,1857,merchant
+H C & Cabe,1,464.99999999999994,7.0,1857,other
+C A Jonas & Co,2,452.7,10.0,1857,merchant
+Harvey Stambridge,1,450.0,10.0,1857,other
+J. D. Dow,1,450.0,10.0,1866,other
+J. H Boobyer & Co,1,434.7,10.0,1866,merchant
+A.Branwell Co Ltd,3,434.15,5.0,1914,merchant
+Henry Moul,1,432.90000000000003,10.0,1866,other
+Frederick Dunhill,5,424.19500000000005,8.3,1866,other
+A Jackson & Co,2,418.68,8.5,1857,merchant
+Butterworth & Sons,1,417.57,7.0,1857,other
+G. & S. Kiteat,1,408.37,3.0,1914,other
+H.Kohnstamm,1,402.79999999999995,5.0,1914,other
+S. Lewis & Sons,1,402.69,7.0,1866,other
+J H Dart,2,402.48,7.75,1857,other
+Fred Fratt,1,394.79999999999995,6.0,1857,other
+Thomas Leamer,1,392.40000000000003,10.0,1857,other
+G E Mackieth,4,383.57,7.5,1857,other
+J. B. Minshall,1,383.40000000000003,10.0,1866,other
+J W Gibbon,1,378.0,5.5,1857,other
+John Keay Sons Co,1,377.88,6.0,1866,other
+J. H. Dant,1,376.0,6.0,1866,other
+Tho Frefor,1,372.33,5.5,1857,other
+G. E Macketh,3,368.48,6.0,1866,other
+Titus Nevrhouse,1,360.0,10.0,1866,other
+Battley & Butler,1,353.7,10.0,1866,other
+Eady & Paris,2,344.58000000000004,6.25,1866,other
+Jp Thol & Co,1,343.97999999999996,5.5,1857,merchant
+Fox & Thompson,1,341.31,7.0,1866,other
+Hall & Gray,1,333.585,5.5,1914,other
+T Knaus & Co,1,330.88,6.0,1866,merchant
+C. E. Heinke,2,329.94,8.0,1866,other
+William Audlace & Sons,1,322.0,8.0,1857,other
+Thos M Gregor,1,319.5,10.0,1857,other
+Tw Eady,1,314.64,8.0,1857,other
+Alfred Towgood,2,312.855,8.0,1857,other
+Bl Leman,2,309.96,5.5,1857,other
+T Walker,1,307.8,10.0,1857,other
+Child & Co,2,296.4,5.0,1914,merchant
+Tiedenick Tatt,1,283.5,5.5,1857,other
+Teument & Co,1,283.5,5.5,1857,merchant
+Thomas Stephings,2,282.0,6.0,1857+1866,other
+Richard Mitchell,5,276.45,8.25,1866,other
+Francis Scott,1,270.90000000000003,10.0,1857,other
+J. M. Buston,1,270.0,10.0,1866,other
+Julius Jacoby,2,266.4,10.0,1866,other
+Calchesters & Woolman,1,247.38,7.0,1857,other
+Jr Browne,2,238.14,7.75,1857,other
+W. J. Crook,1,237.5,5.0,1914,other
+Nara Matu,1,236.74,11.0,1866,other
+Thomas Hodgkinsons & Co,1,235.0,6.0,1857,merchant
+H Richard & Sons,1,233.595,10.5,1857,other
+Thomas Hodgkinson & Co,1,230.0,8.0,1857,merchant
+J J Buttress,2,220.02,10.5,1857,other
+J Simpson,1,217.35,5.5,1857,other
+Tho Nelson & Son,1,207.89999999999998,5.5,1857,other
+Geo Gibbs & Son,1,204.11999999999998,5.5,1857,merchant_bank
+Samuel Strickland,2,198.55,6.5,1866,other
+S A Moore & Others,1,198.45,5.5,1857,other
+T Dunhill,2,198.22,8.0,1857,other
+Tho Biggs,3,198.0,7.75,1857,other
+Gale & Frieud,1,189.9,10.0,1866,other
+M F Mackenzie,1,188.0,6.0,1866,other
+Thomas M Gregor,1,186.11999999999998,6.0,1866,other
+John Smith,1,186.0,7.0,1866,other
+W. Pickford,1,184.5,10.0,1866,other
+Bayliss Jones & Bayliss,1,180.5,5.0,1914,other
+Angus Mackenzie,1,180.0,10.0,1857,other
+Tr Browne,2,179.54999999999998,5.5,1857,other
+R J + R Swift,2,178.605,5.5,1857,other
+John Getting,1,175.78,6.0,1866,other
+Bier & Partner,2,173.88,5.5,1857,other
+R Rea & Co,2,173.55,11.0,1857,merchant
+Thomas Walton,1,166.47,7.0,1857,other
+J. L. Minel,1,165.44,6.0,1866,other
+G. J Thompson,1,161.1,10.0,1866,other
+W F Brown,1,159.31,10.5,1857,other
+G E Mackreth,1,143.1,10.0,1857,other
+Byfield & Richards,3,140.4,10.0,1866,other
+J D Dow,1,139.5,7.0,1857,other
+Beiy Riley,1,138.17999999999998,6.0,1866,other
+S A Hodgson,1,120.015,5.5,1857,other
+Alfred Stram,1,110.91999999999999,6.0,1866,other
+James Dickson,1,109.8,10.0,1866,other
+F. Dunhill,2,105.80000000000001,7.5,1866,other
+Ehrmann Bros,1,104.5,5.0,1914,merchant
+H. J. V. Greenway,1,95.88,6.0,1866,other
+Hl Crohn,1,94.5,5.5,1857,other
+Joseph Gonalaie,1,94.5,5.5,1857,other
+Adi Denielrio & Sons,2,90.0,10.0,1857,other
+J Davidge,1,90.0,10.0,1857,other
+J & W Rider,2,87.89,6.25,1866,other
+T H Biggs,1,79.38,5.5,1857,other
+P. S. Galitti,1,70.875,5.5,1857,other
+Frederick Smee,1,65.8,6.0,1866,other
+George Wyatt,2,61.11,7.75,1857,other
+J. Samuel & Emmanuel,2,52.63999999999999,6.0,1866,other
+Tj Van Yellen Of Bauks,1,47.25,5.5,1857,other
+J. G. Buskin,1,45.0,10.0,1866,other
+J Samalvier,1,45.0,10.0,1857,other
+Joshua Jornalvico,1,44.415,5.5,1857,other
+Thomas Lee,2,40.480000000000004,8.0,1857,other
+J. Ballauce & Son,1,40.419999999999995,6.0,1866,other
+J. O. Beetron,3,38.7,10.0,1866,other
+John S Baike,1,23.625,5.5,1857,other
+Thomas Drayton,2,23.400000000000002,10.0,1857,other
+John H Barbe,1,22.5,10.0,1857,other
+Richard Pearee,1,20.47,11.0,1857,other
+Joseph Samalivies,1,18.0,10.0,1857,other
+Kraft Bros,1,0.0,,1914,merchant
+Philip Levi & Co,1,0.0,,1866,merchant
+Sam Swownell & Son,1,0.0,,1857,other
+E.Pandorf,1,0.0,,1914,other
+Loveing & Minton,1,0.0,7.0,1866,other
+Saml Dobree & Sons,1,0.0,,1914,other
+E Mansell + Ga Ellie & Co,1,0.0,,1857,merchant
+John Schneider & Co,1,0.0,5.5,1857,merchant
+Robert Adams,2,0.0,,1866,other
+Gillson Cole & Co,1,0.0,,1866,merchant
+R + Rea & Co,1,0.0,,1857,merchant
+Unreadable,1,0.0,,1857,other
+Henry Cowell,1,0.0,,1866,other
+H Hillby & Sons,1,0.0,,1866,other
+Nesleukings Bus,1,0.0,,1866,other
+H B Downing,1,0.0,,1857,other
+Miller & Potter,2,0.0,7.0,1857,other
+T. O. Beeton,2,0.0,,1866,other
+Rt Saunders,1,0.0,5.5,1857,other
+Thomas Lyde,1,0.0,,1866,other
+T. O. Stock & Co,1,0.0,,1866,merchant
+Abrahamson Lihme & Co,1,0.0,10.0,1866,merchant
+J P Bunt & Co,1,0.0,,1866,merchant
+J Jackson & Co,1,0.0,,1857,merchant
+Finance Company Ld,1,0.0,,1914,other
+G Friend,1,0.0,5.5,1857,other
+Robert Froie,1,0.0,5.5,1857,other
+Akmagaroff & Gasparian,1,0.0,7.0,1857,other
+Alex Collie & Co,1,0.0,,1866,merchant
+Walter Howell,1,0.0,,1866,other
+B L Lomant,1,0.0,5.5,1857,other
+R Forte Swift,1,0.0,5.5,1857,other
+Bucknell & Sons,1,0.0,,1857,other
+Nate Linds,1,0.0,,1866,other
+James Laurence,1,0.0,,1857,other
+R T + R Swift,1,0.0,,1857,other
+R F & R Swift,1,0.0,8.0,1857,other
+Williams Deacon & Co,1,0.0,,1857,merchant
+John Bill Dresser & Co,1,0.0,,1857,merchant

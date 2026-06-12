@@ -1,0 +1,2211 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d1" for="node" attr.name="origin_group" attr.type="string"/>
+<key id="d0" for="node" attr.name="value" attr.type="double"/>
+<graph edgedefault="undirected"><node id="A. Ruffer &amp; Sons">
+  <data key="d0">470857.44749999995</data>
+  <data key="d1">Émigré: German &amp; Central European</data>
+</node>
+<node id="Agra &amp; Masterman's Bank">
+  <data key="d0">750000.0</data>
+  <data key="d1">Colonial / Imperial bank</data>
+</node>
+<node id="Alexanders &amp; Co (discount)">
+  <data key="d0">10496784.375</data>
+  <data key="d1">British: discount house</data>
+</node>
+<node id="Allen, Harvey &amp; Ross">
+  <data key="d0">3087057.8</data>
+  <data key="d1">British: discount house</data>
+</node>
+<node id="Anglo South American Bank">
+  <data key="d0">2166880.925</data>
+  <data key="d1">Colonial / Imperial bank</data>
+</node>
+<node id="B. Simon &amp; A. Jacoby">
+  <data key="d0">101706.32</data>
+  <data key="d1">Émigré: German &amp; Central European</data>
+</node>
+<node id="B. W. Blydenstein &amp; Co">
+  <data key="d0">7082331.32</data>
+  <data key="d1">Émigré: German &amp; Central European</data>
+</node>
+<node id="Baker, Duncombe &amp; Co">
+  <data key="d0">3677587.4</data>
+  <data key="d1">British: private / merchant (native)</data>
+</node>
+<node id="Banca Commerciale Italiana">
+  <data key="d0">443935.0</data>
+  <data key="d1">Foreign bank (1914 wartime)</data>
+</node>
+<node id="Bank of Montreal">
+  <data key="d0">317946.95</data>
+  <data key="d1">Colonial / Imperial bank</data>
+</node>
+<node id="Banque Belge">
+  <data key="d0">1069739.9</data>
+  <data key="d1">Foreign bank (1914 wartime)</data>
+</node>
+<node id="Barclay &amp; Co">
+  <data key="d0">721060.35</data>
+  <data key="d1">British: clearing / joint-stock bank</data>
+</node>
+<node id="Baring Brothers &amp; Co">
+  <data key="d0">983269.1499999999</data>
+  <data key="d1">British: private / merchant (native)</data>
+</node>
+<node id="Bieber &amp; Co">
+  <data key="d0">201633.27000000002</data>
+  <data key="d1">Émigré: German &amp; Central European</data>
+</node>
+<node id="Bischoffsheim &amp; Goldschmidt">
+  <data key="d0">169437.43</data>
+  <data key="d1">Émigré: German &amp; Central European</data>
+</node>
+<node id="Bordier, Fabris &amp; Co">
+  <data key="d0">52379.405</data>
+  <data key="d1">Émigré: German &amp; Central European</data>
+</node>
+<node id="Brightwen &amp; Co">
+  <data key="d0">5952465.72</data>
+  <data key="d1">British: private / merchant (native)</data>
+</node>
+<node id="British Bank of South America">
+  <data key="d0">952994.2</data>
+  <data key="d1">Colonial / Imperial bank</data>
+</node>
+<node id="Brown, Shipley &amp; Co">
+  <data key="d0">205353.89999999997</data>
+  <data key="d1">Émigré: American</data>
+</node>
+<node id="Bruce, Wilkinson &amp; Co">
+  <data key="d0">2239566.925</data>
+  <data key="d1">British: discount house</data>
+</node>
+<node id="C. J. Hambro &amp; Son">
+  <data key="d0">1470433.435</data>
+  <data key="d1">Émigré: German &amp; Central European</data>
+</node>
+<node id="Cama &amp; Co">
+  <data key="d0">356055.025</data>
+  <data key="d1">Émigré: Indian / Parsi</data>
+</node>
+<node id="Canadian Bank of Commerce">
+  <data key="d0">603157.095</data>
+  <data key="d1">Colonial / Imperial bank</data>
+</node>
+<node id="Capital &amp; Counties Bank">
+  <data key="d0">710577.2</data>
+  <data key="d1">British: clearing / joint-stock bank</data>
+</node>
+<node id="Chartered Bank of India, Australia &amp; China">
+  <data key="d0">2175719.51</data>
+  <data key="d1">Colonial / Imperial bank</data>
+</node>
+<node id="Comptoir National d'Escompte de Paris">
+  <data key="d0">1901110.55</data>
+  <data key="d1">Foreign bank (1914 wartime)</data>
+</node>
+<node id="Credito Italiano">
+  <data key="d0">862855.5499999999</data>
+  <data key="d1">Foreign bank (1914 wartime)</data>
+</node>
+<node id="Cunliffe Brothers">
+  <data key="d0">3531132.905</data>
+  <data key="d1">British: private / merchant (native)</data>
+</node>
+<node id="Dadabhai Naoroji &amp; Co">
+  <data key="d0">90862.47</data>
+  <data key="d1">Émigré: Indian / Parsi</data>
+</node>
+<node id="Daniell, Cazenove &amp; Co">
+  <data key="d0">780754.33</data>
+  <data key="d1">British: private / merchant (native)</data>
+</node>
+<node id="Deutsche Bank (London)">
+  <data key="d0">1321208.7</data>
+  <data key="d1">Foreign bank (1914 wartime)</data>
+</node>
+<node id="Eastern Bank">
+  <data key="d0">699639.39</data>
+  <data key="d1">Colonial / Imperial bank</data>
+</node>
+<node id="Framjee &amp; Co">
+  <data key="d0">108968.97</data>
+  <data key="d1">Émigré: Indian / Parsi</data>
+</node>
+<node id="Frederick Huth &amp; Co">
+  <data key="d0">1530682.7662499999</data>
+  <data key="d1">Émigré: German &amp; Central European</data>
+</node>
+<node id="Frith, Sands &amp; Co">
+  <data key="d0">1717569.92</data>
+  <data key="d1">British: discount house</data>
+</node>
+<node id="Frühling &amp; Goschen">
+  <data key="d0">429791.31</data>
+  <data key="d1">Émigré: German &amp; Central European</data>
+</node>
+<node id="George Peabody &amp; Co">
+  <data key="d0">494353.93</data>
+  <data key="d1">Émigré: American</data>
+</node>
+<node id="Gillett Brothers">
+  <data key="d0">940985.02</data>
+  <data key="d1">British: discount house</data>
+</node>
+<node id="Glyn, Mills, Currie &amp; Co">
+  <data key="d0">11215141.07</data>
+  <data key="d1">British: private / merchant (native)</data>
+</node>
+<node id="Guaranty Trust Co of New York">
+  <data key="d0">653935.35</data>
+  <data key="d1">Émigré: American</data>
+</node>
+<node id="Haarbleicher &amp; Schumann">
+  <data key="d0">2608964.62</data>
+  <data key="d1">Émigré: German &amp; Central European</data>
+</node>
+<node id="Hongkong &amp; Shanghai Banking Corp.">
+  <data key="d0">1617882.8725</data>
+  <data key="d1">Colonial / Imperial bank</data>
+</node>
+<node id="Imperial Ottoman Bank">
+  <data key="d0">2372876.95</data>
+  <data key="d1">Foreign bank (1914 wartime)</data>
+</node>
+<node id="International Banking Corporation">
+  <data key="d0">708043.2999999999</data>
+  <data key="d1">Émigré: American</data>
+</node>
+<node id="J. C. Im Thurn &amp; Co">
+  <data key="d0">146127.56</data>
+  <data key="d1">Émigré: German &amp; Central European</data>
+</node>
+<node id="J. Henry Schröder &amp; Co">
+  <data key="d0">1323156.99</data>
+  <data key="d1">Émigré: German &amp; Central European</data>
+</node>
+<node id="J. L. Lemme &amp; Co">
+  <data key="d0">136584.675</data>
+  <data key="d1">Émigré: German &amp; Central European</data>
+</node>
+<node id="King &amp; Foa">
+  <data key="d0">3875752.79</data>
+  <data key="d1">Émigré: Greek &amp; Levantine</data>
+</node>
+<node id="Kleinwort, Sons &amp; Co">
+  <data key="d0">828866.85</data>
+  <data key="d1">Émigré: German &amp; Central European</data>
+</node>
+<node id="Kraeutler &amp; Mieville">
+  <data key="d0">259095.74000000002</data>
+  <data key="d1">Émigré: German &amp; Central European</data>
+</node>
+<node id="König Brothers">
+  <data key="d0">233761.9</data>
+  <data key="d1">Émigré: German &amp; Central European</data>
+</node>
+<node id="Leonino &amp; Co">
+  <data key="d0">188957.86000000002</data>
+  <data key="d1">Émigré: Greek &amp; Levantine</data>
+</node>
+<node id="Lloyds Bank">
+  <data key="d0">4051027.05</data>
+  <data key="d1">British: clearing / joint-stock bank</data>
+</node>
+<node id="London &amp; Brazilian Bank">
+  <data key="d0">2027684.8499999999</data>
+  <data key="d1">Colonial / Imperial bank</data>
+</node>
+<node id="London &amp; River Plate Bank">
+  <data key="d0">2905118.75</data>
+  <data key="d1">Colonial / Imperial bank</data>
+</node>
+<node id="London &amp; South Western Bank">
+  <data key="d0">1073072.5</data>
+  <data key="d1">British: clearing / joint-stock bank</data>
+</node>
+<node id="London County &amp; Westminster Bank">
+  <data key="d0">10371128.9</data>
+  <data key="d1">British: clearing / joint-stock bank</data>
+</node>
+<node id="London Hanseatic Bank">
+  <data key="d0">274311.39</data>
+  <data key="d1">Foreign bank (1914 wartime)</data>
+</node>
+<node id="London Joint Stock Bank">
+  <data key="d0">2215691.65</data>
+  <data key="d1">British: clearing / joint-stock bank</data>
+</node>
+<node id="Lütgens &amp; Ripley">
+  <data key="d0">290912.8</data>
+  <data key="d1">Émigré: German &amp; Central European</data>
+</node>
+<node id="M. Levin &amp; Adler">
+  <data key="d0">58339.159999999996</data>
+  <data key="d1">Émigré: German &amp; Central European</data>
+</node>
+<node id="Manchester &amp; Liverpool District Bank">
+  <data key="d0">358625.0</data>
+  <data key="d1">British: clearing / joint-stock bank</data>
+</node>
+<node id="Mercantile Bank of India">
+  <data key="d0">819240.29</data>
+  <data key="d1">Colonial / Imperial bank</data>
+</node>
+<node id="N. M. Rothschild &amp; Sons">
+  <data key="d0">1237482.3499999999</data>
+  <data key="d1">Émigré: German &amp; Central European</data>
+</node>
+<node id="National Bank of India">
+  <data key="d0">2885403.4025</data>
+  <data key="d1">Colonial / Imperial bank</data>
+</node>
+<node id="National Bank of Scotland">
+  <data key="d0">370236.85</data>
+  <data key="d1">British: clearing / joint-stock bank</data>
+</node>
+<node id="National Discount Co.">
+  <data key="d0">8753672.325</data>
+  <data key="d1">British: discount house</data>
+</node>
+<node id="National Provincial Bank">
+  <data key="d0">3309195.8</data>
+  <data key="d1">British: clearing / joint-stock bank</data>
+</node>
+<node id="Overend, Gurney &amp; Co">
+  <data key="d0">4871776.9</data>
+  <data key="d1">British: discount house</data>
+</node>
+<node id="Parr's Bank">
+  <data key="d0">835460.3999999999</data>
+  <data key="d1">British: clearing / joint-stock bank</data>
+</node>
+<node id="R. Heine, Semon &amp; Co">
+  <data key="d0">186549.8</data>
+  <data key="d1">Émigré: German &amp; Central European</data>
+</node>
+<node id="Ralli Brothers">
+  <data key="d0">417757.55</data>
+  <data key="d1">Émigré: Greek &amp; Levantine</data>
+</node>
+<node id="Reeves, Whitburn &amp; Co">
+  <data key="d0">6174018.93</data>
+  <data key="d1">British: private / merchant (native)</data>
+</node>
+<node id="Robarts, Lubbock &amp; Co">
+  <data key="d0">196156.94999999998</data>
+  <data key="d1">British: private / merchant (native)</data>
+</node>
+<node id="Royal Bank of Scotland">
+  <data key="d0">830775.95</data>
+  <data key="d1">British: clearing / joint-stock bank</data>
+</node>
+<node id="Ryder &amp; Co">
+  <data key="d0">1458923.00875</data>
+  <data key="d1">British: discount house</data>
+</node>
+<node id="Samuel Montagu &amp; Co">
+  <data key="d0">1652516.7175</data>
+  <data key="d1">Émigré: German &amp; Central European</data>
+</node>
+<node id="Sanderson, Sandeman &amp; Co">
+  <data key="d0">1781120.29</data>
+  <data key="d1">British: discount house</data>
+</node>
+<node id="Smith, Fleming &amp; Co">
+  <data key="d0">1130267.06</data>
+  <data key="d1">British: private / merchant (native)</data>
+</node>
+<node id="Smith, St Aubyn &amp; Co">
+  <data key="d0">4894544.49</data>
+  <data key="d1">British: discount house</data>
+</node>
+<node id="Standard Bank of South Africa">
+  <data key="d0">619090.2999999999</data>
+  <data key="d1">Colonial / Imperial bank</data>
+</node>
+<node id="Stern Brothers">
+  <data key="d0">138699.05</data>
+  <data key="d1">Émigré: German &amp; Central European</data>
+</node>
+<node id="Suse &amp; Sibeth">
+  <data key="d0">279279.08</data>
+  <data key="d1">Émigré: German &amp; Central European</data>
+</node>
+<node id="Swiss Bankverein">
+  <data key="d0">346781.35</data>
+  <data key="d1">Foreign bank (1914 wartime)</data>
+</node>
+<node id="Union Bank of Australia">
+  <data key="d0">284327.39999999997</data>
+  <data key="d1">Colonial / Imperial bank</data>
+</node>
+<node id="Union Bank of Scotland">
+  <data key="d0">881277.95</data>
+  <data key="d1">British: clearing / joint-stock bank</data>
+</node>
+<node id="Union Discount Co. of London">
+  <data key="d0">10352861.34</data>
+  <data key="d1">British: discount house</data>
+</node>
+<node id="Union of London &amp; Smiths Bank">
+  <data key="d0">4711019.6</data>
+  <data key="d1">British: clearing / joint-stock bank</data>
+</node>
+<node id="Wallace Brothers &amp; Co">
+  <data key="d0">483372.4325</data>
+  <data key="d1">British: private / merchant (native)</data>
+</node>
+<node id="White &amp; Shaxson">
+  <data key="d0">782893.47</data>
+  <data key="d1">British: discount house</data>
+</node>
+<node id="Yokohama Specie Bank">
+  <data key="d0">1008933.25</data>
+  <data key="d1">Foreign bank (1914 wartime)</data>
+</node>
+<edge source="A. Ruffer &amp; Sons" target="Alexanders &amp; Co (discount)">
+  <data key="d2">0.375</data>
+</edge>
+<edge source="A. Ruffer &amp; Sons" target="B. W. Blydenstein &amp; Co">
+  <data key="d2">0.425</data>
+</edge>
+<edge source="A. Ruffer &amp; Sons" target="Baker, Duncombe &amp; Co">
+  <data key="d2">0.328</data>
+</edge>
+<edge source="A. Ruffer &amp; Sons" target="Brightwen &amp; Co">
+  <data key="d2">0.343</data>
+</edge>
+<edge source="A. Ruffer &amp; Sons" target="C. J. Hambro &amp; Son">
+  <data key="d2">0.34</data>
+</edge>
+<edge source="A. Ruffer &amp; Sons" target="Daniell, Cazenove &amp; Co">
+  <data key="d2">0.471</data>
+</edge>
+<edge source="A. Ruffer &amp; Sons" target="King &amp; Foa">
+  <data key="d2">0.346</data>
+</edge>
+<edge source="A. Ruffer &amp; Sons" target="Smith, St Aubyn &amp; Co">
+  <data key="d2">0.315</data>
+</edge>
+<edge source="A. Ruffer &amp; Sons" target="Union Discount Co. of London">
+  <data key="d2">0.436</data>
+</edge>
+<edge source="A. Ruffer &amp; Sons" target="Hongkong &amp; Shanghai Banking Corp.">
+  <data key="d2">0.357</data>
+</edge>
+<edge source="A. Ruffer &amp; Sons" target="International Banking Corporation">
+  <data key="d2">0.387</data>
+</edge>
+<edge source="A. Ruffer &amp; Sons" target="London County &amp; Westminster Bank">
+  <data key="d2">0.431</data>
+</edge>
+<edge source="A. Ruffer &amp; Sons" target="National Bank of India">
+  <data key="d2">0.327</data>
+</edge>
+<edge source="A. Ruffer &amp; Sons" target="Parr's Bank">
+  <data key="d2">0.468</data>
+</edge>
+<edge source="A. Ruffer &amp; Sons" target="Glyn, Mills, Currie &amp; Co">
+  <data key="d2">0.383</data>
+</edge>
+<edge source="A. Ruffer &amp; Sons" target="Robarts, Lubbock &amp; Co">
+  <data key="d2">0.306</data>
+</edge>
+<edge source="A. Ruffer &amp; Sons" target="Union of London &amp; Smiths Bank">
+  <data key="d2">0.434</data>
+</edge>
+<edge source="A. Ruffer &amp; Sons" target="National Provincial Bank">
+  <data key="d2">0.458</data>
+</edge>
+<edge source="A. Ruffer &amp; Sons" target="Barclay &amp; Co">
+  <data key="d2">0.424</data>
+</edge>
+<edge source="A. Ruffer &amp; Sons" target="Capital &amp; Counties Bank">
+  <data key="d2">0.433</data>
+</edge>
+<edge source="A. Ruffer &amp; Sons" target="Lloyds Bank">
+  <data key="d2">0.408</data>
+</edge>
+<edge source="A. Ruffer &amp; Sons" target="London &amp; South Western Bank">
+  <data key="d2">0.468</data>
+</edge>
+<edge source="A. Ruffer &amp; Sons" target="London Joint Stock Bank">
+  <data key="d2">0.356</data>
+</edge>
+<edge source="Agra &amp; Masterman's Bank" target="Leonino &amp; Co">
+  <data key="d2">0.316</data>
+</edge>
+<edge source="Agra &amp; Masterman's Bank" target="Smith, Fleming &amp; Co">
+  <data key="d2">0.309</data>
+</edge>
+<edge source="Alexanders &amp; Co (discount)" target="Bruce, Wilkinson &amp; Co">
+  <data key="d2">0.307</data>
+</edge>
+<edge source="Alexanders &amp; Co (discount)" target="Cunliffe Brothers">
+  <data key="d2">0.373</data>
+</edge>
+<edge source="Alexanders &amp; Co (discount)" target="National Discount Co.">
+  <data key="d2">0.521</data>
+</edge>
+<edge source="Alexanders &amp; Co (discount)" target="C. J. Hambro &amp; Son">
+  <data key="d2">0.371</data>
+</edge>
+<edge source="Alexanders &amp; Co (discount)" target="Glyn, Mills, Currie &amp; Co">
+  <data key="d2">0.528</data>
+</edge>
+<edge source="Alexanders &amp; Co (discount)" target="Frühling &amp; Goschen">
+  <data key="d2">0.31</data>
+</edge>
+<edge source="Alexanders &amp; Co (discount)" target="Frederick Huth &amp; Co">
+  <data key="d2">0.383</data>
+</edge>
+<edge source="Alexanders &amp; Co (discount)" target="Kleinwort, Sons &amp; Co">
+  <data key="d2">0.31</data>
+</edge>
+<edge source="Alexanders &amp; Co (discount)" target="Allen, Harvey &amp; Ross">
+  <data key="d2">0.364</data>
+</edge>
+<edge source="Alexanders &amp; Co (discount)" target="Anglo South American Bank">
+  <data key="d2">0.355</data>
+</edge>
+<edge source="Alexanders &amp; Co (discount)" target="B. W. Blydenstein &amp; Co">
+  <data key="d2">0.418</data>
+</edge>
+<edge source="Alexanders &amp; Co (discount)" target="Baker, Duncombe &amp; Co">
+  <data key="d2">0.31</data>
+</edge>
+<edge source="Alexanders &amp; Co (discount)" target="Brightwen &amp; Co">
+  <data key="d2">0.393</data>
+</edge>
+<edge source="Alexanders &amp; Co (discount)" target="Daniell, Cazenove &amp; Co">
+  <data key="d2">0.484</data>
+</edge>
+<edge source="Alexanders &amp; Co (discount)" target="King &amp; Foa">
+  <data key="d2">0.522</data>
+</edge>
+<edge source="Alexanders &amp; Co (discount)" target="National Bank of India">
+  <data key="d2">0.425</data>
+</edge>
+<edge source="Alexanders &amp; Co (discount)" target="Reeves, Whitburn &amp; Co">
+  <data key="d2">0.424</data>
+</edge>
+<edge source="Alexanders &amp; Co (discount)" target="Smith, St Aubyn &amp; Co">
+  <data key="d2">0.431</data>
+</edge>
+<edge source="Alexanders &amp; Co (discount)" target="British Bank of South America">
+  <data key="d2">0.307</data>
+</edge>
+<edge source="Alexanders &amp; Co (discount)" target="Union Discount Co. of London">
+  <data key="d2">0.477</data>
+</edge>
+<edge source="Alexanders &amp; Co (discount)" target="London County &amp; Westminster Bank">
+  <data key="d2">0.516</data>
+</edge>
+<edge source="Alexanders &amp; Co (discount)" target="Parr's Bank">
+  <data key="d2">0.577</data>
+</edge>
+<edge source="Alexanders &amp; Co (discount)" target="Union of London &amp; Smiths Bank">
+  <data key="d2">0.57</data>
+</edge>
+<edge source="Alexanders &amp; Co (discount)" target="London &amp; River Plate Bank">
+  <data key="d2">0.322</data>
+</edge>
+<edge source="Alexanders &amp; Co (discount)" target="Capital &amp; Counties Bank">
+  <data key="d2">0.365</data>
+</edge>
+<edge source="Alexanders &amp; Co (discount)" target="Comptoir National d'Escompte de Paris">
+  <data key="d2">0.363</data>
+</edge>
+<edge source="Alexanders &amp; Co (discount)" target="National Provincial Bank">
+  <data key="d2">0.434</data>
+</edge>
+<edge source="Alexanders &amp; Co (discount)" target="Royal Bank of Scotland">
+  <data key="d2">0.414</data>
+</edge>
+<edge source="Alexanders &amp; Co (discount)" target="Barclay &amp; Co">
+  <data key="d2">0.329</data>
+</edge>
+<edge source="Alexanders &amp; Co (discount)" target="Lloyds Bank">
+  <data key="d2">0.442</data>
+</edge>
+<edge source="Alexanders &amp; Co (discount)" target="London &amp; South Western Bank">
+  <data key="d2">0.403</data>
+</edge>
+<edge source="Alexanders &amp; Co (discount)" target="London Joint Stock Bank">
+  <data key="d2">0.359</data>
+</edge>
+<edge source="Alexanders &amp; Co (discount)" target="National Bank of Scotland">
+  <data key="d2">0.38</data>
+</edge>
+<edge source="Alexanders &amp; Co (discount)" target="Standard Bank of South Africa">
+  <data key="d2">0.335</data>
+</edge>
+<edge source="Alexanders &amp; Co (discount)" target="Lütgens &amp; Ripley">
+  <data key="d2">0.31</data>
+</edge>
+<edge source="Alexanders &amp; Co (discount)" target="Bank of Montreal">
+  <data key="d2">0.349</data>
+</edge>
+<edge source="Allen, Harvey &amp; Ross" target="Anglo South American Bank">
+  <data key="d2">0.346</data>
+</edge>
+<edge source="Allen, Harvey &amp; Ross" target="B. W. Blydenstein &amp; Co">
+  <data key="d2">0.338</data>
+</edge>
+<edge source="Allen, Harvey &amp; Ross" target="Baker, Duncombe &amp; Co">
+  <data key="d2">0.415</data>
+</edge>
+<edge source="Allen, Harvey &amp; Ross" target="Brightwen &amp; Co">
+  <data key="d2">0.317</data>
+</edge>
+<edge source="Allen, Harvey &amp; Ross" target="Canadian Bank of Commerce">
+  <data key="d2">0.32</data>
+</edge>
+<edge source="Allen, Harvey &amp; Ross" target="King &amp; Foa">
+  <data key="d2">0.535</data>
+</edge>
+<edge source="Allen, Harvey &amp; Ross" target="Reeves, Whitburn &amp; Co">
+  <data key="d2">0.303</data>
+</edge>
+<edge source="Allen, Harvey &amp; Ross" target="Smith, St Aubyn &amp; Co">
+  <data key="d2">0.388</data>
+</edge>
+<edge source="Allen, Harvey &amp; Ross" target="Daniell, Cazenove &amp; Co">
+  <data key="d2">0.377</data>
+</edge>
+<edge source="Allen, Harvey &amp; Ross" target="Gillett Brothers">
+  <data key="d2">0.339</data>
+</edge>
+<edge source="Allen, Harvey &amp; Ross" target="National Bank of India">
+  <data key="d2">0.302</data>
+</edge>
+<edge source="Allen, Harvey &amp; Ross" target="Union Discount Co. of London">
+  <data key="d2">0.347</data>
+</edge>
+<edge source="Allen, Harvey &amp; Ross" target="London County &amp; Westminster Bank">
+  <data key="d2">0.503</data>
+</edge>
+<edge source="Allen, Harvey &amp; Ross" target="Parr's Bank">
+  <data key="d2">0.415</data>
+</edge>
+<edge source="Allen, Harvey &amp; Ross" target="Comptoir National d'Escompte de Paris">
+  <data key="d2">0.346</data>
+</edge>
+<edge source="Allen, Harvey &amp; Ross" target="Glyn, Mills, Currie &amp; Co">
+  <data key="d2">0.353</data>
+</edge>
+<edge source="Allen, Harvey &amp; Ross" target="National Provincial Bank">
+  <data key="d2">0.339</data>
+</edge>
+<edge source="Allen, Harvey &amp; Ross" target="Royal Bank of Scotland">
+  <data key="d2">0.339</data>
+</edge>
+<edge source="Allen, Harvey &amp; Ross" target="Lloyds Bank">
+  <data key="d2">0.431</data>
+</edge>
+<edge source="Allen, Harvey &amp; Ross" target="Union of London &amp; Smiths Bank">
+  <data key="d2">0.496</data>
+</edge>
+<edge source="Anglo South American Bank" target="B. W. Blydenstein &amp; Co">
+  <data key="d2">0.404</data>
+</edge>
+<edge source="Anglo South American Bank" target="Baker, Duncombe &amp; Co">
+  <data key="d2">0.368</data>
+</edge>
+<edge source="Anglo South American Bank" target="Brightwen &amp; Co">
+  <data key="d2">0.321</data>
+</edge>
+<edge source="Anglo South American Bank" target="C. J. Hambro &amp; Son">
+  <data key="d2">0.306</data>
+</edge>
+<edge source="Anglo South American Bank" target="King &amp; Foa">
+  <data key="d2">0.389</data>
+</edge>
+<edge source="Anglo South American Bank" target="Reeves, Whitburn &amp; Co">
+  <data key="d2">0.377</data>
+</edge>
+<edge source="Anglo South American Bank" target="Samuel Montagu &amp; Co">
+  <data key="d2">0.324</data>
+</edge>
+<edge source="Anglo South American Bank" target="Smith, St Aubyn &amp; Co">
+  <data key="d2">0.354</data>
+</edge>
+<edge source="Anglo South American Bank" target="White &amp; Shaxson">
+  <data key="d2">0.308</data>
+</edge>
+<edge source="Anglo South American Bank" target="Eastern Bank">
+  <data key="d2">0.44</data>
+</edge>
+<edge source="Anglo South American Bank" target="Mercantile Bank of India">
+  <data key="d2">0.415</data>
+</edge>
+<edge source="Anglo South American Bank" target="Ryder &amp; Co">
+  <data key="d2">0.355</data>
+</edge>
+<edge source="Anglo South American Bank" target="Daniell, Cazenove &amp; Co">
+  <data key="d2">0.397</data>
+</edge>
+<edge source="Anglo South American Bank" target="National Bank of India">
+  <data key="d2">0.321</data>
+</edge>
+<edge source="Anglo South American Bank" target="Union Discount Co. of London">
+  <data key="d2">0.453</data>
+</edge>
+<edge source="Anglo South American Bank" target="Parr's Bank">
+  <data key="d2">0.342</data>
+</edge>
+<edge source="Anglo South American Bank" target="Union Bank of Australia">
+  <data key="d2">0.347</data>
+</edge>
+<edge source="Anglo South American Bank" target="National Bank of Scotland">
+  <data key="d2">0.3</data>
+</edge>
+<edge source="B. Simon &amp; A. Jacoby" target="Bordier, Fabris &amp; Co">
+  <data key="d2">0.343</data>
+</edge>
+<edge source="B. Simon &amp; A. Jacoby" target="George Peabody &amp; Co">
+  <data key="d2">0.306</data>
+</edge>
+<edge source="B. Simon &amp; A. Jacoby" target="Kraeutler &amp; Mieville">
+  <data key="d2">0.392</data>
+</edge>
+<edge source="B. Simon &amp; A. Jacoby" target="M. Levin &amp; Adler">
+  <data key="d2">0.442</data>
+</edge>
+<edge source="B. Simon &amp; A. Jacoby" target="R. Heine, Semon &amp; Co">
+  <data key="d2">0.302</data>
+</edge>
+<edge source="B. W. Blydenstein &amp; Co" target="Baker, Duncombe &amp; Co">
+  <data key="d2">0.478</data>
+</edge>
+<edge source="B. W. Blydenstein &amp; Co" target="Brightwen &amp; Co">
+  <data key="d2">0.516</data>
+</edge>
+<edge source="B. W. Blydenstein &amp; Co" target="C. J. Hambro &amp; Son">
+  <data key="d2">0.374</data>
+</edge>
+<edge source="B. W. Blydenstein &amp; Co" target="King &amp; Foa">
+  <data key="d2">0.568</data>
+</edge>
+<edge source="B. W. Blydenstein &amp; Co" target="Reeves, Whitburn &amp; Co">
+  <data key="d2">0.468</data>
+</edge>
+<edge source="B. W. Blydenstein &amp; Co" target="Samuel Montagu &amp; Co">
+  <data key="d2">0.311</data>
+</edge>
+<edge source="B. W. Blydenstein &amp; Co" target="Smith, St Aubyn &amp; Co">
+  <data key="d2">0.384</data>
+</edge>
+<edge source="B. W. Blydenstein &amp; Co" target="White &amp; Shaxson">
+  <data key="d2">0.322</data>
+</edge>
+<edge source="B. W. Blydenstein &amp; Co" target="Eastern Bank">
+  <data key="d2">0.41</data>
+</edge>
+<edge source="B. W. Blydenstein &amp; Co" target="Hongkong &amp; Shanghai Banking Corp.">
+  <data key="d2">0.52</data>
+</edge>
+<edge source="B. W. Blydenstein &amp; Co" target="International Banking Corporation">
+  <data key="d2">0.304</data>
+</edge>
+<edge source="B. W. Blydenstein &amp; Co" target="Mercantile Bank of India">
+  <data key="d2">0.372</data>
+</edge>
+<edge source="B. W. Blydenstein &amp; Co" target="Ryder &amp; Co">
+  <data key="d2">0.413</data>
+</edge>
+<edge source="B. W. Blydenstein &amp; Co" target="Daniell, Cazenove &amp; Co">
+  <data key="d2">0.431</data>
+</edge>
+<edge source="B. W. Blydenstein &amp; Co" target="Gillett Brothers">
+  <data key="d2">0.4</data>
+</edge>
+<edge source="B. W. Blydenstein &amp; Co" target="National Bank of India">
+  <data key="d2">0.32</data>
+</edge>
+<edge source="B. W. Blydenstein &amp; Co" target="British Bank of South America">
+  <data key="d2">0.37</data>
+</edge>
+<edge source="B. W. Blydenstein &amp; Co" target="London Hanseatic Bank">
+  <data key="d2">0.303</data>
+</edge>
+<edge source="B. W. Blydenstein &amp; Co" target="Union Discount Co. of London">
+  <data key="d2">0.448</data>
+</edge>
+<edge source="B. W. Blydenstein &amp; Co" target="Credito Italiano">
+  <data key="d2">0.354</data>
+</edge>
+<edge source="B. W. Blydenstein &amp; Co" target="London County &amp; Westminster Bank">
+  <data key="d2">0.48</data>
+</edge>
+<edge source="B. W. Blydenstein &amp; Co" target="Parr's Bank">
+  <data key="d2">0.441</data>
+</edge>
+<edge source="B. W. Blydenstein &amp; Co" target="Comptoir National d'Escompte de Paris">
+  <data key="d2">0.301</data>
+</edge>
+<edge source="B. W. Blydenstein &amp; Co" target="National Provincial Bank">
+  <data key="d2">0.36</data>
+</edge>
+<edge source="B. W. Blydenstein &amp; Co" target="Glyn, Mills, Currie &amp; Co">
+  <data key="d2">0.35</data>
+</edge>
+<edge source="B. W. Blydenstein &amp; Co" target="Royal Bank of Scotland">
+  <data key="d2">0.327</data>
+</edge>
+<edge source="B. W. Blydenstein &amp; Co" target="Union of London &amp; Smiths Bank">
+  <data key="d2">0.402</data>
+</edge>
+<edge source="B. W. Blydenstein &amp; Co" target="London &amp; South Western Bank">
+  <data key="d2">0.301</data>
+</edge>
+<edge source="B. W. Blydenstein &amp; Co" target="Lloyds Bank">
+  <data key="d2">0.32</data>
+</edge>
+<edge source="B. W. Blydenstein &amp; Co" target="Standard Bank of South Africa">
+  <data key="d2">0.324</data>
+</edge>
+<edge source="Baker, Duncombe &amp; Co" target="Brightwen &amp; Co">
+  <data key="d2">0.45</data>
+</edge>
+<edge source="Baker, Duncombe &amp; Co" target="C. J. Hambro &amp; Son">
+  <data key="d2">0.344</data>
+</edge>
+<edge source="Baker, Duncombe &amp; Co" target="Canadian Bank of Commerce">
+  <data key="d2">0.406</data>
+</edge>
+<edge source="Baker, Duncombe &amp; Co" target="Cunliffe Brothers">
+  <data key="d2">0.361</data>
+</edge>
+<edge source="Baker, Duncombe &amp; Co" target="King &amp; Foa">
+  <data key="d2">0.531</data>
+</edge>
+<edge source="Baker, Duncombe &amp; Co" target="Reeves, Whitburn &amp; Co">
+  <data key="d2">0.545</data>
+</edge>
+<edge source="Baker, Duncombe &amp; Co" target="Smith, St Aubyn &amp; Co">
+  <data key="d2">0.393</data>
+</edge>
+<edge source="Baker, Duncombe &amp; Co" target="Chartered Bank of India, Australia &amp; China">
+  <data key="d2">0.344</data>
+</edge>
+<edge source="Baker, Duncombe &amp; Co" target="Daniell, Cazenove &amp; Co">
+  <data key="d2">0.442</data>
+</edge>
+<edge source="Baker, Duncombe &amp; Co" target="Eastern Bank">
+  <data key="d2">0.342</data>
+</edge>
+<edge source="Baker, Duncombe &amp; Co" target="Gillett Brothers">
+  <data key="d2">0.459</data>
+</edge>
+<edge source="Baker, Duncombe &amp; Co" target="Mercantile Bank of India">
+  <data key="d2">0.355</data>
+</edge>
+<edge source="Baker, Duncombe &amp; Co" target="National Bank of India">
+  <data key="d2">0.367</data>
+</edge>
+<edge source="Baker, Duncombe &amp; Co" target="Ryder &amp; Co">
+  <data key="d2">0.415</data>
+</edge>
+<edge source="Baker, Duncombe &amp; Co" target="National Discount Co.">
+  <data key="d2">0.309</data>
+</edge>
+<edge source="Baker, Duncombe &amp; Co" target="Union Discount Co. of London">
+  <data key="d2">0.415</data>
+</edge>
+<edge source="Baker, Duncombe &amp; Co" target="Baring Brothers &amp; Co">
+  <data key="d2">0.324</data>
+</edge>
+<edge source="Baker, Duncombe &amp; Co" target="Banca Commerciale Italiana">
+  <data key="d2">0.346</data>
+</edge>
+<edge source="Baker, Duncombe &amp; Co" target="Parr's Bank">
+  <data key="d2">0.316</data>
+</edge>
+<edge source="Baker, Duncombe &amp; Co" target="National Provincial Bank">
+  <data key="d2">0.421</data>
+</edge>
+<edge source="Baker, Duncombe &amp; Co" target="Glyn, Mills, Currie &amp; Co">
+  <data key="d2">0.322</data>
+</edge>
+<edge source="Baker, Duncombe &amp; Co" target="London &amp; Brazilian Bank">
+  <data key="d2">0.382</data>
+</edge>
+<edge source="Banca Commerciale Italiana" target="National Bank of India">
+  <data key="d2">0.362</data>
+</edge>
+<edge source="Banca Commerciale Italiana" target="National Discount Co.">
+  <data key="d2">0.325</data>
+</edge>
+<edge source="Banca Commerciale Italiana" target="Union Discount Co. of London">
+  <data key="d2">0.446</data>
+</edge>
+<edge source="Banca Commerciale Italiana" target="Glyn, Mills, Currie &amp; Co">
+  <data key="d2">0.33</data>
+</edge>
+<edge source="Bank of Montreal" target="Glyn, Mills, Currie &amp; Co">
+  <data key="d2">0.323</data>
+</edge>
+<edge source="Bank of Montreal" target="King &amp; Foa">
+  <data key="d2">0.359</data>
+</edge>
+<edge source="Bank of Montreal" target="Lloyds Bank">
+  <data key="d2">0.369</data>
+</edge>
+<edge source="Bank of Montreal" target="National Provincial Bank">
+  <data key="d2">0.316</data>
+</edge>
+<edge source="Bank of Montreal" target="Parr's Bank">
+  <data key="d2">0.385</data>
+</edge>
+<edge source="Bank of Montreal" target="Union of London &amp; Smiths Bank">
+  <data key="d2">0.374</data>
+</edge>
+<edge source="Bank of Montreal" target="Royal Bank of Scotland">
+  <data key="d2">0.316</data>
+</edge>
+<edge source="Bank of Montreal" target="London County &amp; Westminster Bank">
+  <data key="d2">0.344</data>
+</edge>
+<edge source="Bank of Montreal" target="London Joint Stock Bank">
+  <data key="d2">0.338</data>
+</edge>
+<edge source="Bank of Montreal" target="Swiss Bankverein">
+  <data key="d2">0.346</data>
+</edge>
+<edge source="Bank of Montreal" target="Union Bank of Scotland">
+  <data key="d2">0.389</data>
+</edge>
+<edge source="Banque Belge" target="Baring Brothers &amp; Co">
+  <data key="d2">0.354</data>
+</edge>
+<edge source="Banque Belge" target="Brightwen &amp; Co">
+  <data key="d2">0.35</data>
+</edge>
+<edge source="Banque Belge" target="C. J. Hambro &amp; Son">
+  <data key="d2">0.333</data>
+</edge>
+<edge source="Banque Belge" target="Daniell, Cazenove &amp; Co">
+  <data key="d2">0.385</data>
+</edge>
+<edge source="Banque Belge" target="Eastern Bank">
+  <data key="d2">0.32</data>
+</edge>
+<edge source="Banque Belge" target="Gillett Brothers">
+  <data key="d2">0.375</data>
+</edge>
+<edge source="Banque Belge" target="Hongkong &amp; Shanghai Banking Corp.">
+  <data key="d2">0.312</data>
+</edge>
+<edge source="Banque Belge" target="Imperial Ottoman Bank">
+  <data key="d2">0.377</data>
+</edge>
+<edge source="Banque Belge" target="Mercantile Bank of India">
+  <data key="d2">0.387</data>
+</edge>
+<edge source="Banque Belge" target="Reeves, Whitburn &amp; Co">
+  <data key="d2">0.502</data>
+</edge>
+<edge source="Banque Belge" target="Ryder &amp; Co">
+  <data key="d2">0.323</data>
+</edge>
+<edge source="Banque Belge" target="Smith, St Aubyn &amp; Co">
+  <data key="d2">0.386</data>
+</edge>
+<edge source="Banque Belge" target="Union Discount Co. of London">
+  <data key="d2">0.37</data>
+</edge>
+<edge source="Banque Belge" target="Frühling &amp; Goschen">
+  <data key="d2">0.334</data>
+</edge>
+<edge source="Banque Belge" target="London County &amp; Westminster Bank">
+  <data key="d2">0.389</data>
+</edge>
+<edge source="Banque Belge" target="National Bank of India">
+  <data key="d2">0.35</data>
+</edge>
+<edge source="Banque Belge" target="Parr's Bank">
+  <data key="d2">0.315</data>
+</edge>
+<edge source="Banque Belge" target="Yokohama Specie Bank">
+  <data key="d2">0.335</data>
+</edge>
+<edge source="Banque Belge" target="Comptoir National d'Escompte de Paris">
+  <data key="d2">0.313</data>
+</edge>
+<edge source="Banque Belge" target="Glyn, Mills, Currie &amp; Co">
+  <data key="d2">0.351</data>
+</edge>
+<edge source="Banque Belge" target="London &amp; Brazilian Bank">
+  <data key="d2">0.417</data>
+</edge>
+<edge source="Banque Belge" target="Union of London &amp; Smiths Bank">
+  <data key="d2">0.314</data>
+</edge>
+<edge source="Banque Belge" target="London &amp; South Western Bank">
+  <data key="d2">0.365</data>
+</edge>
+<edge source="Banque Belge" target="London Joint Stock Bank">
+  <data key="d2">0.382</data>
+</edge>
+<edge source="Banque Belge" target="National Provincial Bank">
+  <data key="d2">0.306</data>
+</edge>
+<edge source="Barclay &amp; Co" target="Brightwen &amp; Co">
+  <data key="d2">0.318</data>
+</edge>
+<edge source="Barclay &amp; Co" target="London County &amp; Westminster Bank">
+  <data key="d2">0.399</data>
+</edge>
+<edge source="Barclay &amp; Co" target="Capital &amp; Counties Bank">
+  <data key="d2">0.401</data>
+</edge>
+<edge source="Barclay &amp; Co" target="Comptoir National d'Escompte de Paris">
+  <data key="d2">0.355</data>
+</edge>
+<edge source="Barclay &amp; Co" target="Daniell, Cazenove &amp; Co">
+  <data key="d2">0.4</data>
+</edge>
+<edge source="Barclay &amp; Co" target="Lloyds Bank">
+  <data key="d2">0.378</data>
+</edge>
+<edge source="Barclay &amp; Co" target="London &amp; South Western Bank">
+  <data key="d2">0.355</data>
+</edge>
+<edge source="Barclay &amp; Co" target="Parr's Bank">
+  <data key="d2">0.455</data>
+</edge>
+<edge source="Barclay &amp; Co" target="Union Discount Co. of London">
+  <data key="d2">0.342</data>
+</edge>
+<edge source="Barclay &amp; Co" target="Union of London &amp; Smiths Bank">
+  <data key="d2">0.457</data>
+</edge>
+<edge source="Barclay &amp; Co" target="National Provincial Bank">
+  <data key="d2">0.347</data>
+</edge>
+<edge source="Barclay &amp; Co" target="Royal Bank of Scotland">
+  <data key="d2">0.386</data>
+</edge>
+<edge source="Baring Brothers &amp; Co" target="Cunliffe Brothers">
+  <data key="d2">0.303</data>
+</edge>
+<edge source="Baring Brothers &amp; Co" target="Gillett Brothers">
+  <data key="d2">0.354</data>
+</edge>
+<edge source="Bieber &amp; Co" target="Leonino &amp; Co">
+  <data key="d2">0.307</data>
+</edge>
+<edge source="Bieber &amp; Co" target="M. Levin &amp; Adler">
+  <data key="d2">0.3</data>
+</edge>
+<edge source="Bieber &amp; Co" target="Ralli Brothers">
+  <data key="d2">0.322</data>
+</edge>
+<edge source="Bischoffsheim &amp; Goldschmidt" target="Overend, Gurney &amp; Co">
+  <data key="d2">0.34</data>
+</edge>
+<edge source="Bischoffsheim &amp; Goldschmidt" target="Sanderson, Sandeman &amp; Co">
+  <data key="d2">0.327</data>
+</edge>
+<edge source="Bordier, Fabris &amp; Co" target="Overend, Gurney &amp; Co">
+  <data key="d2">0.333</data>
+</edge>
+<edge source="Bordier, Fabris &amp; Co" target="Bruce, Wilkinson &amp; Co">
+  <data key="d2">0.42</data>
+</edge>
+<edge source="Bordier, Fabris &amp; Co" target="M. Levin &amp; Adler">
+  <data key="d2">0.303</data>
+</edge>
+<edge source="Bordier, Fabris &amp; Co" target="R. Heine, Semon &amp; Co">
+  <data key="d2">0.31</data>
+</edge>
+<edge source="Brightwen &amp; Co" target="Cunliffe Brothers">
+  <data key="d2">0.38</data>
+</edge>
+<edge source="Brightwen &amp; Co" target="Kleinwort, Sons &amp; Co">
+  <data key="d2">0.336</data>
+</edge>
+<edge source="Brightwen &amp; Co" target="National Discount Co.">
+  <data key="d2">0.378</data>
+</edge>
+<edge source="Brightwen &amp; Co" target="Samuel Montagu &amp; Co">
+  <data key="d2">0.347</data>
+</edge>
+<edge source="Brightwen &amp; Co" target="London County &amp; Westminster Bank">
+  <data key="d2">0.576</data>
+</edge>
+<edge source="Brightwen &amp; Co" target="C. J. Hambro &amp; Son">
+  <data key="d2">0.327</data>
+</edge>
+<edge source="Brightwen &amp; Co" target="King &amp; Foa">
+  <data key="d2">0.454</data>
+</edge>
+<edge source="Brightwen &amp; Co" target="Reeves, Whitburn &amp; Co">
+  <data key="d2">0.435</data>
+</edge>
+<edge source="Brightwen &amp; Co" target="Smith, St Aubyn &amp; Co">
+  <data key="d2">0.408</data>
+</edge>
+<edge source="Brightwen &amp; Co" target="White &amp; Shaxson">
+  <data key="d2">0.313</data>
+</edge>
+<edge source="Brightwen &amp; Co" target="Daniell, Cazenove &amp; Co">
+  <data key="d2">0.485</data>
+</edge>
+<edge source="Brightwen &amp; Co" target="Eastern Bank">
+  <data key="d2">0.328</data>
+</edge>
+<edge source="Brightwen &amp; Co" target="Gillett Brothers">
+  <data key="d2">0.35</data>
+</edge>
+<edge source="Brightwen &amp; Co" target="Hongkong &amp; Shanghai Banking Corp.">
+  <data key="d2">0.385</data>
+</edge>
+<edge source="Brightwen &amp; Co" target="Mercantile Bank of India">
+  <data key="d2">0.362</data>
+</edge>
+<edge source="Brightwen &amp; Co" target="National Bank of India">
+  <data key="d2">0.336</data>
+</edge>
+<edge source="Brightwen &amp; Co" target="Ryder &amp; Co">
+  <data key="d2">0.434</data>
+</edge>
+<edge source="Brightwen &amp; Co" target="Union Discount Co. of London">
+  <data key="d2">0.46</data>
+</edge>
+<edge source="Brightwen &amp; Co" target="Parr's Bank">
+  <data key="d2">0.466</data>
+</edge>
+<edge source="Brightwen &amp; Co" target="National Provincial Bank">
+  <data key="d2">0.372</data>
+</edge>
+<edge source="Brightwen &amp; Co" target="Glyn, Mills, Currie &amp; Co">
+  <data key="d2">0.416</data>
+</edge>
+<edge source="Brightwen &amp; Co" target="Union of London &amp; Smiths Bank">
+  <data key="d2">0.487</data>
+</edge>
+<edge source="Brightwen &amp; Co" target="London &amp; Brazilian Bank">
+  <data key="d2">0.327</data>
+</edge>
+<edge source="Brightwen &amp; Co" target="Lloyds Bank">
+  <data key="d2">0.4</data>
+</edge>
+<edge source="Brightwen &amp; Co" target="London Joint Stock Bank">
+  <data key="d2">0.306</data>
+</edge>
+<edge source="British Bank of South America" target="Daniell, Cazenove &amp; Co">
+  <data key="d2">0.333</data>
+</edge>
+<edge source="British Bank of South America" target="King &amp; Foa">
+  <data key="d2">0.312</data>
+</edge>
+<edge source="British Bank of South America" target="London Hanseatic Bank">
+  <data key="d2">0.327</data>
+</edge>
+<edge source="British Bank of South America" target="Comptoir National d'Escompte de Paris">
+  <data key="d2">0.361</data>
+</edge>
+<edge source="British Bank of South America" target="Lloyds Bank">
+  <data key="d2">0.33</data>
+</edge>
+<edge source="British Bank of South America" target="London &amp; South Western Bank">
+  <data key="d2">0.301</data>
+</edge>
+<edge source="British Bank of South America" target="London County &amp; Westminster Bank">
+  <data key="d2">0.353</data>
+</edge>
+<edge source="British Bank of South America" target="London Joint Stock Bank">
+  <data key="d2">0.315</data>
+</edge>
+<edge source="British Bank of South America" target="Parr's Bank">
+  <data key="d2">0.364</data>
+</edge>
+<edge source="British Bank of South America" target="Union of London &amp; Smiths Bank">
+  <data key="d2">0.307</data>
+</edge>
+<edge source="British Bank of South America" target="Royal Bank of Scotland">
+  <data key="d2">0.354</data>
+</edge>
+<edge source="Brown, Shipley &amp; Co" target="White &amp; Shaxson">
+  <data key="d2">0.335</data>
+</edge>
+<edge source="Bruce, Wilkinson &amp; Co" target="Sanderson, Sandeman &amp; Co">
+  <data key="d2">0.518</data>
+</edge>
+<edge source="Bruce, Wilkinson &amp; Co" target="Ralli Brothers">
+  <data key="d2">0.303</data>
+</edge>
+<edge source="Bruce, Wilkinson &amp; Co" target="Suse &amp; Sibeth">
+  <data key="d2">0.308</data>
+</edge>
+<edge source="Bruce, Wilkinson &amp; Co" target="Overend, Gurney &amp; Co">
+  <data key="d2">0.425</data>
+</edge>
+<edge source="Bruce, Wilkinson &amp; Co" target="Cunliffe Brothers">
+  <data key="d2">0.309</data>
+</edge>
+<edge source="Bruce, Wilkinson &amp; Co" target="M. Levin &amp; Adler">
+  <data key="d2">0.361</data>
+</edge>
+<edge source="Bruce, Wilkinson &amp; Co" target="R. Heine, Semon &amp; Co">
+  <data key="d2">0.4</data>
+</edge>
+<edge source="Bruce, Wilkinson &amp; Co" target="Kraeutler &amp; Mieville">
+  <data key="d2">0.36</data>
+</edge>
+<edge source="C. J. Hambro &amp; Son" target="Cunliffe Brothers">
+  <data key="d2">0.357</data>
+</edge>
+<edge source="C. J. Hambro &amp; Son" target="Glyn, Mills, Currie &amp; Co">
+  <data key="d2">0.364</data>
+</edge>
+<edge source="C. J. Hambro &amp; Son" target="King &amp; Foa">
+  <data key="d2">0.437</data>
+</edge>
+<edge source="C. J. Hambro &amp; Son" target="Reeves, Whitburn &amp; Co">
+  <data key="d2">0.365</data>
+</edge>
+<edge source="C. J. Hambro &amp; Son" target="Union Discount Co. of London">
+  <data key="d2">0.411</data>
+</edge>
+<edge source="C. J. Hambro &amp; Son" target="Eastern Bank">
+  <data key="d2">0.391</data>
+</edge>
+<edge source="C. J. Hambro &amp; Son" target="Mercantile Bank of India">
+  <data key="d2">0.301</data>
+</edge>
+<edge source="C. J. Hambro &amp; Son" target="Credito Italiano">
+  <data key="d2">0.316</data>
+</edge>
+<edge source="C. J. Hambro &amp; Son" target="London County &amp; Westminster Bank">
+  <data key="d2">0.37</data>
+</edge>
+<edge source="C. J. Hambro &amp; Son" target="Parr's Bank">
+  <data key="d2">0.325</data>
+</edge>
+<edge source="C. J. Hambro &amp; Son" target="Union of London &amp; Smiths Bank">
+  <data key="d2">0.338</data>
+</edge>
+<edge source="C. J. Hambro &amp; Son" target="Union Bank of Australia">
+  <data key="d2">0.315</data>
+</edge>
+<edge source="Cama &amp; Co" target="Suse &amp; Sibeth">
+  <data key="d2">0.315</data>
+</edge>
+<edge source="Cama &amp; Co" target="Ralli Brothers">
+  <data key="d2">0.308</data>
+</edge>
+<edge source="Canadian Bank of Commerce" target="Smith, St Aubyn &amp; Co">
+  <data key="d2">0.303</data>
+</edge>
+<edge source="Canadian Bank of Commerce" target="International Banking Corporation">
+  <data key="d2">0.335</data>
+</edge>
+<edge source="Canadian Bank of Commerce" target="Swiss Bankverein">
+  <data key="d2">0.474</data>
+</edge>
+<edge source="Capital &amp; Counties Bank" target="Comptoir National d'Escompte de Paris">
+  <data key="d2">0.344</data>
+</edge>
+<edge source="Capital &amp; Counties Bank" target="National Bank of India">
+  <data key="d2">0.33</data>
+</edge>
+<edge source="Capital &amp; Counties Bank" target="National Provincial Bank">
+  <data key="d2">0.529</data>
+</edge>
+<edge source="Capital &amp; Counties Bank" target="Parr's Bank">
+  <data key="d2">0.46</data>
+</edge>
+<edge source="Capital &amp; Counties Bank" target="Reeves, Whitburn &amp; Co">
+  <data key="d2">0.301</data>
+</edge>
+<edge source="Capital &amp; Counties Bank" target="Royal Bank of Scotland">
+  <data key="d2">0.385</data>
+</edge>
+<edge source="Capital &amp; Counties Bank" target="Union Discount Co. of London">
+  <data key="d2">0.465</data>
+</edge>
+<edge source="Capital &amp; Counties Bank" target="Daniell, Cazenove &amp; Co">
+  <data key="d2">0.408</data>
+</edge>
+<edge source="Capital &amp; Counties Bank" target="Lloyds Bank">
+  <data key="d2">0.303</data>
+</edge>
+<edge source="Capital &amp; Counties Bank" target="London &amp; South Western Bank">
+  <data key="d2">0.491</data>
+</edge>
+<edge source="Capital &amp; Counties Bank" target="London County &amp; Westminster Bank">
+  <data key="d2">0.34</data>
+</edge>
+<edge source="Capital &amp; Counties Bank" target="London Joint Stock Bank">
+  <data key="d2">0.411</data>
+</edge>
+<edge source="Capital &amp; Counties Bank" target="Smith, St Aubyn &amp; Co">
+  <data key="d2">0.364</data>
+</edge>
+<edge source="Capital &amp; Counties Bank" target="Union of London &amp; Smiths Bank">
+  <data key="d2">0.387</data>
+</edge>
+<edge source="Capital &amp; Counties Bank" target="Glyn, Mills, Currie &amp; Co">
+  <data key="d2">0.331</data>
+</edge>
+<edge source="Capital &amp; Counties Bank" target="London &amp; Brazilian Bank">
+  <data key="d2">0.314</data>
+</edge>
+<edge source="Chartered Bank of India, Australia &amp; China" target="Eastern Bank">
+  <data key="d2">0.373</data>
+</edge>
+<edge source="Chartered Bank of India, Australia &amp; China" target="Gillett Brothers">
+  <data key="d2">0.312</data>
+</edge>
+<edge source="Chartered Bank of India, Australia &amp; China" target="Mercantile Bank of India">
+  <data key="d2">0.323</data>
+</edge>
+<edge source="Chartered Bank of India, Australia &amp; China" target="National Bank of India">
+  <data key="d2">0.3</data>
+</edge>
+<edge source="Comptoir National d'Escompte de Paris" target="National Discount Co.">
+  <data key="d2">0.309</data>
+</edge>
+<edge source="Comptoir National d'Escompte de Paris" target="National Provincial Bank">
+  <data key="d2">0.468</data>
+</edge>
+<edge source="Comptoir National d'Escompte de Paris" target="Union Discount Co. of London">
+  <data key="d2">0.514</data>
+</edge>
+<edge source="Comptoir National d'Escompte de Paris" target="King &amp; Foa">
+  <data key="d2">0.45</data>
+</edge>
+<edge source="Comptoir National d'Escompte de Paris" target="London County &amp; Westminster Bank">
+  <data key="d2">0.44</data>
+</edge>
+<edge source="Comptoir National d'Escompte de Paris" target="Union Bank of Australia">
+  <data key="d2">0.394</data>
+</edge>
+<edge source="Comptoir National d'Escompte de Paris" target="Imperial Ottoman Bank">
+  <data key="d2">0.377</data>
+</edge>
+<edge source="Comptoir National d'Escompte de Paris" target="Parr's Bank">
+  <data key="d2">0.454</data>
+</edge>
+<edge source="Comptoir National d'Escompte de Paris" target="Reeves, Whitburn &amp; Co">
+  <data key="d2">0.305</data>
+</edge>
+<edge source="Comptoir National d'Escompte de Paris" target="Royal Bank of Scotland">
+  <data key="d2">0.383</data>
+</edge>
+<edge source="Comptoir National d'Escompte de Paris" target="Daniell, Cazenove &amp; Co">
+  <data key="d2">0.401</data>
+</edge>
+<edge source="Comptoir National d'Escompte de Paris" target="Lloyds Bank">
+  <data key="d2">0.417</data>
+</edge>
+<edge source="Comptoir National d'Escompte de Paris" target="London &amp; South Western Bank">
+  <data key="d2">0.304</data>
+</edge>
+<edge source="Comptoir National d'Escompte de Paris" target="London Joint Stock Bank">
+  <data key="d2">0.364</data>
+</edge>
+<edge source="Comptoir National d'Escompte de Paris" target="Union of London &amp; Smiths Bank">
+  <data key="d2">0.403</data>
+</edge>
+<edge source="Credito Italiano" target="Gillett Brothers">
+  <data key="d2">0.316</data>
+</edge>
+<edge source="Credito Italiano" target="International Banking Corporation">
+  <data key="d2">0.3</data>
+</edge>
+<edge source="Credito Italiano" target="National Bank of India">
+  <data key="d2">0.316</data>
+</edge>
+<edge source="Credito Italiano" target="Union Discount Co. of London">
+  <data key="d2">0.416</data>
+</edge>
+<edge source="Credito Italiano" target="J. Henry Schröder &amp; Co">
+  <data key="d2">0.307</data>
+</edge>
+<edge source="Credito Italiano" target="London Hanseatic Bank">
+  <data key="d2">0.359</data>
+</edge>
+<edge source="Cunliffe Brothers" target="National Discount Co.">
+  <data key="d2">0.366</data>
+</edge>
+<edge source="Cunliffe Brothers" target="Overend, Gurney &amp; Co">
+  <data key="d2">0.308</data>
+</edge>
+<edge source="Cunliffe Brothers" target="King &amp; Foa">
+  <data key="d2">0.309</data>
+</edge>
+<edge source="Cunliffe Brothers" target="Smith, St Aubyn &amp; Co">
+  <data key="d2">0.318</data>
+</edge>
+<edge source="Cunliffe Brothers" target="Gillett Brothers">
+  <data key="d2">0.393</data>
+</edge>
+<edge source="Cunliffe Brothers" target="London Hanseatic Bank">
+  <data key="d2">0.324</data>
+</edge>
+<edge source="Cunliffe Brothers" target="Union Discount Co. of London">
+  <data key="d2">0.305</data>
+</edge>
+<edge source="Dadabhai Naoroji &amp; Co" target="Framjee &amp; Co">
+  <data key="d2">0.323</data>
+</edge>
+<edge source="Daniell, Cazenove &amp; Co" target="Gillett Brothers">
+  <data key="d2">0.337</data>
+</edge>
+<edge source="Daniell, Cazenove &amp; Co" target="Hongkong &amp; Shanghai Banking Corp.">
+  <data key="d2">0.433</data>
+</edge>
+<edge source="Daniell, Cazenove &amp; Co" target="International Banking Corporation">
+  <data key="d2">0.304</data>
+</edge>
+<edge source="Daniell, Cazenove &amp; Co" target="King &amp; Foa">
+  <data key="d2">0.535</data>
+</edge>
+<edge source="Daniell, Cazenove &amp; Co" target="Mercantile Bank of India">
+  <data key="d2">0.398</data>
+</edge>
+<edge source="Daniell, Cazenove &amp; Co" target="National Bank of India">
+  <data key="d2">0.462</data>
+</edge>
+<edge source="Daniell, Cazenove &amp; Co" target="Reeves, Whitburn &amp; Co">
+  <data key="d2">0.492</data>
+</edge>
+<edge source="Daniell, Cazenove &amp; Co" target="Ryder &amp; Co">
+  <data key="d2">0.447</data>
+</edge>
+<edge source="Daniell, Cazenove &amp; Co" target="Smith, St Aubyn &amp; Co">
+  <data key="d2">0.561</data>
+</edge>
+<edge source="Daniell, Cazenove &amp; Co" target="London Hanseatic Bank">
+  <data key="d2">0.364</data>
+</edge>
+<edge source="Daniell, Cazenove &amp; Co" target="National Discount Co.">
+  <data key="d2">0.311</data>
+</edge>
+<edge source="Daniell, Cazenove &amp; Co" target="Union Discount Co. of London">
+  <data key="d2">0.538</data>
+</edge>
+<edge source="Daniell, Cazenove &amp; Co" target="London County &amp; Westminster Bank">
+  <data key="d2">0.492</data>
+</edge>
+<edge source="Daniell, Cazenove &amp; Co" target="Parr's Bank">
+  <data key="d2">0.486</data>
+</edge>
+<edge source="Daniell, Cazenove &amp; Co" target="Glyn, Mills, Currie &amp; Co">
+  <data key="d2">0.481</data>
+</edge>
+<edge source="Daniell, Cazenove &amp; Co" target="London &amp; Brazilian Bank">
+  <data key="d2">0.321</data>
+</edge>
+<edge source="Daniell, Cazenove &amp; Co" target="London &amp; River Plate Bank">
+  <data key="d2">0.374</data>
+</edge>
+<edge source="Daniell, Cazenove &amp; Co" target="Union of London &amp; Smiths Bank">
+  <data key="d2">0.428</data>
+</edge>
+<edge source="Daniell, Cazenove &amp; Co" target="National Provincial Bank">
+  <data key="d2">0.471</data>
+</edge>
+<edge source="Daniell, Cazenove &amp; Co" target="Lloyds Bank">
+  <data key="d2">0.412</data>
+</edge>
+<edge source="Daniell, Cazenove &amp; Co" target="London &amp; South Western Bank">
+  <data key="d2">0.361</data>
+</edge>
+<edge source="Daniell, Cazenove &amp; Co" target="London Joint Stock Bank">
+  <data key="d2">0.462</data>
+</edge>
+<edge source="Daniell, Cazenove &amp; Co" target="National Bank of Scotland">
+  <data key="d2">0.336</data>
+</edge>
+<edge source="Daniell, Cazenove &amp; Co" target="Standard Bank of South Africa">
+  <data key="d2">0.333</data>
+</edge>
+<edge source="Deutsche Bank (London)" target="Royal Bank of Scotland">
+  <data key="d2">0.354</data>
+</edge>
+<edge source="Deutsche Bank (London)" target="Union Bank of Scotland">
+  <data key="d2">0.522</data>
+</edge>
+<edge source="Eastern Bank" target="Hongkong &amp; Shanghai Banking Corp.">
+  <data key="d2">0.48</data>
+</edge>
+<edge source="Eastern Bank" target="Mercantile Bank of India">
+  <data key="d2">0.495</data>
+</edge>
+<edge source="Eastern Bank" target="Gillett Brothers">
+  <data key="d2">0.426</data>
+</edge>
+<edge source="Eastern Bank" target="King &amp; Foa">
+  <data key="d2">0.362</data>
+</edge>
+<edge source="Eastern Bank" target="National Bank of India">
+  <data key="d2">0.384</data>
+</edge>
+<edge source="Eastern Bank" target="Reeves, Whitburn &amp; Co">
+  <data key="d2">0.35</data>
+</edge>
+<edge source="Eastern Bank" target="Smith, St Aubyn &amp; Co">
+  <data key="d2">0.366</data>
+</edge>
+<edge source="Eastern Bank" target="Union Discount Co. of London">
+  <data key="d2">0.315</data>
+</edge>
+<edge source="Eastern Bank" target="Glyn, Mills, Currie &amp; Co">
+  <data key="d2">0.333</data>
+</edge>
+<edge source="Frederick Huth &amp; Co" target="Parr's Bank">
+  <data key="d2">0.335</data>
+</edge>
+<edge source="Frederick Huth &amp; Co" target="Union of London &amp; Smiths Bank">
+  <data key="d2">0.302</data>
+</edge>
+<edge source="Frith, Sands &amp; Co" target="Ralli Brothers">
+  <data key="d2">0.337</data>
+</edge>
+<edge source="Frühling &amp; Goschen" target="Parr's Bank">
+  <data key="d2">0.307</data>
+</edge>
+<edge source="Frühling &amp; Goschen" target="Reeves, Whitburn &amp; Co">
+  <data key="d2">0.342</data>
+</edge>
+<edge source="Frühling &amp; Goschen" target="Union Discount Co. of London">
+  <data key="d2">0.308</data>
+</edge>
+<edge source="Frühling &amp; Goschen" target="Yokohama Specie Bank">
+  <data key="d2">0.359</data>
+</edge>
+<edge source="Frühling &amp; Goschen" target="König Brothers">
+  <data key="d2">0.309</data>
+</edge>
+<edge source="Frühling &amp; Goschen" target="Royal Bank of Scotland">
+  <data key="d2">0.382</data>
+</edge>
+<edge source="George Peabody &amp; Co" target="Kraeutler &amp; Mieville">
+  <data key="d2">0.4</data>
+</edge>
+<edge source="George Peabody &amp; Co" target="R. Heine, Semon &amp; Co">
+  <data key="d2">0.431</data>
+</edge>
+<edge source="Gillett Brothers" target="Hongkong &amp; Shanghai Banking Corp.">
+  <data key="d2">0.375</data>
+</edge>
+<edge source="Gillett Brothers" target="King &amp; Foa">
+  <data key="d2">0.386</data>
+</edge>
+<edge source="Gillett Brothers" target="Mercantile Bank of India">
+  <data key="d2">0.452</data>
+</edge>
+<edge source="Gillett Brothers" target="National Bank of India">
+  <data key="d2">0.35</data>
+</edge>
+<edge source="Gillett Brothers" target="Reeves, Whitburn &amp; Co">
+  <data key="d2">0.502</data>
+</edge>
+<edge source="Gillett Brothers" target="Ryder &amp; Co">
+  <data key="d2">0.323</data>
+</edge>
+<edge source="Gillett Brothers" target="Smith, St Aubyn &amp; Co">
+  <data key="d2">0.343</data>
+</edge>
+<edge source="Gillett Brothers" target="London Hanseatic Bank">
+  <data key="d2">0.472</data>
+</edge>
+<edge source="Gillett Brothers" target="Union Discount Co. of London">
+  <data key="d2">0.37</data>
+</edge>
+<edge source="Gillett Brothers" target="White &amp; Shaxson">
+  <data key="d2">0.335</data>
+</edge>
+<edge source="Gillett Brothers" target="Imperial Ottoman Bank">
+  <data key="d2">0.302</data>
+</edge>
+<edge source="Gillett Brothers" target="Yokohama Specie Bank">
+  <data key="d2">0.335</data>
+</edge>
+<edge source="Gillett Brothers" target="National Provincial Bank">
+  <data key="d2">0.306</data>
+</edge>
+<edge source="Gillett Brothers" target="London &amp; Brazilian Bank">
+  <data key="d2">0.333</data>
+</edge>
+<edge source="Glyn, Mills, Currie &amp; Co" target="National Discount Co.">
+  <data key="d2">0.358</data>
+</edge>
+<edge source="Glyn, Mills, Currie &amp; Co" target="London County &amp; Westminster Bank">
+  <data key="d2">0.486</data>
+</edge>
+<edge source="Glyn, Mills, Currie &amp; Co" target="National Bank of India">
+  <data key="d2">0.406</data>
+</edge>
+<edge source="Glyn, Mills, Currie &amp; Co" target="Smith, St Aubyn &amp; Co">
+  <data key="d2">0.348</data>
+</edge>
+<edge source="Glyn, Mills, Currie &amp; Co" target="Union Discount Co. of London">
+  <data key="d2">0.462</data>
+</edge>
+<edge source="Glyn, Mills, Currie &amp; Co" target="Union of London &amp; Smiths Bank">
+  <data key="d2">0.544</data>
+</edge>
+<edge source="Glyn, Mills, Currie &amp; Co" target="King &amp; Foa">
+  <data key="d2">0.506</data>
+</edge>
+<edge source="Glyn, Mills, Currie &amp; Co" target="Mercantile Bank of India">
+  <data key="d2">0.363</data>
+</edge>
+<edge source="Glyn, Mills, Currie &amp; Co" target="London &amp; Brazilian Bank">
+  <data key="d2">0.364</data>
+</edge>
+<edge source="Glyn, Mills, Currie &amp; Co" target="London &amp; River Plate Bank">
+  <data key="d2">0.433</data>
+</edge>
+<edge source="Glyn, Mills, Currie &amp; Co" target="Parr's Bank">
+  <data key="d2">0.52</data>
+</edge>
+<edge source="Glyn, Mills, Currie &amp; Co" target="Reeves, Whitburn &amp; Co">
+  <data key="d2">0.342</data>
+</edge>
+<edge source="Glyn, Mills, Currie &amp; Co" target="National Provincial Bank">
+  <data key="d2">0.478</data>
+</edge>
+<edge source="Glyn, Mills, Currie &amp; Co" target="Lloyds Bank">
+  <data key="d2">0.469</data>
+</edge>
+<edge source="Glyn, Mills, Currie &amp; Co" target="London Joint Stock Bank">
+  <data key="d2">0.409</data>
+</edge>
+<edge source="Glyn, Mills, Currie &amp; Co" target="National Bank of Scotland">
+  <data key="d2">0.341</data>
+</edge>
+<edge source="Glyn, Mills, Currie &amp; Co" target="White &amp; Shaxson">
+  <data key="d2">0.384</data>
+</edge>
+<edge source="Glyn, Mills, Currie &amp; Co" target="London &amp; South Western Bank">
+  <data key="d2">0.423</data>
+</edge>
+<edge source="Glyn, Mills, Currie &amp; Co" target="Royal Bank of Scotland">
+  <data key="d2">0.351</data>
+</edge>
+<edge source="Glyn, Mills, Currie &amp; Co" target="Standard Bank of South Africa">
+  <data key="d2">0.496</data>
+</edge>
+<edge source="Glyn, Mills, Currie &amp; Co" target="Lütgens &amp; Ripley">
+  <data key="d2">0.376</data>
+</edge>
+<edge source="Guaranty Trust Co of New York" target="Hongkong &amp; Shanghai Banking Corp.">
+  <data key="d2">0.335</data>
+</edge>
+<edge source="Haarbleicher &amp; Schumann" target="Imperial Ottoman Bank">
+  <data key="d2">0.392</data>
+</edge>
+<edge source="Haarbleicher &amp; Schumann" target="Reeves, Whitburn &amp; Co">
+  <data key="d2">0.343</data>
+</edge>
+<edge source="Haarbleicher &amp; Schumann" target="Smith, St Aubyn &amp; Co">
+  <data key="d2">0.396</data>
+</edge>
+<edge source="Haarbleicher &amp; Schumann" target="Ryder &amp; Co">
+  <data key="d2">0.335</data>
+</edge>
+<edge source="Haarbleicher &amp; Schumann" target="Union Discount Co. of London">
+  <data key="d2">0.332</data>
+</edge>
+<edge source="Hongkong &amp; Shanghai Banking Corp." target="International Banking Corporation">
+  <data key="d2">0.316</data>
+</edge>
+<edge source="Hongkong &amp; Shanghai Banking Corp." target="Mercantile Bank of India">
+  <data key="d2">0.452</data>
+</edge>
+<edge source="Hongkong &amp; Shanghai Banking Corp." target="Ryder &amp; Co">
+  <data key="d2">0.452</data>
+</edge>
+<edge source="Hongkong &amp; Shanghai Banking Corp." target="King &amp; Foa">
+  <data key="d2">0.309</data>
+</edge>
+<edge source="Hongkong &amp; Shanghai Banking Corp." target="Reeves, Whitburn &amp; Co">
+  <data key="d2">0.456</data>
+</edge>
+<edge source="Hongkong &amp; Shanghai Banking Corp." target="Smith, St Aubyn &amp; Co">
+  <data key="d2">0.386</data>
+</edge>
+<edge source="Hongkong &amp; Shanghai Banking Corp." target="London County &amp; Westminster Bank">
+  <data key="d2">0.306</data>
+</edge>
+<edge source="Imperial Ottoman Bank" target="Reeves, Whitburn &amp; Co">
+  <data key="d2">0.44</data>
+</edge>
+<edge source="Imperial Ottoman Bank" target="Ryder &amp; Co">
+  <data key="d2">0.311</data>
+</edge>
+<edge source="Imperial Ottoman Bank" target="Smith, St Aubyn &amp; Co">
+  <data key="d2">0.414</data>
+</edge>
+<edge source="Imperial Ottoman Bank" target="Union Discount Co. of London">
+  <data key="d2">0.496</data>
+</edge>
+<edge source="Imperial Ottoman Bank" target="London Hanseatic Bank">
+  <data key="d2">0.342</data>
+</edge>
+<edge source="Imperial Ottoman Bank" target="Mercantile Bank of India">
+  <data key="d2">0.311</data>
+</edge>
+<edge source="Imperial Ottoman Bank" target="Robarts, Lubbock &amp; Co">
+  <data key="d2">0.302</data>
+</edge>
+<edge source="Imperial Ottoman Bank" target="Yokohama Specie Bank">
+  <data key="d2">0.405</data>
+</edge>
+<edge source="Imperial Ottoman Bank" target="König Brothers">
+  <data key="d2">0.348</data>
+</edge>
+<edge source="Imperial Ottoman Bank" target="Union Bank of Australia">
+  <data key="d2">0.342</data>
+</edge>
+<edge source="International Banking Corporation" target="King &amp; Foa">
+  <data key="d2">0.342</data>
+</edge>
+<edge source="International Banking Corporation" target="National Bank of India">
+  <data key="d2">0.316</data>
+</edge>
+<edge source="International Banking Corporation" target="Smith, St Aubyn &amp; Co">
+  <data key="d2">0.325</data>
+</edge>
+<edge source="International Banking Corporation" target="Union Discount Co. of London">
+  <data key="d2">0.312</data>
+</edge>
+<edge source="International Banking Corporation" target="National Provincial Bank">
+  <data key="d2">0.323</data>
+</edge>
+<edge source="J. C. Im Thurn &amp; Co" target="Wallace Brothers &amp; Co">
+  <data key="d2">0.348</data>
+</edge>
+<edge source="J. Henry Schröder &amp; Co" target="Union Bank of Australia">
+  <data key="d2">0.367</data>
+</edge>
+<edge source="J. L. Lemme &amp; Co" target="Sanderson, Sandeman &amp; Co">
+  <data key="d2">0.378</data>
+</edge>
+<edge source="King &amp; Foa" target="Reeves, Whitburn &amp; Co">
+  <data key="d2">0.479</data>
+</edge>
+<edge source="King &amp; Foa" target="Smith, St Aubyn &amp; Co">
+  <data key="d2">0.476</data>
+</edge>
+<edge source="King &amp; Foa" target="White &amp; Shaxson">
+  <data key="d2">0.311</data>
+</edge>
+<edge source="King &amp; Foa" target="Mercantile Bank of India">
+  <data key="d2">0.438</data>
+</edge>
+<edge source="King &amp; Foa" target="National Bank of India">
+  <data key="d2">0.309</data>
+</edge>
+<edge source="King &amp; Foa" target="Ryder &amp; Co">
+  <data key="d2">0.359</data>
+</edge>
+<edge source="King &amp; Foa" target="London Hanseatic Bank">
+  <data key="d2">0.35</data>
+</edge>
+<edge source="King &amp; Foa" target="National Discount Co.">
+  <data key="d2">0.395</data>
+</edge>
+<edge source="King &amp; Foa" target="Union Discount Co. of London">
+  <data key="d2">0.482</data>
+</edge>
+<edge source="King &amp; Foa" target="London County &amp; Westminster Bank">
+  <data key="d2">0.514</data>
+</edge>
+<edge source="King &amp; Foa" target="Parr's Bank">
+  <data key="d2">0.496</data>
+</edge>
+<edge source="King &amp; Foa" target="National Provincial Bank">
+  <data key="d2">0.535</data>
+</edge>
+<edge source="King &amp; Foa" target="Royal Bank of Scotland">
+  <data key="d2">0.472</data>
+</edge>
+<edge source="King &amp; Foa" target="Lloyds Bank">
+  <data key="d2">0.507</data>
+</edge>
+<edge source="King &amp; Foa" target="London &amp; Brazilian Bank">
+  <data key="d2">0.309</data>
+</edge>
+<edge source="King &amp; Foa" target="London &amp; River Plate Bank">
+  <data key="d2">0.428</data>
+</edge>
+<edge source="King &amp; Foa" target="London Joint Stock Bank">
+  <data key="d2">0.37</data>
+</edge>
+<edge source="King &amp; Foa" target="National Bank of Scotland">
+  <data key="d2">0.337</data>
+</edge>
+<edge source="King &amp; Foa" target="Union of London &amp; Smiths Bank">
+  <data key="d2">0.477</data>
+</edge>
+<edge source="King &amp; Foa" target="London &amp; South Western Bank">
+  <data key="d2">0.322</data>
+</edge>
+<edge source="King &amp; Foa" target="Standard Bank of South Africa">
+  <data key="d2">0.312</data>
+</edge>
+<edge source="King &amp; Foa" target="Union Bank of Scotland">
+  <data key="d2">0.326</data>
+</edge>
+<edge source="Kleinwort, Sons &amp; Co" target="London County &amp; Westminster Bank">
+  <data key="d2">0.48</data>
+</edge>
+<edge source="Kleinwort, Sons &amp; Co" target="Parr's Bank">
+  <data key="d2">0.386</data>
+</edge>
+<edge source="Kleinwort, Sons &amp; Co" target="Smith, St Aubyn &amp; Co">
+  <data key="d2">0.302</data>
+</edge>
+<edge source="Kleinwort, Sons &amp; Co" target="Union of London &amp; Smiths Bank">
+  <data key="d2">0.433</data>
+</edge>
+<edge source="Kleinwort, Sons &amp; Co" target="London Joint Stock Bank">
+  <data key="d2">0.314</data>
+</edge>
+<edge source="Kraeutler &amp; Mieville" target="Sanderson, Sandeman &amp; Co">
+  <data key="d2">0.367</data>
+</edge>
+<edge source="König Brothers" target="Yokohama Specie Bank">
+  <data key="d2">0.516</data>
+</edge>
+<edge source="Lloyds Bank" target="London &amp; South Western Bank">
+  <data key="d2">0.387</data>
+</edge>
+<edge source="Lloyds Bank" target="London County &amp; Westminster Bank">
+  <data key="d2">0.556</data>
+</edge>
+<edge source="Lloyds Bank" target="London Joint Stock Bank">
+  <data key="d2">0.405</data>
+</edge>
+<edge source="Lloyds Bank" target="National Bank of Scotland">
+  <data key="d2">0.405</data>
+</edge>
+<edge source="Lloyds Bank" target="Parr's Bank">
+  <data key="d2">0.606</data>
+</edge>
+<edge source="Lloyds Bank" target="Union Discount Co. of London">
+  <data key="d2">0.352</data>
+</edge>
+<edge source="Lloyds Bank" target="Union of London &amp; Smiths Bank">
+  <data key="d2">0.649</data>
+</edge>
+<edge source="Lloyds Bank" target="London &amp; Brazilian Bank">
+  <data key="d2">0.333</data>
+</edge>
+<edge source="Lloyds Bank" target="National Provincial Bank">
+  <data key="d2">0.467</data>
+</edge>
+<edge source="Lloyds Bank" target="Royal Bank of Scotland">
+  <data key="d2">0.437</data>
+</edge>
+<edge source="London &amp; Brazilian Bank" target="London &amp; River Plate Bank">
+  <data key="d2">0.555</data>
+</edge>
+<edge source="London &amp; Brazilian Bank" target="Mercantile Bank of India">
+  <data key="d2">0.43</data>
+</edge>
+<edge source="London &amp; Brazilian Bank" target="Parr's Bank">
+  <data key="d2">0.306</data>
+</edge>
+<edge source="London &amp; Brazilian Bank" target="Reeves, Whitburn &amp; Co">
+  <data key="d2">0.426</data>
+</edge>
+<edge source="London &amp; Brazilian Bank" target="Union Discount Co. of London">
+  <data key="d2">0.329</data>
+</edge>
+<edge source="London &amp; Brazilian Bank" target="London Joint Stock Bank">
+  <data key="d2">0.436</data>
+</edge>
+<edge source="London &amp; Brazilian Bank" target="Manchester &amp; Liverpool District Bank">
+  <data key="d2">0.5</data>
+</edge>
+<edge source="London &amp; Brazilian Bank" target="National Provincial Bank">
+  <data key="d2">0.408</data>
+</edge>
+<edge source="London &amp; Brazilian Bank" target="Stern Brothers">
+  <data key="d2">0.577</data>
+</edge>
+<edge source="London &amp; River Plate Bank" target="Mercantile Bank of India">
+  <data key="d2">0.43</data>
+</edge>
+<edge source="London &amp; River Plate Bank" target="Parr's Bank">
+  <data key="d2">0.382</data>
+</edge>
+<edge source="London &amp; River Plate Bank" target="Reeves, Whitburn &amp; Co">
+  <data key="d2">0.354</data>
+</edge>
+<edge source="London &amp; River Plate Bank" target="Union Discount Co. of London">
+  <data key="d2">0.365</data>
+</edge>
+<edge source="London &amp; River Plate Bank" target="Union of London &amp; Smiths Bank">
+  <data key="d2">0.322</data>
+</edge>
+<edge source="London &amp; River Plate Bank" target="London Joint Stock Bank">
+  <data key="d2">0.424</data>
+</edge>
+<edge source="London &amp; River Plate Bank" target="National Bank of Scotland">
+  <data key="d2">0.303</data>
+</edge>
+<edge source="London &amp; River Plate Bank" target="National Provincial Bank">
+  <data key="d2">0.396</data>
+</edge>
+<edge source="London &amp; River Plate Bank" target="Stern Brothers">
+  <data key="d2">0.48</data>
+</edge>
+<edge source="London &amp; River Plate Bank" target="London &amp; South Western Bank">
+  <data key="d2">0.463</data>
+</edge>
+<edge source="London &amp; River Plate Bank" target="Royal Bank of Scotland">
+  <data key="d2">0.34</data>
+</edge>
+<edge source="London &amp; River Plate Bank" target="Standard Bank of South Africa">
+  <data key="d2">0.32</data>
+</edge>
+<edge source="London &amp; South Western Bank" target="London Joint Stock Bank">
+  <data key="d2">0.364</data>
+</edge>
+<edge source="London &amp; South Western Bank" target="National Bank of Scotland">
+  <data key="d2">0.364</data>
+</edge>
+<edge source="London &amp; South Western Bank" target="Parr's Bank">
+  <data key="d2">0.526</data>
+</edge>
+<edge source="London &amp; South Western Bank" target="Reeves, Whitburn &amp; Co">
+  <data key="d2">0.419</data>
+</edge>
+<edge source="London &amp; South Western Bank" target="Robarts, Lubbock &amp; Co">
+  <data key="d2">0.313</data>
+</edge>
+<edge source="London &amp; South Western Bank" target="Union Discount Co. of London">
+  <data key="d2">0.343</data>
+</edge>
+<edge source="London &amp; South Western Bank" target="Union of London &amp; Smiths Bank">
+  <data key="d2">0.464</data>
+</edge>
+<edge source="London &amp; South Western Bank" target="National Provincial Bank">
+  <data key="d2">0.468</data>
+</edge>
+<edge source="London &amp; South Western Bank" target="Royal Bank of Scotland">
+  <data key="d2">0.341</data>
+</edge>
+<edge source="London &amp; South Western Bank" target="Standard Bank of South Africa">
+  <data key="d2">0.482</data>
+</edge>
+<edge source="London County &amp; Westminster Bank" target="National Discount Co.">
+  <data key="d2">0.375</data>
+</edge>
+<edge source="London County &amp; Westminster Bank" target="National Bank of India">
+  <data key="d2">0.378</data>
+</edge>
+<edge source="London County &amp; Westminster Bank" target="Parr's Bank">
+  <data key="d2">0.701</data>
+</edge>
+<edge source="London County &amp; Westminster Bank" target="Reeves, Whitburn &amp; Co">
+  <data key="d2">0.385</data>
+</edge>
+<edge source="London County &amp; Westminster Bank" target="Smith, St Aubyn &amp; Co">
+  <data key="d2">0.4</data>
+</edge>
+<edge source="London County &amp; Westminster Bank" target="Union Discount Co. of London">
+  <data key="d2">0.493</data>
+</edge>
+<edge source="London County &amp; Westminster Bank" target="Union of London &amp; Smiths Bank">
+  <data key="d2">0.784</data>
+</edge>
+<edge source="London County &amp; Westminster Bank" target="National Provincial Bank">
+  <data key="d2">0.408</data>
+</edge>
+<edge source="London County &amp; Westminster Bank" target="London Joint Stock Bank">
+  <data key="d2">0.485</data>
+</edge>
+<edge source="London County &amp; Westminster Bank" target="National Bank of Scotland">
+  <data key="d2">0.339</data>
+</edge>
+<edge source="London County &amp; Westminster Bank" target="N. M. Rothschild &amp; Sons">
+  <data key="d2">0.333</data>
+</edge>
+<edge source="London County &amp; Westminster Bank" target="White &amp; Shaxson">
+  <data key="d2">0.398</data>
+</edge>
+<edge source="London County &amp; Westminster Bank" target="Royal Bank of Scotland">
+  <data key="d2">0.386</data>
+</edge>
+<edge source="London County &amp; Westminster Bank" target="Union Bank of Scotland">
+  <data key="d2">0.335</data>
+</edge>
+<edge source="London Hanseatic Bank" target="Smith, St Aubyn &amp; Co">
+  <data key="d2">0.324</data>
+</edge>
+<edge source="London Hanseatic Bank" target="Union Discount Co. of London">
+  <data key="d2">0.311</data>
+</edge>
+<edge source="London Hanseatic Bank" target="National Provincial Bank">
+  <data key="d2">0.309</data>
+</edge>
+<edge source="London Joint Stock Bank" target="National Bank of Scotland">
+  <data key="d2">0.429</data>
+</edge>
+<edge source="London Joint Stock Bank" target="Parr's Bank">
+  <data key="d2">0.426</data>
+</edge>
+<edge source="London Joint Stock Bank" target="Reeves, Whitburn &amp; Co">
+  <data key="d2">0.398</data>
+</edge>
+<edge source="London Joint Stock Bank" target="Smith, St Aubyn &amp; Co">
+  <data key="d2">0.374</data>
+</edge>
+<edge source="London Joint Stock Bank" target="Union Discount Co. of London">
+  <data key="d2">0.323</data>
+</edge>
+<edge source="London Joint Stock Bank" target="Union of London &amp; Smiths Bank">
+  <data key="d2">0.443</data>
+</edge>
+<edge source="London Joint Stock Bank" target="National Provincial Bank">
+  <data key="d2">0.445</data>
+</edge>
+<edge source="London Joint Stock Bank" target="Stern Brothers">
+  <data key="d2">0.378</data>
+</edge>
+<edge source="London Joint Stock Bank" target="Royal Bank of Scotland">
+  <data key="d2">0.312</data>
+</edge>
+<edge source="London Joint Stock Bank" target="Union Bank of Scotland">
+  <data key="d2">0.329</data>
+</edge>
+<edge source="Lütgens &amp; Ripley" target="National Bank of Scotland">
+  <data key="d2">0.35</data>
+</edge>
+<edge source="Lütgens &amp; Ripley" target="Parr's Bank">
+  <data key="d2">0.368</data>
+</edge>
+<edge source="Lütgens &amp; Ripley" target="Union of London &amp; Smiths Bank">
+  <data key="d2">0.362</data>
+</edge>
+<edge source="Lütgens &amp; Ripley" target="National Bank of India">
+  <data key="d2">0.321</data>
+</edge>
+<edge source="Lütgens &amp; Ripley" target="Standard Bank of South Africa">
+  <data key="d2">0.309</data>
+</edge>
+<edge source="M. Levin &amp; Adler" target="Overend, Gurney &amp; Co">
+  <data key="d2">0.392</data>
+</edge>
+<edge source="M. Levin &amp; Adler" target="R. Heine, Semon &amp; Co">
+  <data key="d2">0.426</data>
+</edge>
+<edge source="Manchester &amp; Liverpool District Bank" target="N. M. Rothschild &amp; Sons">
+  <data key="d2">0.333</data>
+</edge>
+<edge source="Manchester &amp; Liverpool District Bank" target="National Bank of Scotland">
+  <data key="d2">0.327</data>
+</edge>
+<edge source="Manchester &amp; Liverpool District Bank" target="National Provincial Bank">
+  <data key="d2">0.306</data>
+</edge>
+<edge source="Manchester &amp; Liverpool District Bank" target="Stern Brothers">
+  <data key="d2">0.577</data>
+</edge>
+<edge source="Manchester &amp; Liverpool District Bank" target="Union Discount Co. of London">
+  <data key="d2">0.329</data>
+</edge>
+<edge source="Mercantile Bank of India" target="Ryder &amp; Co">
+  <data key="d2">0.333</data>
+</edge>
+<edge source="Mercantile Bank of India" target="Reeves, Whitburn &amp; Co">
+  <data key="d2">0.377</data>
+</edge>
+<edge source="Mercantile Bank of India" target="Samuel Montagu &amp; Co">
+  <data key="d2">0.32</data>
+</edge>
+<edge source="Mercantile Bank of India" target="Smith, St Aubyn &amp; Co">
+  <data key="d2">0.31</data>
+</edge>
+<edge source="Mercantile Bank of India" target="Union Discount Co. of London">
+  <data key="d2">0.382</data>
+</edge>
+<edge source="Mercantile Bank of India" target="National Provincial Bank">
+  <data key="d2">0.316</data>
+</edge>
+<edge source="Mercantile Bank of India" target="Stern Brothers">
+  <data key="d2">0.447</data>
+</edge>
+<edge source="N. M. Rothschild &amp; Sons" target="Union Bank of Scotland">
+  <data key="d2">0.302</data>
+</edge>
+<edge source="National Bank of India" target="Reeves, Whitburn &amp; Co">
+  <data key="d2">0.329</data>
+</edge>
+<edge source="National Bank of India" target="Ryder &amp; Co">
+  <data key="d2">0.31</data>
+</edge>
+<edge source="National Bank of India" target="Smith, St Aubyn &amp; Co">
+  <data key="d2">0.412</data>
+</edge>
+<edge source="National Bank of India" target="Union Discount Co. of London">
+  <data key="d2">0.46</data>
+</edge>
+<edge source="National Bank of India" target="Parr's Bank">
+  <data key="d2">0.39</data>
+</edge>
+<edge source="National Bank of India" target="National Provincial Bank">
+  <data key="d2">0.367</data>
+</edge>
+<edge source="National Bank of India" target="Robarts, Lubbock &amp; Co">
+  <data key="d2">0.3</data>
+</edge>
+<edge source="National Bank of India" target="Union of London &amp; Smiths Bank">
+  <data key="d2">0.367</data>
+</edge>
+<edge source="National Bank of Scotland" target="Parr's Bank">
+  <data key="d2">0.375</data>
+</edge>
+<edge source="National Bank of Scotland" target="Union Discount Co. of London">
+  <data key="d2">0.323</data>
+</edge>
+<edge source="National Bank of Scotland" target="Union of London &amp; Smiths Bank">
+  <data key="d2">0.443</data>
+</edge>
+<edge source="National Bank of Scotland" target="Stern Brothers">
+  <data key="d2">0.378</data>
+</edge>
+<edge source="National Bank of Scotland" target="Standard Bank of South Africa">
+  <data key="d2">0.378</data>
+</edge>
+<edge source="National Discount Co." target="Smith, St Aubyn &amp; Co">
+  <data key="d2">0.324</data>
+</edge>
+<edge source="National Discount Co." target="Union Discount Co. of London">
+  <data key="d2">0.421</data>
+</edge>
+<edge source="National Discount Co." target="Union of London &amp; Smiths Bank">
+  <data key="d2">0.326</data>
+</edge>
+<edge source="National Provincial Bank" target="Union Discount Co. of London">
+  <data key="d2">0.47</data>
+</edge>
+<edge source="National Provincial Bank" target="Parr's Bank">
+  <data key="d2">0.445</data>
+</edge>
+<edge source="National Provincial Bank" target="Reeves, Whitburn &amp; Co">
+  <data key="d2">0.373</data>
+</edge>
+<edge source="National Provincial Bank" target="Royal Bank of Scotland">
+  <data key="d2">0.5</data>
+</edge>
+<edge source="National Provincial Bank" target="Smith, St Aubyn &amp; Co">
+  <data key="d2">0.42</data>
+</edge>
+<edge source="National Provincial Bank" target="Union of London &amp; Smiths Bank">
+  <data key="d2">0.434</data>
+</edge>
+<edge source="National Provincial Bank" target="Stern Brothers">
+  <data key="d2">0.354</data>
+</edge>
+<edge source="Overend, Gurney &amp; Co" target="R. Heine, Semon &amp; Co">
+  <data key="d2">0.376</data>
+</edge>
+<edge source="Parr's Bank" target="Reeves, Whitburn &amp; Co">
+  <data key="d2">0.461</data>
+</edge>
+<edge source="Parr's Bank" target="Smith, St Aubyn &amp; Co">
+  <data key="d2">0.393</data>
+</edge>
+<edge source="Parr's Bank" target="Union Discount Co. of London">
+  <data key="d2">0.49</data>
+</edge>
+<edge source="Parr's Bank" target="Union of London &amp; Smiths Bank">
+  <data key="d2">0.798</data>
+</edge>
+<edge source="Parr's Bank" target="Royal Bank of Scotland">
+  <data key="d2">0.515</data>
+</edge>
+<edge source="Parr's Bank" target="White &amp; Shaxson">
+  <data key="d2">0.333</data>
+</edge>
+<edge source="Parr's Bank" target="Standard Bank of South Africa">
+  <data key="d2">0.397</data>
+</edge>
+<edge source="R. Heine, Semon &amp; Co" target="Ralli Brothers">
+  <data key="d2">0.306</data>
+</edge>
+<edge source="Ralli Brothers" target="Suse &amp; Sibeth">
+  <data key="d2">0.345</data>
+</edge>
+<edge source="Reeves, Whitburn &amp; Co" target="Smith, St Aubyn &amp; Co">
+  <data key="d2">0.501</data>
+</edge>
+<edge source="Reeves, Whitburn &amp; Co" target="Samuel Montagu &amp; Co">
+  <data key="d2">0.323</data>
+</edge>
+<edge source="Reeves, Whitburn &amp; Co" target="White &amp; Shaxson">
+  <data key="d2">0.327</data>
+</edge>
+<edge source="Reeves, Whitburn &amp; Co" target="Ryder &amp; Co">
+  <data key="d2">0.424</data>
+</edge>
+<edge source="Reeves, Whitburn &amp; Co" target="Union Discount Co. of London">
+  <data key="d2">0.54</data>
+</edge>
+<edge source="Reeves, Whitburn &amp; Co" target="Union of London &amp; Smiths Bank">
+  <data key="d2">0.371</data>
+</edge>
+<edge source="Reeves, Whitburn &amp; Co" target="Stern Brothers">
+  <data key="d2">0.316</data>
+</edge>
+<edge source="Robarts, Lubbock &amp; Co" target="Smith, St Aubyn &amp; Co">
+  <data key="d2">0.343</data>
+</edge>
+<edge source="Royal Bank of Scotland" target="Union Discount Co. of London">
+  <data key="d2">0.369</data>
+</edge>
+<edge source="Royal Bank of Scotland" target="Smith, St Aubyn &amp; Co">
+  <data key="d2">0.315</data>
+</edge>
+<edge source="Royal Bank of Scotland" target="Union of London &amp; Smiths Bank">
+  <data key="d2">0.454</data>
+</edge>
+<edge source="Royal Bank of Scotland" target="Union Bank of Scotland">
+  <data key="d2">0.369</data>
+</edge>
+<edge source="Ryder &amp; Co" target="Smith, St Aubyn &amp; Co">
+  <data key="d2">0.399</data>
+</edge>
+<edge source="Ryder &amp; Co" target="Union Discount Co. of London">
+  <data key="d2">0.382</data>
+</edge>
+<edge source="Smith, St Aubyn &amp; Co" target="Union Discount Co. of London">
+  <data key="d2">0.507</data>
+</edge>
+<edge source="Smith, St Aubyn &amp; Co" target="Union of London &amp; Smiths Bank">
+  <data key="d2">0.398</data>
+</edge>
+<edge source="Standard Bank of South Africa" target="Union Discount Co. of London">
+  <data key="d2">0.38</data>
+</edge>
+<edge source="Standard Bank of South Africa" target="Union of London &amp; Smiths Bank">
+  <data key="d2">0.335</data>
+</edge>
+<edge source="Swiss Bankverein" target="White &amp; Shaxson">
+  <data key="d2">0.3</data>
+</edge>
+<edge source="Union Bank of Scotland" target="Union of London &amp; Smiths Bank">
+  <data key="d2">0.321</data>
+</edge>
+<edge source="Union Discount Co. of London" target="Union of London &amp; Smiths Bank">
+  <data key="d2">0.461</data>
+</edge>
+<edge source="Union of London &amp; Smiths Bank" target="White &amp; Shaxson">
+  <data key="d2">0.367</data>
+</edge>
+</graph></graphml>

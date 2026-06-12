@@ -1,0 +1,162 @@
+from,to,n,weight
+"Glyn, Mills, Currie & Co",Bank of England,71,6343603.149999999
+Credit Lyonnais,"Glyn, Mills, Currie & Co",42,5299981.6
+Union of London & Smiths Bank,Bank of England,96,1056502.5999999999
+Bradford District Bank Ld,Union of London & Smiths Bank,87,851760.5
+Russian Bk,"Glyn, Mills, Currie & Co",3,472861.55
+Capital & Counties Bank,Bank of England,11,381712.85
+London County & Westminster Bank,Bank of England,26,312871.1
+James Burness & Sons,Bank of England,4,265727.35
+Warms & Co,James Burness & Sons,4,265727.35
+London Joint Stock Bank,Bank of England,25,260201.19999999998
+Soc Genle,"Glyn, Mills, Currie & Co",8,221601.75
+Besslet Waechler & Co,Capital & Counties Bank,3,181517.44999999998
+Natl Bk of Egypt,"Glyn, Mills, Currie & Co",3,143966.8
+Chartered Bk of SC,Capital & Counties Bank,2,128873.2
+Lothbury,London County & Westminster Bank,1,126971.29999999999
+Barclay & Co,Bank of England,28,115854.4
+London & South Western Bank,Bank of England,10,83104.09999999999
+Ste Gee de Credit Indue,Union of London & Smiths Bank,2,81406.45
+"Robarts, Lubbock & Co",Bank of England,2,81140.45
+Grace Bros Co Ltd,"Robarts, Lubbock & Co",1,78088.09999999999
+Sheffield Banking Co Ltd,Union of London & Smiths Bank,1,71730.7
+Nitrate Rys Co Ld,"Glyn, Mills, Currie & Co",4,70202.15
+B.A.G.S. Rly,"Glyn, Mills, Currie & Co",1,57950.0
+Lloyds Bank,Bank of England,18,55679.5
+Rusec Asiatic Bk,Samuel Montagu & Co,2,54158.549999999996
+Samuel Montagu & Co,Bank of England,2,54158.549999999996
+Southwark,London Joint Stock Bank,3,53580.0
+Fenchurch St,London Joint Stock Bank,2,48167.85
+African Bkg,London Joint Stock Bank,1,45755.799999999996
+Banco De Chilie,London County & Westminster Bank,5,44507.5
+National Provincial Bank,Bank of England,12,41474.15
+E.Erlanger & Co,London County & Westminster Bank,1,37068.049999999996
+Beasler Waechter,Capital & Counties Bank,1,34832.7
+Leadenhall St,London Joint Stock Bank,1,33777.25
+Jaltal Ry Co,"Glyn, Mills, Currie & Co",2,31996.95
+Provincial Bk of Ireland,Barclay & Co,5,28003.149999999998
+Millers Timber & Fradg Co,Barclay & Co,1,27745.699999999997
+Mumster & Leinster Bk,Union of London & Smiths Bank,1,26269.399999999998
+Geo Wills Sons,London County & Westminster Bank,1,23750.0
+Old Broad St,London Joint Stock Bank,2,23490.649999999998
+Williams Deacon'S Bank Ltd,Bank of England,2,22517.85
+Parr's Bank,Bank of England,13,20955.1
+Yeoville & Sons Ld,London County & Westminster Bank,1,19544.35
+Lothbury,London Joint Stock Bank,3,18885.05
+Bk of Taiwan Ld,London & South Western Bank,1,18655.149999999998
+Credit Lyonnais,Hohler & Co,1,17447.7
+Hohler & Co,Bank of England,1,17447.7
+Reuters Bk Ld,Lloyds Bank,7,16871.05
+K.K. Priv Laenderk,London & South Western Bank,1,15920.099999999999
+K.K.Landerbk,London & South Western Bank,1,15920.099999999999
+Antofagasta Bolivia Ry Co Ltd,"Glyn, Mills, Currie & Co",2,14667.05
+E.A.Joseph,London & South Western Bank,4,14561.599999999999
+EB.Meyer,London County & Westminster Bank,1,14376.349999999999
+Awmarin Co  /   M.Samual Co,Capital & Counties Bank,1,14250.0
+Indian Manganese Co Ltd,Lloyds Bank,2,13592.599999999999
+Beckerage & Co Ltd,Barclay & Co,1,13434.9
+John Batt & Co,London County & Westminster Bank,2,12619.8
+Sanders Rehders Co Ld,Barclay & Co,7,12549.5
+Brinkmann & Co,Williams Deacon'S Bank Ltd,1,12419.349999999999
+Natl Bk of Egypt,London Joint Stock Bank,1,12250.25
+Southwark,London County & Westminster Bank,1,11287.9
+Cotesworth & Powell,Lloyds Bank,3,11185.3
+Bank Of Scotland,Bank of England,4,11017.15
+C.David Co,"Glyn, Mills, Currie & Co",1,10450.0
+de Pury Gautichi & Co,"Glyn, Mills, Currie & Co",4,10209.65
+Credit Mohler Frans,Union of London & Smiths Bank,1,10162.15
+Credit Mobilei Francs,Union of London & Smiths Bank,1,10162.15
+W&J Biggerstaff,Parr's Bank,8,10152.65
+L.M Fishchel & Co,Williams Deacon'S Bank Ltd,1,10098.5
+Wm Le Lacheut & Sons,Barclay & Co,3,9910.4
+H.S.Lefevre & Co,National Provincial Bank,2,9769.8
+Dalgety Co Ld,"Glyn, Mills, Currie & Co",1,9715.65
+M Samuel & Co,Capital & Counties Bank,2,9622.55
+Cory Bros & Co Ld,National Provincial Bank,1,9550.35
+Rosing Bros Co,London County & Westminster Bank,3,9025.949999999999
+John Moare Co,London Joint Stock Bank,2,8739.05
+Clydesdale Bank Ltd,Bank of England,2,8669.699999999999
+Clyde Shipping Co Ltd,Clydesdale Bank Ltd,2,8669.699999999999
+A.Bronnin Co,National Provincial Bank,1,8389.449999999999
+Bk of Romania,Imperial Ottoman Bank,1,8235.55
+Imperial Ottoman Bank,Bank of England,1,8235.55
+F.Stern & Co,London & South Western Bank,1,8023.7
+Bank of North Queensland Ltd,London & South Western Bank,1,7982.849999999999
+Brandies Goldschmidt Co,Lon Lpool Bk Of Comce,1,7922.049999999999
+Lon Lpool Bk Of Comce,Bank of England,1,7922.049999999999
+K.K. Priv Laenderk,Capital & Counties Bank,1,7785.25
+Browning & Co,Lloyds Bank,2,7680.749999999999
+Martin'S Bank Ltd,Bank of England,3,7639.9
+E.A.Joseph,Martin'S Bank Ltd,2,7507.849999999999
+Becker Co Ld,Barclay & Co,2,7399.55
+Guinness Mahon Co,Parr's Bank,1,7339.7
+Grace Bros Co Ltd,Coutts & Co,1,7247.549999999999
+Coutts & Co,Bank of England,1,7247.549999999999
+Wm Symington & Co Ld,Barclay & Co,2,6804.85
+Perice Lealie & Co,Bank Of Scotland,1,6408.7
+Commercial Bank Of Scotland Ltd,Bank of England,2,5711.4
+La Guaira Harbour Corfu,Commercial Bank Of Scotland Ltd,1,5711.4
+A.W.Martin,Capital & Counties Bank,1,4831.7
+Britsh Linen Bank,Bank of England,8,4664.5
+Wright Graham & Co,Britsh Linen Bank,8,4664.5
+N W Uruguay Ry Co Ld,National Provincial Bank,1,4450.75
+Natl Park Bk Ny,Lloyds Bank,1,4356.7
+Wood St,London Joint Stock Bank,1,4313.0
+B.Westman,National Provincial Bank,1,3451.35
+Sainfeld Colle & Co Ld,London County & Westminster Bank,1,3438.0499999999997
+Cim Thurn & Sons,Union of London & Smiths Bank,1,3121.7
+S.Figgio & Co,Barclay & Co,3,3114.1
+Vague & Samuel,"Robarts, Lubbock & Co",1,3052.35
+F.M.Philippean Co,London County & Westminster Bank,1,3043.7999999999997
+WF Malcolm Co,Bank Of Scotland,1,2830.0499999999997
+Barbican,London Joint Stock Bank,1,2717.95
+Morton Ld,London County & Westminster Bank,1,2433.9
+Fiehet King Co,Barclay & Co,1,2427.25
+Bolton S/S Co Ld,National Provincial Bank,1,2370.25
+British Aluminium Co Ltd,Parr's Bank,1,2366.45
+H.J.Enthoven & Sons Ltd,Barclay & Co,1,2287.6
+Schloesse Barker Co Ltd,London County & Westminster Bank,1,2270.5
+Finchley,London Joint Stock Bank,1,2108.0499999999997
+Cannon St,London Joint Stock Bank,2,2101.4
+De Clermont & Dounet,London & South Western Bank,1,2040.6
+Natl Bk of Turkey,Union of London & Smiths Bank,2,1889.55
+G.D Seeson & Co,Bank Of Scotland,1,1778.3999999999999
+R.Rofner & Co,National Provincial Bank,1,1705.25
+Westminister,London Joint Stock Bank,1,1622.6
+Northumbrian Shipping Corp Ltd,Lloyds Bank,1,1303.3999999999999
+Thompson Bros,Barclay & Co,1,1223.6
+Regent St,London Joint Stock Bank,1,1152.35
+Fenchurch St,National Provincial Bank,1,1151.3999999999999
+De Clermont & Dounet,London County & Westminster Bank,1,1082.05
+Rowe White Co Ld,National Bk Ld,1,989.9
+National Bk Ld,Bank of England,1,989.9
+Glover Bros,Barclay & Co,1,953.8
+Knowles Foster,London Joint Stock Bank,1,859.75
+Charles Hoare Co,Bank of England,1,814.15
+Geo Anderson & Co Ltd,Charles Hoare Co,1,814.15
+S.Davids Sons & Co,Parr's Bank,1,712.5
+Natl Park Bk Ny,London County & Westminster Bank,1,690.65
+H.S.King & Co,Lloyds Bank,1,629.85
+Kuhn Co,London Joint Stock Bank,1,583.3
+Schneider Co,London County & Westminster Bank,1,551.9499999999999
+Banca De Espana,Bank of England,1,399.95
+Morton Ld,Banca De Espana,1,399.95
+Lon Provincial Bk,Bank of England,1,371.45
+G.E Timber Co Ld,Lon Provincial Bk,1,371.45
+N.E. Salt Co,National Provincial Bank,1,350.55
+Fincham Co,Parr's Bank,1,193.79999999999998
+C.J.Sasson & Co,Parr's Bank,1,190.0
+Carrer Pass & Son Ld,National Provincial Bank,1,165.29999999999998
+H.J.Peatson Co,London County & Westminster Bank,1,158.65
+Child & Co,Bank of England,1,144.4
+Harison,Child & Co,1,144.4
+DW Bell & Co,Martin'S Bank Ltd,1,132.04999999999998
+Taylor Bros,National Provincial Bank,1,119.69999999999999
+W.C.Brumlen,London Joint Stock Bank,1,96.89999999999999
+Sydney Hudson Ltd,Lloyds Bank,1,59.849999999999994
+Averlock Franklin,London County & Westminster Bank,1,50.349999999999994
+L.Boy.W.Bk Bk Chas Comiys Co,Bank of England,1,32.3
+Auerbach Franklin,L.Boy.W.Bk Bk Chas Comiys Co,1,32.3
+Auerbach Franklin,London County & Westminster Bank,1,0.0
+H.L.Bolton & Co,Commercial Bank Of Scotland Ltd,1,0.0
+Maesey Hattis Ld,Bank Of Scotland,1,0.0

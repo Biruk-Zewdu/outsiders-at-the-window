@@ -1,0 +1,5 @@
+era,group,mean_rate,rejection_pct,n,value
+pre-war,Émigré houses,5.26,0.38,43,5791238
+pre-war,All borrowers,5.75,0.32,275,28237089
+war,Émigré houses,5.01,4.92,360,18195546
+war,All borrowers,5.0,4.92,2935,131032625

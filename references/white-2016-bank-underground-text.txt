@@ -1,0 +1,80 @@
+Eugene White.
+The collapse of Northern Rock in 2007 and Bear Sterns, Lehman Brothers, and AIG in 2008 renewed the debate over how a lender of last resort should respond to a troubled systemically important financial institution (SIFI). Based on research in the Bank of England Archive, this post re-examines a crisis in 1890 when the Bank, supported by central bank cooperation, rescued Baring Brothers & Co. and quashed a banking panic and a currency crisis, while mitigating moral hazard.  This rescue is significant because it combined features similar to those mandated by recent U.K., U.S., and European reforms to ensure an orderly liquidation of SIFIs and increase the accountability of senior management (e.g. Title II of the Dodd-Frank Act (2010); the U.K. “Senior Managers Regime”).
+Financial historians (
+Bordo (1990)
+;
+Schwartz (1986)
+;
+Bignon, Flandreau, & Ugolini, (2012)
+) have argued that, when faced with a crisis in the nineteenth century, the Bank of England simply followed Bagehot’s Rule to lend freely at a high rate to preserve market liquidity (
+Bagehot (1873)
+).  This “historical fact” has lent support to policy recommendations to strictly follow Bagehot in a crisis.  By downplaying the rescue and treating the 1890 crisis as minor (Turner (2014)), historians have overlooked its significance and that of its French precursor; thus they have missed important examples of successful pre-emptive intervention that limited damage to the economy and future risk-taking.
+Origins of the Crisis
+Among nineteenth century merchant/investment British banks, Baring Brothers was second only to the Rothschilds.  Pre-eminent in trade finance, Barings was tempted by the emerging South American markets.  Serving as the leading investment bank for Argentina, Barings helped to channel £140 million of investment to Argentina between 1885 and 1890.  This huge inflow contributed to inflation that, when followed by a bad harvest and a coup, produced a sovereign debt crisis (Kynaston (2012)).
+To finance its portfolio of Argentine securities, Barings had quietly borrowed around the market so as not to arouse concern.  By the end of October 1890, it had accumulated a liability of £15.7 million.  Although not highly leveraged by some recent standards, having capital of £4 million and assets of £20 million, the bank possessed £8.3 million of “toxic” Argentinian securities.  The most recent of these failed issues was for the Buenos Ayres Water and Sewerage Co. (Figure 1).  If Barings’ position had become publicly known, a run on the bank could have ensued.  The fire sale of its assets would have endangered other banks and threatened a general panic (Freixas & Parigi (2014)).
+Figure 1 – the Buenos Ayres Water and Sewerage Issue
+Source: Bank of England Archive
+One banker who had an inkling of Barings’ problems, Everard Hambro, organized a meeting of two Barings partners and the Governor of the Bank of England, William Lord Lidderdale on Saturday, November 8, 1890.  Before arriving, Lidderdale sent a note to the Chancellor of the Exchequer, George Goschen, requesting him to come to the City on Monday.  Goschen suspected that Barings was in trouble.  Fearing the failure of such a prominent bank, he wrote that the panic and recession arising from the failure of the Overend-Gurney bank in “
+1866 would be a trifle
+[compared]
+to it
+.” (Clapham (1945)).
+Although the streets were not filled with panicked depositors, there were signs of an incipient panic.  A flight-to-quality began with banks like Martin’s, rumoured to be associated with Barings, observing a rapid drop in deposits, while private deposits at the Bank of England jumped and its new loans (discounts) increased six-fold from November 7 to 14 (Chart 1).  Liquidity was drying up; and Lloyd’s Bank, seeking to increase its cash, was unable to sell £500,000 of consols (gilts).
+A French Lesson for the Old Lady of Threadneedle Street
+Meeting on Monday November 10, Goschen told Lidderdale that the government would not “interfere on behalf of an insolvent house.”  However, recognizing the Bank of England’s gold reserves had fallen to a dangerous low of £10.8 million, Goschen offered a Chancellor’s letter to protect the Bank, by suspending the gold requirement for banknotes.  Given the possible need for an £8-£9 million loan to Barings, this proposal did not provide the liquidity needed to fund a rescue; and Lidderdale refused, fearing that the announcement of a Chancellor’s letter would not calm the markets and a “dual” crisis with runs on the banks and the pound sterling would erupt.  He countered by requesting Goschen to ask Nathaniel Rothschild to contact his Paris cousin to obtain a loan to replenish the Bank’s reserves.  The Banque de France agreed to a “swap” of £3 million of gold for Treasury bills and Russia exchanged a further £1.5 million.  Now the Bank could deal with the Barings.
+The rescue package provided to Barings was modelled on the 1889 rescue of the Comptoir d’Escompte.  This commercial and investment bank had supported an effort to corner the copper market with loans and vast off-balance sheet guarantees of forward contracts.  When copper prices fell, the Comptoir’s president committed suicide, prompting a run.  The Banque de France provided loans of 140 million francs to meet withdrawals and, co-operating with the Minister of Finance, formed a bankers’ guarantee syndicate to absorb the first 40 million francs of losses.  Contributions were assigned according to banks’ ability to pay and their role in the crisis, measured by how closely they were tied by interlocking directorships to the Comptoir.  In addition, substantial fines and clawbacks were imposed on the directors and senior management.  The run on the Comptoir abated and spread no further.  A “good bank”, the Comptoir National d’Escompte, was recapitalized, while the Banque de France took over the liquidation of the toxic copper assets (
+Hautcoeur, Riva & White (2014)
+).
+The British press had chronicled this Parisian rescue in detail; and London bankers were well-informed.  But, given that policy was formulated quickly behind closed doors, histories have been silent on the importance of the French example.  The key connection is found in Alphonse De Rothschild letter of November 14 (Figure 2), where he compared the two crises and declared: “
+La situation à l’égard de la Baring est exactement la même que celle dans laquelle se trouvait le Comptoir d’Escompte
+” – roughly translated, “
+The situation with regards to Barings is exactly the same as the one in which the Comptoir d’Escompte found itself
+” (Rothschild Archives, London).  He then laid out the role that the House of Rothschild should play, pushing for the formation of a British guarantee syndicate, and specifying the Rothschild contribution.
+Figure 2 – letter of Alphonse de Rothschild, November 14, 1890
+Reproduced with the kind permission of the Trustees of the Rothschild Archive Trust Limited.
+The Barings’ Lifeboat
+The Barings rescue or “lifeboat” was announced on Saturday November 15, 1890.  The Bank of England provided an advance of £7.5 million to Barings to discharge their liabilities.  A four-year syndicate of banks would ratably share any loss from Barings’ liquidation.  The guarantee fund of £17.1 million included all institutions, and some of the largest shares were assigned to banks whose inattentive lending had permitted Barings to swell its portfolio.  The old firm was split into a recapitalized “good bank”, Baring Brothers & Co. Ltd., which took over the still profitable trade finance and a “bad bank” that retained its name and its toxic assets, managed by the Bank of England.
+The Barings’ partners agreed to this arrangement, delivering powers-of-attorney over their property, avoiding the danger of a fire sale.  But, as unlimited liability partners, they were still expected to cover any losses.  The partners’ investments, country homes, town houses and their contents were to be sold with the proceeds moved to the asset side of the bad bank’s balance sheet (Figure 3).  This assessment paralleled the liability imposed on the board of directors and senior management of the Comptoir.  These payments covered most losses; and neither the French or British syndicates were called upon.  Ultimately, the remains of the “bad” Barings bank was sold to a group of investors for £1.5 million, closing the liquidation.  The heavy assessments on the Barings appear to have dampened risk-taking, as no other major bank failed before World War I and in general banks became more conservative (
+Baker & Collins (1990)
+).
+Figure 3 – Auction Catalogue for the Membland Estate of Lord Revelstoke (E.C. Baring)
+In the 21
+st
+Century’s Rear View Mirror
+This new research reveals that the two most important central banks of the late nineteenth century did not exclusively adhere to Bagehot’s rule.  While the Bank of England and the Banque de France responded to panics by lending freely at high rates on good collateral, they also intervened to rescue deeply distressed SIFIs.  Central bank cooperation to obtain liquidity and coordination with the Treasury were then critical to ensure that toxic assets were liquidated in an orderly fashion to minimize losses.  Combined with penalties levied on the responsible principals, they were strikingly bold and successful rescues.  While one may object that recent crises erupted because of system-wide incentives to take risk (Too Big To Fail, deposit insurance and flawed governance), these two episodes should be thought of as identifying appropriate policies to manage individual troubled SIFIs if the system-wide incentives can be brought under control.
+Bibliography
+Bank of England Archive – file 9A240
+Clapham, J (1945),
+The Bank of England: A History Vol, II
+(New York: The Macmillan Company)
+Freixas, X & Parigi, B M (2014)  ‘Lender of Last Resort and Bank Closure Policy’  in Berger, A N, Molyneux P, & Wilson, J O S
+The Oxford Handbook of Banking
+(Oxford University Press, 2
+nd
+Edition), pp 475-504
+Kynaston, D (2012)
+City of London: The History
+(London: Vintage Books)
+Rothschild Archives, London – file XI/107/21
+Turner, J D (2014)
+Banking in Crisis: The Rise and Fall of British Banking Stability 1800 to the Present
+(Cambridge University Press)
+Eugene White is a Professor of Economics at Rutgers University and was a Houblon-Norman Fellow at the Bank of England in 2015.
+If you want to get in touch, please email us at
+bankunderground@bankofengland.co.uk
+. You are also welcome to leave a comment below.
+Comments
+are moderated and will not appear until they have been approved.
+Bank Underground is a blog for Bank of England staff to share views that challenge – or support – prevailing policy orthodoxies. The views expressed here are those of the authors, and are not necessarily those of the Bank of England, or its policy committees.
+Share the post "Rescuing a SIFI, Halting a Panic: the Barings Crisis of 1890"
+Twitter
+Facebook
+LinkedIn
+Reddit
+Tumblr
+Share…
+Email
+Bluesky
+Like this:
+Like
+Loading…

@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d0" for="node" attr.name="kind" attr.type="string"/>
+<graph edgedefault="directed"><node id="Africa">
+  <data key="d0">region</data>
+</node>
+<node id="London Joint Stock Bank">
+  <data key="d0">london_house</data>
+</node>
+<node id="Asia &amp; East">
+  <data key="d0">region</data>
+</node>
+<node id="Capital &amp; Counties Bank">
+  <data key="d0">london_house</data>
+</node>
+<node id="London &amp; South Western Bank">
+  <data key="d0">london_house</data>
+</node>
+<node id="Other houses">
+  <data key="d0">london_house</data>
+</node>
+<node id="France">
+  <data key="d0">region</data>
+</node>
+<node id="Barclay &amp; Co">
+  <data key="d0">london_house</data>
+</node>
+<node id="Glyn, Mills, Currie &amp; Co">
+  <data key="d0">london_house</data>
+</node>
+<node id="London County &amp; Westminster Bank">
+  <data key="d0">london_house</data>
+</node>
+<node id="Union of London &amp; Smiths Bank">
+  <data key="d0">london_house</data>
+</node>
+<node id="Germany &amp; C. Europe">
+  <data key="d0">region</data>
+</node>
+<node id="North America">
+  <data key="d0">region</data>
+</node>
+<node id="Other / unidentified">
+  <data key="d0">region</data>
+</node>
+<node id="James Burness &amp; Sons">
+  <data key="d0">london_house</data>
+</node>
+<node id="Ottoman &amp; Near East">
+  <data key="d0">region</data>
+</node>
+<node id="Russia">
+  <data key="d0">region</data>
+</node>
+<node id="South America">
+  <data key="d0">region</data>
+</node>
+<node id="UK domestic / provincial">
+  <data key="d0">region</data>
+</node>
+<node id="Bank of England">
+  <data key="d0">apex</data>
+</node>
+<edge source="Africa" target="London Joint Stock Bank">
+  <data key="d1">45755.799999999996</data>
+</edge>
+<edge source="London Joint Stock Bank" target="Bank of England">
+  <data key="d1">260201.19999999998</data>
+</edge>
+<edge source="Asia &amp; East" target="Capital &amp; Counties Bank">
+  <data key="d1">128873.2</data>
+</edge>
+<edge source="Asia &amp; East" target="London &amp; South Western Bank">
+  <data key="d1">18655.149999999998</data>
+</edge>
+<edge source="Asia &amp; East" target="Other houses">
+  <data key="d1">13592.599999999999</data>
+</edge>
+<edge source="Capital &amp; Counties Bank" target="Bank of England">
+  <data key="d1">381712.85</data>
+</edge>
+<edge source="London &amp; South Western Bank" target="Bank of England">
+  <data key="d1">83104.09999999999</data>
+</edge>
+<edge source="Other houses" target="Bank of England">
+  <data key="d1">357233.24999999994</data>
+</edge>
+<edge source="France" target="Barclay &amp; Co">
+  <data key="d1">9910.4</data>
+</edge>
+<edge source="France" target="Glyn, Mills, Currie &amp; Co">
+  <data key="d1">5531793.0</data>
+</edge>
+<edge source="France" target="London &amp; South Western Bank">
+  <data key="d1">2040.6</data>
+</edge>
+<edge source="France" target="London County &amp; Westminster Bank">
+  <data key="d1">1082.05</data>
+</edge>
+<edge source="France" target="Other houses">
+  <data key="d1">37316.0</data>
+</edge>
+<edge source="France" target="Union of London &amp; Smiths Bank">
+  <data key="d1">101730.75</data>
+</edge>
+<edge source="Barclay &amp; Co" target="Bank of England">
+  <data key="d1">115854.4</data>
+</edge>
+<edge source="Glyn, Mills, Currie &amp; Co" target="Bank of England">
+  <data key="d1">6343603.15</data>
+</edge>
+<edge source="London County &amp; Westminster Bank" target="Bank of England">
+  <data key="d1">312871.1</data>
+</edge>
+<edge source="Union of London &amp; Smiths Bank" target="Bank of England">
+  <data key="d1">1056502.6</data>
+</edge>
+<edge source="Germany &amp; C. Europe" target="Barclay &amp; Co">
+  <data key="d1">33383.95</data>
+</edge>
+<edge source="Germany &amp; C. Europe" target="Capital &amp; Counties Bank">
+  <data key="d1">224135.4</data>
+</edge>
+<edge source="Germany &amp; C. Europe" target="London &amp; South Western Bank">
+  <data key="d1">39863.899999999994</data>
+</edge>
+<edge source="Germany &amp; C. Europe" target="London County &amp; Westminster Bank">
+  <data key="d1">39940.84999999999</data>
+</edge>
+<edge source="Germany &amp; C. Europe" target="Other houses">
+  <data key="d1">25530.299999999996</data>
+</edge>
+<edge source="North America" target="London County &amp; Westminster Bank">
+  <data key="d1">690.65</data>
+</edge>
+<edge source="North America" target="Other houses">
+  <data key="d1">4356.7</data>
+</edge>
+<edge source="Other / unidentified" target="Barclay &amp; Co">
+  <data key="d1">44556.899999999994</data>
+</edge>
+<edge source="Other / unidentified" target="Capital &amp; Counties Bank">
+  <data key="d1">28704.25</data>
+</edge>
+<edge source="Other / unidentified" target="Glyn, Mills, Currie &amp; Co">
+  <data key="d1">10450.0</data>
+</edge>
+<edge source="Other / unidentified" target="James Burness &amp; Sons">
+  <data key="d1">265727.35</data>
+</edge>
+<edge source="Other / unidentified" target="London &amp; South Western Bank">
+  <data key="d1">22544.449999999997</data>
+</edge>
+<edge source="Other / unidentified" target="London County &amp; Westminster Bank">
+  <data key="d1">88390.84999999999</data>
+</edge>
+<edge source="Other / unidentified" target="London Joint Stock Bank">
+  <data key="d1">10279.0</data>
+</edge>
+<edge source="Other / unidentified" target="Other houses">
+  <data key="d1">167017.59999999998</data>
+</edge>
+<edge source="Other / unidentified" target="Union of London &amp; Smiths Bank">
+  <data key="d1">3121.7</data>
+</edge>
+<edge source="James Burness &amp; Sons" target="Bank of England">
+  <data key="d1">265727.35</data>
+</edge>
+<edge source="Ottoman &amp; Near East" target="Glyn, Mills, Currie &amp; Co">
+  <data key="d1">143966.8</data>
+</edge>
+<edge source="Ottoman &amp; Near East" target="London Joint Stock Bank">
+  <data key="d1">12250.25</data>
+</edge>
+<edge source="Ottoman &amp; Near East" target="Other houses">
+  <data key="d1">8235.55</data>
+</edge>
+<edge source="Ottoman &amp; Near East" target="Union of London &amp; Smiths Bank">
+  <data key="d1">1889.55</data>
+</edge>
+<edge source="Russia" target="Glyn, Mills, Currie &amp; Co">
+  <data key="d1">472861.55</data>
+</edge>
+<edge source="Russia" target="Other houses">
+  <data key="d1">54158.549999999996</data>
+</edge>
+<edge source="South America" target="Glyn, Mills, Currie &amp; Co">
+  <data key="d1">174816.15</data>
+</edge>
+<edge source="South America" target="London County &amp; Westminster Bank">
+  <data key="d1">44507.5</data>
+</edge>
+<edge source="South America" target="Other houses">
+  <data key="d1">10162.15</data>
+</edge>
+<edge source="UK domestic / provincial" target="Barclay &amp; Co">
+  <data key="d1">28003.149999999998</data>
+</edge>
+<edge source="UK domestic / provincial" target="Glyn, Mills, Currie &amp; Co">
+  <data key="d1">9715.65</data>
+</edge>
+<edge source="UK domestic / provincial" target="London County &amp; Westminster Bank">
+  <data key="d1">138259.19999999998</data>
+</edge>
+<edge source="UK domestic / provincial" target="London Joint Stock Bank">
+  <data key="d1">191916.15</data>
+</edge>
+<edge source="UK domestic / provincial" target="Other houses">
+  <data key="d1">36863.799999999996</data>
+</edge>
+<edge source="UK domestic / provincial" target="Union of London &amp; Smiths Bank">
+  <data key="d1">949760.6</data>
+</edge>
+</graph></graphml>

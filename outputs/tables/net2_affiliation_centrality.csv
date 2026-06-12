@@ -1,0 +1,92 @@
+house,origin_group,value,degree,weighted_degree,eigenvector,closeness,betweenness,community
+Union Discount Co. of London,British: discount house,10352861.34,44,17.95,0.2398,0.5042,0.0531,1
+King & Foa,Émigré: Greek & Levantine,3875752.79,40,16.656,0.2382,0.495,0.0647,0
+Parr's Bank,British: clearing / joint-stock bank,835460.3999999999,37,16.225000000000005,0.2393,0.4806,0.0094,0
+Union of London & Smiths Bank,British: clearing / joint-stock bank,4711019.6,35,15.252000000000004,0.2266,0.4723,0.0181,0
+"Daniell, Cazenove & Co",British: private / merchant (native),780754.33,36,15.153000000000002,0.2284,0.4696,0.0032,0
+Alexanders & Co (discount),British: discount house,10496784.375,37,14.856000000000002,0.2137,0.5336,0.1811,0
+London County & Westminster Bank,British: clearing / joint-stock bank,10371128.9,32,14.174999999999999,0.2161,0.4669,0.0175,0
+"Reeves, Whitburn & Co",British: private / merchant (native),6174018.93,35,14.095,0.1998,0.475,0.0195,1
+"Glyn, Mills, Currie & Co",British: private / merchant (native),11215141.07,34,13.724,0.2071,0.4696,0.0096,0
+"Smith, St Aubyn & Co",British: discount house,4894544.49,35,13.381,0.1875,0.4806,0.0432,1
+National Provincial Bank,British: clearing / joint-stock bank,3309195.8,33,13.349,0.2045,0.4643,0.0164,0
+B. W. Blydenstein & Co,Émigré: German & Central European,7082331.32,34,13.257000000000001,0.1932,0.475,0.021,1
+Brightwen & Co,British: private / merchant (native),5952465.72,33,12.876,0.1936,0.4723,0.0171,1
+"Baker, Duncombe & Co",British: private / merchant (native),3677587.4,27,10.487999999999998,0.1469,0.4491,0.0198,1
+London Joint Stock Bank,British: clearing / joint-stock bank,2215691.65,27,10.357,0.1599,0.4466,0.0142,0
+National Bank of India,Colonial / Imperial bank,2885403.4025,28,9.916999999999998,0.1472,0.4491,0.0312,1
+Lloyds Bank,British: clearing / joint-stock bank,4051027.05,23,9.783000000000001,0.1666,0.4325,0.001,0
+Gillett Brothers,British: discount house,940985.02,25,9.245000000000001,0.1118,0.4515,0.0234,1
+London & South Western Bank,British: clearing / joint-stock bank,1073072.5,23,9.027999999999999,0.1435,0.4303,0.0041,0
+A. Ruffer & Sons,Émigré: German & Central European,470857.44749999995,23,9.019,0.1511,0.4348,0.0034,0
+Banque Belge,Foreign bank (1914 wartime),1069739.9,25,8.944999999999999,0.1257,0.4068,0.0233,1
+Royal Bank of Scotland,British: clearing / joint-stock bank,830775.95,23,8.801,0.1346,0.4371,0.0255,0
+Mercantile Bank of India,Colonial / Imperial bank,819240.29,23,8.768999999999998,0.1161,0.3989,0.0067,0
+Comptoir National d'Escompte de Paris,Foreign bank (1914 wartime),1901110.55,22,8.366,0.1354,0.4371,0.0081,0
+"Allen, Harvey & Ross",British: discount house,3087057.8,21,7.913,0.1421,0.4348,0.0044,0
+Capital & Counties Bank,British: clearing / joint-stock bank,710577.2,19,7.361999999999999,0.1306,0.4236,0.0022,0
+Anglo South American Bank,Colonial / Imperial bank,2166880.925,20,7.221999999999999,0.1075,0.4303,0.015,1
+London & Brazilian Bank,Colonial / Imperial bank,2027684.8499999999,18,7.067000000000001,0.1044,0.3858,0.0022,0
+London & River Plate Bank,Colonial / Imperial bank,2905118.75,17,6.691000000000002,0.109,0.413,0.001,0
+C. J. Hambro & Son,Émigré: German & Central European,1470433.435,19,6.685000000000001,0.106,0.4325,0.0322,1
+Eastern Bank,Colonial / Imperial bank,699639.39,16,6.115000000000001,0.0884,0.384,0.0,1
+National Bank of Scotland,British: clearing / joint-stock bank,370236.85,17,6.108,0.0953,0.413,0.0084,0
+Ryder & Co,British: discount house,1458923.00875,16,6.015000000000001,0.0909,0.3858,0.0037,1
+Hongkong & Shanghai Banking Corp.,Colonial / Imperial bank,1617882.8725,15,5.874000000000001,0.085,0.377,0.0227,1
+Barclay & Co,British: clearing / joint-stock bank,721060.35,14,5.345999999999999,0.0986,0.4088,0.0,0
+Imperial Ottoman Bank,Foreign bank (1914 wartime),2372876.95,14,5.158999999999999,0.0517,0.377,0.0091,1
+National Discount Co.,British: discount house,8753672.325,13,4.718,0.0841,0.413,0.007,1
+Cunliffe Brothers,British: private / merchant (native),3531132.905,13,4.406,0.054,0.4515,0.1551,1
+Standard Bank of South Africa,Colonial / Imperial bank,619090.2999999999,12,4.401000000000001,0.0787,0.3989,0.0022,0
+British Bank of South America,Colonial / Imperial bank,952994.2,13,4.334,0.0768,0.4009,0.0022,0
+Bank of Montreal,Colonial / Imperial bank,317946.95,12,4.208,0.0703,0.3951,0.0077,0
+White & Shaxson,British: discount house,782893.47,12,4.033,0.0651,0.3787,0.0335,3
+London Hanseatic Bank,Foreign bank (1914 wartime),274311.39,11,3.785,0.0538,0.4109,0.0097,1
+"Bruce, Wilkinson & Co",British: discount house,2239566.925,10,3.7109999999999994,0.0083,0.413,0.2579,2
+International Banking Corporation,Émigré: American,708043.2999999999,11,3.564,0.0548,0.3735,0.0062,1
+Stern Brothers,Émigré: German & Central European,138699.05,8,3.507,0.0403,0.3512,0.0,0
+Union Bank of Scotland,British: clearing / joint-stock bank,881277.95,8,2.893,0.0352,0.3557,0.0037,0
+Credito Italiano,Foreign bank (1914 wartime),862855.5499999999,8,2.684,0.0314,0.3636,0.021,1
+Frühling & Goschen,Émigré: German & Central European,429791.31,8,2.6510000000000002,0.0373,0.397,0.026,1
+"Kleinwort, Sons & Co",Émigré: German & Central European,828866.85,7,2.561,0.0522,0.3858,0.0,0
+"R. Heine, Semon & Co",Émigré: German & Central European,186549.8,7,2.551,0.0004,0.3055,0.0142,2
+Lütgens & Ripley,Émigré: German & Central European,290912.8,7,2.3960000000000004,0.0411,0.3805,0.0,0
+Manchester & Liverpool District Bank,British: clearing / joint-stock bank,358625.0,6,2.3720000000000003,0.0246,0.3467,0.0035,0
+M. Levin & Adler,Émigré: German & Central European,58339.159999999996,6,2.2239999999999998,0.0004,0.3055,0.005,2
+"Overend, Gurney & Co",British: discount house,4871776.9,6,2.174,0.002,0.3438,0.0432,2
+Yokohama Specie Bank,Foreign bank (1914 wartime),1008933.25,5,1.95,0.0114,0.3354,0.0,1
+Ralli Brothers,Émigré: Greek & Levantine,417757.55,6,1.921,0.0003,0.3066,0.1164,2
+Canadian Bank of Commerce,Colonial / Imperial bank,603157.095,5,1.8379999999999999,0.0179,0.3438,0.0012,3
+Banca Commerciale Italiana,Foreign bank (1914 wartime),443935.0,5,1.809,0.0301,0.3497,0.0,1
+Haarbleicher & Schumann,Émigré: German & Central European,2608964.62,5,1.7980000000000003,0.0268,0.3557,0.0,1
+B. Simon & A. Jacoby,Émigré: German & Central European,101706.32,5,1.785,0.0001,0.2396,0.002,2
+Union Bank of Australia,Colonial / Imperial bank,284327.39999999997,5,1.7650000000000001,0.014,0.341,0.0015,1
+"Bordier, Fabris & Co",Émigré: German & Central European,52379.405,5,1.709,0.0004,0.301,0.0077,2
+"Chartered Bank of India, Australia & China",Colonial / Imperial bank,2175719.51,5,1.652,0.0196,0.3382,0.0002,1
+Samuel Montagu & Co,Émigré: German & Central European,1652516.7175,5,1.625,0.0259,0.3497,0.0,1
+"Sanderson, Sandeman & Co",British: discount house,1781120.29,4,1.59,0.0004,0.2967,0.0217,2
+"Robarts, Lubbock & Co",British: private / merchant (native),196156.94999999998,5,1.5639999999999998,0.0211,0.3497,0.0021,1
+Kraeutler & Mieville,Émigré: German & Central European,259095.74000000002,4,1.5190000000000001,0.0003,0.2967,0.0187,2
+Baring Brothers & Co,British: private / merchant (native),983269.1499999999,4,1.335,0.0145,0.3604,0.0015,1
+König Brothers,Émigré: German & Central European,233761.9,3,1.173,0.0035,0.2988,0.0005,1
+George Peabody & Co,Émigré: American,494353.93,3,1.137,0.0,0.2355,0.0,2
+Swiss Bankverein,Foreign bank (1914 wartime),346781.35,3,1.1199999999999999,0.0051,0.3066,0.0012,3
+Frederick Huth & Co,Émigré: German & Central European,1530682.7662499999,3,1.02,0.0226,0.3542,0.0,0
+Suse & Sibeth,Émigré: German & Central European,279279.08,3,0.968,0.0003,0.2977,0.0,2
+N. M. Rothschild & Sons,Émigré: German & Central European,1237482.3499999999,3,0.968,0.0089,0.3223,0.0004,0
+Bieber & Co,Émigré: German & Central European,201633.27000000002,3,0.929,0.0,0.241,0.0629,2
+Deutsche Bank (London),Foreign bank (1914 wartime),1321208.7,2,0.876,0.0065,0.3032,0.0,0
+J. Henry Schröder & Co,Émigré: German & Central European,1323156.99,2,0.6739999999999999,0.0014,0.2694,0.0,1
+Bischoffsheim & Goldschmidt,Émigré: German & Central European,169437.43,2,0.667,0.0001,0.2576,0.0005,2
+Agra & Masterman's Bank,Colonial / Imperial bank,750000.0,2,0.625,0.0,0.1627,0.0212,2
+Cama & Co,Émigré: Indian / Parsi,356055.025,2,0.623,0.0,0.2335,0.0,2
+Leonino & Co,Émigré: Greek & Levantine,188957.86000000002,2,0.623,0.0,0.1947,0.0419,2
+J. L. Lemme & Co,Émigré: German & Central European,136584.675,1,0.378,0.0,0.227,0.0,2
+J. C. Im Thurn & Co,Émigré: German & Central European,146127.56,1,0.348,0.0,0.0111,0.0,5
+Wallace Brothers & Co,British: private / merchant (native),483372.4325,1,0.348,0.0,0.0111,0.0,5
+"Frith, Sands & Co",British: discount house,1717569.92,1,0.337,0.0,0.2328,0.0,2
+"Brown, Shipley & Co",Émigré: American,205353.89999999997,1,0.335,0.0021,0.2721,0.0,3
+Guaranty Trust Co of New York,Émigré: American,653935.35,1,0.335,0.0028,0.2712,0.0,1
+Dadabhai Naoroji & Co,Émigré: Indian / Parsi,90862.47,1,0.323,0.0,0.0111,0.0,4
+Framjee & Co,Émigré: Indian / Parsi,108968.97,1,0.323,0.0,0.0111,0.0,4
+"Smith, Fleming & Co",British: private / merchant (native),1130267.06,1,0.309,0.0,0.1393,0.0,2

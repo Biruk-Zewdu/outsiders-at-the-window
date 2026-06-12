@@ -1,0 +1,21 @@
+rank,canonical_house,origin_short,value,emigre
+1,"Frith, Sands & Co",Br discount,1323754.3599999999,False
+2,"Smith, Fleming & Co",Br private,1130267.06,False
+3,National Discount Co.,Br discount,1115863.7,False
+4,London County & Westminster Bank,Br clearing,1099203.0,False
+5,Cunliffe Brothers,Br private,1018266.2000000001,False
+6,Agra & Masterman's Bank,Colonial,750000.0,False
+7,Oriental Bank Corporation,Colonial,596754.0,False
+8,Barclay & Co,Br clearing,595188.2,False
+9,"Overend, Gurney & Co",Br discount,550000.0,False
+10,Alliance Bank,Br clearing,520000.0,False
+11,R. Raphael & Sons,Greek/Lev,509642.36,True
+12,Haarbleicher & Schumann,German/C.Eur,328000.7,True
+13,Bank of New South Wales,Colonial,316000.0,False
+14,London & Brazilian Bank,Colonial,282000.0,False
+15,Bank of Hindustan,Colonial,279238.66000000003,False
+16,Samuel Montagu & Co,German/C.Eur,276452.94,True
+17,"Kleinwort, Sons & Co",German/C.Eur,238208.40000000002,True
+18,Brightwen & Co,Br private,232254.0,False
+19,S. Oppenheim & Sons,German/C.Eur,220475.7,True
+20,Frederick Huth & Co,German/C.Eur,203778.0,True
