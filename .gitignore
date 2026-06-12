@@ -21,3 +21,5 @@ __pycache__/
 # Gephi / scratch exports
 *.gephi
 ~$*
+
+ref/    

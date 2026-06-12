@@ -641,6 +641,9 @@ footer .colophon{font-family:var(--mono);font-size:10.5px;color:var(--grey);line
       show is a fast political exclusion that came after decades of economic inclusion. Their foreignness was
       not a fact about their banking. It was a label, applied suddenly by a wartime state and an anxious
       public, and unevenly: falling on enemies, sparing neutrals.</p>
+    <p>This is also where the project is digital history and not only history. The claim does not rest on a few
+      well chosen quotations but on patterns across about nine thousand transactions and thousands of lines of
+      debate, and those patterns only become visible once the sources are turned into data and counted.</p>
   </div>
 </div></section>
 
@@ -652,35 +655,49 @@ footer .colophon{font-family:var(--mono);font-size:10.5px;color:var(--grey);line
 
 <section id="ai" style="padding-top:0"><div class="wrap">
   <div class="chap"><span class="no">APPENDIX B</span><h2>Use of AI</h2></div>
-  <p class="col lead">In the interest of honesty, AI tools were used at a few points in this project.</p>
+  <p class="col lead">I used two AI assistants here, OpenAI's ChatGPT and Anthropic's Claude, including Claude
+    Code, a command line version of Claude that can read project files and run code. Below is where each one
+    helped, so a reader can see where my own work ends and the tools begin.</p>
   <div class="entries" style="margin-top:34px">
     <div class="entry">
       <div class="lab">1<b>thinking</b></div>
       <div><h4>As a thought partner</h4>
-        <p>Pitching ideas and plans, and getting a better understanding of feasibility, where open data
-        archives might be, and so on.</p></div>
+        <p>I described my plan in plain language and asked the models to point out weak spots and suggest where
+        open data archives might be. I treated what they said as suggestions to check, not as decisions.</p></div>
     </div>
     <div class="entry">
       <div class="lab">2<b>finding</b></div>
       <div><h4>Dataset search</h4>
-        <p>In addition to manual searching of open archives, ChatGPT helped automate the hunt for datasets.</p></div>
+        <p>Alongside my own searching, I gave ChatGPT a description of the record I needed, firm level crisis
+        lending from the nineteenth century, and asked for candidate datasets. It pointed me to the Bank of
+        England working paper and dataset, which I then downloaded and read myself.</p></div>
     </div>
     <div class="entry">
       <div class="lab">3<b>processing</b></div>
       <div><h4>Data processing</h4>
-        <p>AI helped with cleaning and structuring the ledger data, like matching the many spellings of each house
-        into single firms and organising the origin register.</p></div>
+        <p>I gave Claude the column layout of the ledger and described the spelling problem, and it helped me
+        write the rules that join name variants into single houses. I checked the joins by hand against the raw
+        names.</p></div>
     </div>
     <div class="entry">
       <div class="lab">4<b>building</b></div>
       <div><h4>Code debugging and generation</h4>
-        <p>The code used for the data analysis and this website was written in collaboration with AI,
-        specifically Claude.</p></div>
+        <p>The Python for the analysis and the code for this website were written with Claude and Claude Code,
+        usually by pasting an error and the code that produced it, or describing a chart and editing the first
+        version it returned.</p></div>
     </div>
     <div class="entry">
       <div class="lab">5<b>polish</b></div>
-      <div><h4>Grammar checking and final polish</h4>
-        <p>After the writing was drafted by hand, AI fixed grammar mistakes and imprecise wordings.</p></div>
+      <div><h4>Grammar and final polish</h4>
+        <p>After I drafted the writing myself, I asked the models to fix grammar and flag wording that was
+        unclear or overdone. I made the final wording choices.</p></div>
+    </div>
+    <div class="entry">
+      <div class="lab">6<b>the limit</b></div>
+      <div><h4>A line I did not cross</h4>
+        <p>I did not let the tools supply facts or citations. Every number comes from my own code run on the
+        datasets, every date and quotation is traced to a named source, and the key wartime claims are checked
+        against the London Gazette by hand.</p></div>
     </div>
   </div>
 </div></section>
@@ -1010,20 +1027,24 @@ renderFate();
 /* glossary */
 const GLOSSARY=[
  ["Accepting house / merchant bank","A private banking firm whose main business was to put its name on bills of exchange, promising to pay them, which made the bills safe to trade."],
- ["Alien / enemy alien","A person living in Britain who was a citizen of another country. During the war, a citizen of an enemy country, such as Germany, was an enemy alien and faced special restrictions."],
+ ["Alien / enemy alien","A person living in Britain who was a citizen of another country. During the war, a citizen of an enemy country, such as Germany, became an enemy alien and faced special restrictions on travel, property, and business under the Trading with the Enemy Acts."],
  ["Bill of exchange","A written promise to pay a sum of money on a future date, widely used to finance trade in the nineteenth century."],
  ["Clearing bank / joint stock bank","A large ordinary bank owned by shareholders, such as Lloyds or Barclays, as opposed to a private merchant house."],
+ ["Colonial / imperial bank","A British owned bank that financed trade across the empire, such as the Chartered Bank of India or the Hongkong and Shanghai Banking Corporation. Here it is one of the origin groups borrowers are sorted into, separate from the émigré houses."],
+ ["Cosmopolitan City","The idea that London before 1914, as the centre of world trade and the gold standard, was unusually open to foreign banking families, who came from across Europe and the empire and worked at the heart of British finance."],
  ["Discount house / bill broker","A British firm that specialised in buying and selling bills of exchange in the money market. Overend, Gurney & Co. was the most famous, and its collapse caused the 1866 crisis."],
  ["Discounting / the discount window","Selling a bill to the Bank of England before its due date for slightly less than its face value, to get cash at once. The \"window\" is just the place firms came to do this."],
- ["Émigré house","This project's term for a banking firm founded by a family that came to Britain from abroad — from Germany, Greece, India, the United States."],
+ ["Émigré house","This project's term for a banking firm founded by a family that came to Britain from abroad, from Germany, Greece, India, or the United States."],
  ["Entity resolution","Deciding when two slightly different names (\"J H Schroder\", \"J.H.Schroder\") refer to the same firm, so they can be joined."],
  ["Lender of last resort","The institution, in Britain the Bank of England, that lends freely in a panic so sound firms do not fail merely for lack of cash. The classic statement is Bagehot's Lombard Street (1873)."],
  ["Naturalise","To become a British subject by application. Bruno Schröder did this in the first days of the war to save his firm."],
  ["Network analysis","Studying relationships by drawing them as points joined by lines, then measuring the shape that results."],
+ ["Parsi","A member of the Zoroastrian community of western India, descended from Persian migrants, prominent in the trade of Bombay. Merchant families like the Camas reached from there into the City of London."],
  ["Prosopography","The study of a group of people through the collected life facts of its members. The origin register is a prosopography of the borrowing houses."],
  ["Public Trustee","A government official who took over and sold the property of enemy firms during the war."],
  ["Sequestration","The seizure of property by the state, here of enemy owned banks."],
- ["Text mining","Searching and counting words across a body of text to find patterns, used here on the parliamentary debates."]
+ ["Text mining","Searching and counting words across a body of text to find patterns, used here on the parliamentary debates."],
+ ["Trading with the Enemy Acts","The wartime laws, from 1914 and amended through the war, that made it a crime to do business with enemy nationals and gave the state power to seize, run, and sell enemy owned firms. The orders winding up the German banks in London were issued under them."]
 ];
 function renderGloss(q){
  const grid=document.getElementById("glossGrid");
