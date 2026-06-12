@@ -262,9 +262,9 @@ footer .colophon{font-family:var(--mono);font-size:10.5px;color:var(--grey);line
   <div class="mast-rule"></div>
   <div class="overline">A data history of the cosmopolitan City · <b>1857 — 1914</b> · HSS207/DHS211</div>
   <h1>The Bank's ledgers called them customers.<br>Parliament called them <em>aliens.</em></h1>
-  <p class="standfirst">The foreign banking families of the City of London — Schröder, Huth, Kleinwort,
-    Ralli — are remembered as outsiders slowly let in. Three crisis ledgers of the Bank of England say
-    otherwise: they were already inside, until the First World War redrew the line around them.</p>
+  <p class="standfirst">The foreign banking families of the City of London, houses like Schröder, Huth,
+    Kleinwort and Ralli, are remembered as outsiders slowly let in. Three crisis ledgers of the Bank of
+    England say otherwise: they were already inside, until the First World War redrew the line around them.</p>
   <div class="byline">Biruk Kassa · Student 20220775 · Introduction to Digital History · June 2026
     &nbsp;—&nbsp; <a href="paper.pdf" target="_blank">read the paper (pdf) ↗</a></div>
   <div class="specimen">
@@ -286,13 +286,13 @@ footer .colophon{font-family:var(--mono);font-size:10.5px;color:var(--grey);line
   <div class="gazette">
     <div class="head"><span>The London Gazette · naturalisation</span><span>No. 28892 · p. 7033</span></div>
     <div class="body"><span class="name">Schroder, Rudolf Bruno;</span> Germany; Banker; 35 Park Street, London.
-      Oath of allegiance — 7 August 1914, three days after the declaration of war.</div>
+      Oath of allegiance sworn 7 August 1914, three days after the declaration of war.</div>
     <div class="stamp">verified against the primary record · the firm survived (Roberts 1992)</div>
   </div>
   <div class="col">
     <p>It is a strange story when you think about it: a man could run a central London bank for decades and
       still become a suspect overnight. That is the puzzle this project starts from. Were the City's foreign
-      origin banking houses — the émigré houses — actually outsiders?</p>
+      origin banking houses, the émigré houses, actually outsiders?</p>
     <p>The answer comes from setting two records side by side. The Bank of England's crisis ledgers, read with
       simple data and network methods, show integration. The wartime debates in Parliament, read with text
       mining, show exclusion. The "outsider" status of these houses was never an economic fact. It was
@@ -312,8 +312,8 @@ footer .colophon{font-family:var(--mono);font-size:10.5px;color:var(--grey);line
 
 <section id="sources"><div class="wrap">
   <div class="chap"><span class="no">I</span><h2>The sources</h2></div>
-  <p class="col lead">Two datasets stand behind the paper — one that already existed, one built by hand for
-    this project — and to read the results properly you need to tell them apart.</p>
+  <p class="col lead">Two datasets stand behind the paper, one that already existed and one built by hand for
+    this project, and to read the results properly you need to tell them apart.</p>
   <div class="entries" style="margin-top:38px">
     <div class="entry">
       <div class="lab">borrowed<b>primary source</b></div>
@@ -323,16 +323,16 @@ footer .colophon{font-family:var(--mono);font-size:10.5px;color:var(--grey);line
         typed them into a clean dataset anyone can
         <a href="https://www.bankofengland.co.uk/working-paper/2017/the-boe-as-lender-of-last-resort-new-historical-evidence-from-daily-transactional-data" target="_blank" rel="noopener">download for free</a>.
         Each of its ≈9,000 rows is one loan or discount: the firm's name, the date, the amount, the rate, how
-        much of the bill was accepted and how much rejected — and, for 1914, whose account the bill really
+        much of the bill was accepted and how much rejected, and, for 1914, whose account the bill really
         served. These few columns are the raw material for every number on this page.</p></div>
     </div>
     <div class="entry">
       <div class="lab">hand built<b>this project</b></div>
       <div><h4>The origin register</h4>
         <p>The ledgers give names, amounts and rates, but nothing about where a firm came from. That part was
-        added by hand: a biographical database with one row per house — its likely origin (German, Greek,
+        added by hand: a biographical database with one row per house, holding its likely origin (German, Greek,
         Parsi, American, native British…), its founder and founding year where they could be found, and its
-        fate in the First World War — drawn from the standard histories of the City (Cassis 1994; Chapman 1984;
+        fate in the First World War, all drawn from the standard histories of the City (Cassis 1994; Chapman 1984;
         Kynaston 1995; Jones 1993). Every row carries a confidence label, so a reader can see which entries are
         solid and which are a best guess from thin evidence.</p></div>
     </div>
@@ -340,25 +340,25 @@ footer .colophon{font-family:var(--mono);font-size:10.5px;color:var(--grey);line
       <div class="lab">verification<b>primary source</b></div>
       <div><h4>The London Gazette check</h4>
         <p>Because the register began as a reading of secondary books, its key claims were checked against the
-        official record of the British state — the <a href="https://www.thegazette.co.uk" target="_blank" rel="noopener">London
+        official record of the British state, the <a href="https://www.thegazette.co.uk" target="_blank" rel="noopener">London
         Gazette</a>, which prints naturalisations, liquidations, and the wartime orders that seized enemy
-        property. Schröder's naturalisation appears there with its exact date; so do the orders winding up the
+        property. Schröder's naturalisation appears there with its exact date, and so do the orders winding up the
         German bank branches. For the neutral houses, Danish Hambro and Dutch Blydenstein, no such order
-        exists — which is the right test that they were spared.</p></div>
+        exists, which is the right test that they were spared.</p></div>
     </div>
     <div class="entry">
       <div class="lab">borrowed<b>primary source</b></div>
       <div><h4>The Hansard debates, 1914–18</h4>
         <p>Eight debates of the Commons and the Lords on enemy aliens and German banks in London, from the
         official <a href="https://hansard.parliament.uk" target="_blank" rel="noopener">Hansard</a> record. These are the
-        words politicians used about foreign banks during the war — they let the project compare what the Bank
+        words politicians used about foreign banks during the war, and they let the project compare what the Bank
         actually did with what politicians were saying.</p></div>
     </div>
     <div class="entry">
       <div class="lab">cleaning<b>entity resolution</b></div>
       <div><h4>Linking names across crises</h4>
-        <p>The same house appears under different spellings — "J H Schroder", "J.H.Schroder", even
-        "S.N.Schroder"; Frühling &amp; Goschen once appears as <i>Truhling</i> &amp; Goschen, where the scanner
+        <p>The same house appears under different spellings, such as "J H Schroder", "J.H.Schroder", even
+        "S.N.Schroder." Frühling &amp; Goschen once appears as <i>Truhling</i> &amp; Goschen, where the scanner
         read an F as a T. Hand written matching rules join these variants into single houses, so a firm can be
         followed from 1857 to 1914.</p></div>
     </div>
@@ -381,14 +381,14 @@ footer .colophon{font-family:var(--mono);font-size:10.5px;color:var(--grey);line
     <div class="flaw"><span class="gn">03</span><h4>The register is interpretation</h4>
       <p>The origin register was assembled from secondary histories, so its softer rows are interpretations
       rather than facts. Low confidence rows are starting points that need more checking, and the origin
-      buckets — German, Greek, Parsi — are coarse, hiding real differences inside each group.</p></div>
+      buckets (German, Greek, Parsi) are coarse, hiding real differences inside each group.</p></div>
     <div class="flaw"><span class="gn">04</span><h4>Small numbers, rough estimates</h4>
       <p>Most houses appear a handful of times, so this is a study of patterns and named cases, not large
-      statistical tests; the one regression is a rough check. And the debates mix general alien talk with the
+      statistical tests, and the one regression is a rough check. The debates also mix general alien talk with the
       banks, so the word counts capture a mood, not a precise measurement.</p></div>
   </div>
   <p class="col" style="margin-top:30px">None of this sinks the argument, which rests on several independent
-    signals that agree — but every number below should be read as a reasonable estimate, not an exact figure.
+    signals that agree, but every number below should be read as a reasonable estimate, not an exact figure.
     Each one can be regenerated from the scripts and CSVs in the project repository.</p>
 </div></section>
 
@@ -399,7 +399,7 @@ footer .colophon{font-family:var(--mono);font-size:10.5px;color:var(--grey);line
       <div class="lab">w12<b>database</b></div>
       <div><h4>Descriptive statistics over a hand built database</h4>
         <p>Shares of lending, average rates, counts of who appears in which crisis. The ledgers are lists of
-        amounts and rates; shares and averages are the plain way to summarise lists.</p></div>
+        amounts and rates, and shares and averages are the plain way to summarise lists.</p></div>
     </div>
     <div class="entry">
       <div class="lab">w4<b>networks</b></div>
@@ -411,8 +411,8 @@ footer .colophon{font-family:var(--mono);font-size:10.5px;color:var(--grey);line
     <div class="entry">
       <div class="lab">w3<b>text</b></div>
       <div><h4>Text mining the wartime debates</h4>
-        <p>Counting words across eight Hansard debates. The reversal happened mostly in language — in words
-        like <i>alien</i> and <i>enemy</i> repeated across many speeches — and counting is how you show a
+        <p>Counting words across eight Hansard debates. The reversal happened mostly in language, in words
+        like <i>alien</i> and <i>enemy</i> repeated across many speeches, and counting is how you show a
         pattern no single quotation could prove.</p></div>
     </div>
     <div class="entry">
@@ -427,7 +427,7 @@ footer .colophon{font-family:var(--mono);font-size:10.5px;color:var(--grey);line
 <section id="evidence"><div class="wrap">
   <div class="chap"><span class="no">IV</span><h2>The evidence: insiders, not outsiders</h2></div>
   <div class="col">
-    <p class="lead">If the émigré houses were really outsiders, the records should show it — small amounts,
+    <p class="lead">If the émigré houses were really outsiders, the records should show it: small amounts,
       higher prices, paper turned away more often than everyone else's. The ledgers show none of that. Four
       simple checks all give the same answer.</p>
   </div>
@@ -435,15 +435,15 @@ footer .colophon{font-family:var(--mono);font-size:10.5px;color:var(--grey);line
   <div class="wide">
     <div class="plate">
       <div class="pl-head"><h4>Who borrowed at the window</h4><span class="pl-no">plate i</span></div>
-      <div class="cap">share of window lending by origin group, per crisis (%). red shades — émigré houses;
-        grey — british &amp; other. émigré totals: 12.5% (1857) · 10.9% (1866) · 15.1% (1914), highest on the
+      <div class="cap">share of window lending by origin group, per crisis (%). red shades are émigré houses,
+        grey is british and other. émigré totals: 12.5% (1857) · 10.9% (1866) · 15.1% (1914), highest on the
         eve of the reversal. hover for values.</div>
       <div class="cwrap tall"><canvas id="chartShare"></canvas></div>
     </div>
   </div>
 
   <h3><span class="k">CHECK 1</span>The same names kept coming back</h3>
-  <div class="col"><p>Six houses appear in all three crises — Huth, Brandt, Kleinwort, Raphael, Frühling &amp;
+  <div class="col"><p>Six houses appear in all three crises: Huth, Brandt, Kleinwort, Raphael, Frühling &amp;
     Goschen, Ralli. A house that shows up at the Bank in panic after panic for nearly sixty years is no
     newcomer. The full register is below: filter it, sort it.</p></div>
   <div class="wide">
@@ -461,7 +461,7 @@ footer .colophon{font-family:var(--mono);font-size:10.5px;color:var(--grey);line
 
   <h3><span class="k">CHECK 2</span>They sat among the biggest borrowers</h3>
   <div class="col"><p>In 1857, twelve of the twenty largest borrowing houses were émigré firms. The count falls
-    in later crises — but that is not decline: their overall share rose to its highest in 1914. What changed is
+    in later crises, but that is not decline: their overall share rose to its highest in 1914. What changed is
     the company at the top, as a few giant clearing banks and discount houses came to borrow enormous single
     amounts. The émigré houses had not shrunk. The banks next to them had just grown much bigger.</p></div>
   <div class="wide">
@@ -479,7 +479,7 @@ footer .colophon{font-family:var(--mono);font-size:10.5px;color:var(--grey);line
   <h3><span class="k">CHECK 3</span>Their paper was not turned away</h3>
   <div class="duo" style="margin-top:20px">
     <div class="col"><p>When a firm brought bills to discount, the Bank could refuse any it doubted. In every
-      crisis the émigré houses were refused at or below the average for all borrowers; only the old English
+      crisis the émigré houses were refused at or below the average for all borrowers, and only the old English
       private banks were trusted slightly more. The émigré houses sat well inside the Bank's normal circle of
       trust.</p></div>
     <div class="plate" style="margin-top:0">
@@ -491,22 +491,22 @@ footer .colophon{font-family:var(--mono);font-size:10.5px;color:var(--grey);line
 
   <h3><span class="k">CHECK 4</span>No penalty for being foreign</h3>
   <div class="duo" style="margin-top:20px">
-    <div class="col"><p>Raw averages actually favour the émigré houses — they paid a little <em>less</em> than
+    <div class="col"><p>Raw averages actually favour the émigré houses, since they paid a little <em>less</em> than
       native British merchants in every crisis. But big houses get better rates, and the émigré group held some
       very big houses. Hold size level and the gap disappears: a simple model per crisis finds an émigré effect
-      on the rate that cannot be told apart from zero — in 1914, about minus one hundredth of one percent.</p>
+      on the rate that cannot be told apart from zero, about minus one hundredth of one percent in 1914.</p>
       <p>This is not a special discount. It is the ordinary price for their size. There was no foreign
-      surcharge — and a market that distrusted them would have charged one.</p></div>
+      surcharge, and a market that distrusted them would have charged one.</p></div>
     <div class="plate" style="margin-top:0">
       <div class="pl-head"><h4>The émigré effect on the rate</h4><span class="pl-no">plate iii</span></div>
-      <div class="cap">dot — estimated extra rate for émigré houses once size is held level; bar — 95% range.
+      <div class="cap">the dot is the estimated extra rate for émigré houses once size is held level, the bar is the 95% range.
         every range crosses zero.</div>
       <div class="cwrap"><canvas id="chartReg"></canvas></div>
     </div>
   </div>
   <figure class="fg wide">
     <img src="figures/e2_rate_vs_size.png" alt="Interest rate against house size, émigré vs British houses" loading="lazy">
-    <figcaption>rate against house size; each point one house in one crisis, émigré in red, british in blue.
+    <figcaption>rate against house size, each point one house in one crisis, émigré in red, british in blue.
       same size, same price. click to enlarge.</figcaption>
   </figure>
 
@@ -515,7 +515,7 @@ footer .colophon{font-family:var(--mono);font-size:10.5px;color:var(--grey);line
     <div class="col"><p>Link two houses when they came to the Bank on the same ledger days more often than
       chance. If the émigré houses were a separate club, émigré–émigré links should be common. Shuffle the
       origin labels 1,000 times across the same graph and the shuffles produce <em>more</em> émigré clustering
-      than the real network shows. They came to the window woven among native houses — not as a foreign
+      than the real network shows. They came to the window woven among native houses, not as a foreign
       corner.</p>
       <figure class="fg" style="margin:26px 0 0">
         <img src="figures/net2_affiliation_clean.png" alt="Co-presence network coloured by origin" loading="lazy">
@@ -536,10 +536,10 @@ footer .colophon{font-family:var(--mono);font-size:10.5px;color:var(--grey);line
   <div class="chap"><span class="no">V</span><h2>1914 — London as the world's window</h2></div>
   <div class="col">
     <p class="lead">The 1914 ledger records whose account each bill really served. It catches the Bank of
-      England acting as a discount window for much of the world — with London's houses as the middlemen who
+      England acting as a discount window for much of the world, with London's houses as the middlemen who
       carried foreign bills to its door.</p>
-    <p>About 76 percent of the intermediated value was for overseas banks and firms. The largest single flow —
-      some £5.7m from Crédit Lyonnais — passed almost entirely through one <em>British</em> house, Glyn, Mills,
+    <p>About 76 percent of the intermediated value was for overseas banks and firms. The largest single flow,
+      some £5.7m from Crédit Lyonnais, passed almost entirely through one <em>British</em> house, Glyn, Mills,
       Currie &amp; Co. So this clearing role belonged to the City as a whole, not to the émigré houses in
       particular. The émigré point in 1914 is about size: their share of the window peaked, at about fifteen
       percent, just as London was doing its most international work.</p>
@@ -553,12 +553,12 @@ footer .colophon{font-family:var(--mono);font-size:10.5px;color:var(--grey);line
     <div class="plate">
       <div class="pl-head"><h4>The conduits</h4><span class="pl-no">plate vi</span></div>
       <div class="cap">london houses by value carried to the bank on others' account. the largest, in red, is
-        glyn mills — a british house clearing for france.</div>
+        glyn mills, a british house clearing for france.</div>
       <div class="cwrap short"><canvas id="chartConduit"></canvas></div>
     </div>
     <figure class="fg">
       <img src="figures/net1_1914_intermediation_sankey.png" alt="Sankey: foreign accounts through London houses to the Bank" loading="lazy">
-      <figcaption>how the world reached the bank of england in 1914 — foreign account, london house, bank.
+      <figcaption>how the world reached the bank of england in 1914: foreign account, london house, bank.
         ribbon width is value. click to enlarge.</figcaption>
     </figure>
   </div>
@@ -569,7 +569,7 @@ footer .colophon{font-family:var(--mono);font-size:10.5px;color:var(--grey);line
   <div class="chap"><span class="no">VI</span><h2>The reversal — made foreign in 1914</h2></div>
   <div class="col">
     <p class="lead">The change does not appear in the Bank's ledgers. It appears in Parliament. Across eight
-      debates between 1914 and 1918 the language is blunt — and beside it runs a vocabulary of shutting down:
+      debates between 1914 and 1918 the language is blunt, and there is also a whole vocabulary of shutting down:
       trading with the enemy, the Public Trustee, sequestration, wound up, sold by auction.</p>
   </div>
 
@@ -585,7 +585,7 @@ footer .colophon{font-family:var(--mono);font-size:10.5px;color:var(--grey);line
     <p>Another telling detail is who was spared. Danish Hambro and Dutch Blydenstein were left alone, because
       Denmark and the Netherlands were neutral. The line that fell across the City in 1914 was not between
       British and foreign at all. It was between Britain's friends and Britain's enemies in this particular
-      war. A German name was now a danger; a Danish one was not.</p>
+      war. A German name was now a danger, while a Danish one was not.</p>
   </div>
 
   <h3 style="margin-top:64px"><span class="k">THE REGISTER</span>What happened to each house</h3>
@@ -611,11 +611,11 @@ footer .colophon{font-family:var(--mono);font-size:10.5px;color:var(--grey);line
     <div class="col"><p>The 1914 ledger straddles the declaration of war on 4 August, so both records can be
       watched in the same months. The émigré houses kept coming to the window right through the autumn, holding
       eleven to seventeen percent of the Bank's lending every war month. The Bank did grow more careful once
-      the panic hit — but for everyone at once. In the same weeks Parliament called these houses enemies, the
+      the panic hit, but for everyone at once. In the same weeks Parliament called these houses enemies, the
       Bank treated them as ordinary customers.</p></div>
     <div class="plate" style="margin-top:0">
       <div class="pl-head"><h4>Rejection around the outbreak of war</h4><span class="pl-no">plate vii</span></div>
-      <div class="cap">share of bill value rejected, %. the bank tightened for everyone at once — not for the
+      <div class="cap">share of bill value rejected, %. the bank tightened for everyone at once, not for the
         émigré houses in particular.</div>
       <div class="cwrap short"><canvas id="chartShock"></canvas></div>
     </div>
@@ -623,23 +623,23 @@ footer .colophon{font-family:var(--mono);font-size:10.5px;color:var(--grey);line
   <div class="duo wide" style="margin-top:30px">
     <figure class="fg" style="margin:0">
       <img src="figures/e4_wartime_treatment.png" alt="The Bank's treatment of émigré houses across 1914" loading="lazy">
-      <figcaption>month by month through 1914 — the émigré share holds double digits all war; rejection rises
+      <figcaption>month by month through 1914: the émigré share holds double digits all war, and rejection rises
         after august for everyone equally.</figcaption>
     </figure>
     <figure class="fg" style="margin:0">
       <img src="figures/x3_wartime_network_shock.png" alt="Wartime network shock test around 4 August 1914" loading="lazy">
-      <figcaption>the network shock test around 4 august 1914 — the window changed, but no targeted exclusion.</figcaption>
+      <figcaption>the network shock test around 4 august 1914: the window changed, but no targeted exclusion.</figcaption>
     </figure>
   </div>
 
-  <div class="pull"><p>They were in, and then they were pushed out — by forces that had nothing to do with
+  <div class="pull"><p>They were in, and then they were pushed out, by forces that had nothing to do with
     banking.</p><div class="who">— two archives, opposite stories</div></div>
 
   <div class="col">
     <p>The ledgers measure economic behaviour, which had made these houses central over many decades. The
       debates measure political status, which changed almost overnight when the war began. What the sources
       show is a fast political exclusion that came after decades of economic inclusion. Their foreignness was
-      not a fact about their banking. It was a label — applied suddenly, by a wartime state and an anxious
+      not a fact about their banking. It was a label, applied suddenly by a wartime state and an anxious
       public, and unevenly: falling on enemies, sparing neutrals.</p>
   </div>
 </div></section>
@@ -668,8 +668,8 @@ footer .colophon{font-family:var(--mono);font-size:10.5px;color:var(--grey);line
     <div class="entry">
       <div class="lab">3<b>processing</b></div>
       <div><h4>Data processing</h4>
-        <p>AI helped with cleaning and structuring the ledger data — matching the many spellings of each house
-        into single firms, organising the origin register.</p></div>
+        <p>AI helped with cleaning and structuring the ledger data, like matching the many spellings of each house
+        into single firms and organising the origin register.</p></div>
     </div>
     <div class="entry">
       <div class="lab">4<b>building</b></div>
@@ -1017,13 +1017,13 @@ const GLOSSARY=[
  ["Discounting / the discount window","Selling a bill to the Bank of England before its due date for slightly less than its face value, to get cash at once. The \"window\" is just the place firms came to do this."],
  ["Émigré house","This project's term for a banking firm founded by a family that came to Britain from abroad — from Germany, Greece, India, the United States."],
  ["Entity resolution","Deciding when two slightly different names (\"J H Schroder\", \"J.H.Schroder\") refer to the same firm, so they can be joined."],
- ["Lender of last resort","The institution — in Britain, the Bank of England — that lends freely in a panic so sound firms do not fail merely for lack of cash. The classic statement is Bagehot's Lombard Street (1873)."],
+ ["Lender of last resort","The institution, in Britain the Bank of England, that lends freely in a panic so sound firms do not fail merely for lack of cash. The classic statement is Bagehot's Lombard Street (1873)."],
  ["Naturalise","To become a British subject by application. Bruno Schröder did this in the first days of the war to save his firm."],
  ["Network analysis","Studying relationships by drawing them as points joined by lines, then measuring the shape that results."],
  ["Prosopography","The study of a group of people through the collected life facts of its members. The origin register is a prosopography of the borrowing houses."],
  ["Public Trustee","A government official who took over and sold the property of enemy firms during the war."],
- ["Sequestration","The seizure of property by the state — here, of enemy owned banks."],
- ["Text mining","Searching and counting words across a body of text to find patterns; used here on the parliamentary debates."]
+ ["Sequestration","The seizure of property by the state, here of enemy owned banks."],
+ ["Text mining","Searching and counting words across a body of text to find patterns, used here on the parliamentary debates."]
 ];
 function renderGloss(q){
  const grid=document.getElementById("glossGrid");
